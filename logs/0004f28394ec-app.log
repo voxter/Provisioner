@@ -1,0 +1,118 @@
+0420133259|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420133312|clist|4|00|dbIO::processResult:copy error
+0420133312|clist|4|00|dbSet::mem2srv:transfer failed
+0420143819|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420143819|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420143821|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420143821|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420143821|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420143821|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420143835|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420143835|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420143837|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420143837|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420143838|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420143838|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420143912|clist|4|00|dbIO::processResult:copy error
+0420143912|clist|4|00|dbSet::mem2srv:transfer failed
+0420144845|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420144845|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420144845|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420144845|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420144915|clist|4|00|dbIO::processResult:copy error
+0420144915|clist|4|00|dbSet::mem2srv:transfer failed
+0420144925|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420144925|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420144927|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420144927|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420144927|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420144927|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420145013|clist|4|00|dbIO::processResult:copy error
+0420145013|clist|4|00|dbSet::mem2srv:transfer failed
+0420145050|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420145050|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420145050|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420145051|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420145111|clist|4|00|dbIO::processResult:copy error
+0420145111|clist|4|00|dbSet::mem2srv:transfer failed
+0420145854|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420145854|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420145854|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420145854|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420145916|clist|4|00|dbIO::processResult:copy error
+0420145916|clist|4|00|dbSet::mem2srv:transfer failed
+0420150343|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420150343|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420150343|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420150343|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420150411|clist|4|00|dbIO::processResult:copy error
+0420150411|clist|4|00|dbSet::mem2srv:transfer failed
+0420153208|sip  |4|00|NAPTR query for host 'ookoffice.ookenterprises.sip.voxter.com' returned no results
+0420161637|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420161637|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420161637|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420161637|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420161711|clist|4|00|dbIO::processResult:copy error
+0420161711|clist|4|00|dbSet::mem2srv:transfer failed
+0420163156|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420163156|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420163831|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420163831|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420163831|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420163831|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420163911|clist|4|00|dbIO::processResult:copy error
+0420163911|clist|4|00|dbSet::mem2srv:transfer failed
+0420173815|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420173815|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420173815|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420173815|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420173911|clist|4|00|dbIO::processResult:copy error
+0420173911|clist|4|00|dbSet::mem2srv:transfer failed
+0420175702|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420175702|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420175702|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420175702|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420175711|clist|4|00|dbIO::processResult:copy error
+0420175711|clist|4|00|dbSet::mem2srv:transfer failed
+0420180322|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420180322|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420180322|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0420180322|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0420180411|clist|4|00|dbIO::processResult:copy error
+0420180411|clist|4|00|dbSet::mem2srv:transfer failed
+0421022808|sip  |4|00|NAPTR query for host 'ookoffice.ookenterprises.sip.voxter.com' returned no results
+0421131650|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421131650|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421131720|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0421131720|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0421131720|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0421131720|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0421131811|clist|4|00|dbIO::processResult:copy error
+0421131811|clist|4|00|dbSet::mem2srv:transfer failed
+0421133607|sip  |4|00|NAPTR query for host 'ookoffice.ookenterprises.sip.voxter.com' returned no results
+0421142434|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421142434|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421142442|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0421142442|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0421142443|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0421142443|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0421142511|clist|4|00|dbIO::processResult:copy error
+0421142511|clist|4|00|dbSet::mem2srv:transfer failed
+0421143219|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421143219|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421143245|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0421143245|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0421143245|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0421143245|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0421143311|clist|4|00|dbIO::processResult:copy error
+0421143311|clist|4|00|dbSet::mem2srv:transfer failed
+0421143314|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421143314|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421144227|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0421144227|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0421144227|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0421144227|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid
+0421144311|clist|4|00|dbIO::processResult:copy error
+0421144311|clist|4|00|dbSet::mem2srv:transfer failed
+0421145525|app1 |4|00|DBS event contains a handle (0xd57880) that's invalid
+0421145525|app1 |4|00|DBS event contains a handle (0xd88cd0) that's invalid

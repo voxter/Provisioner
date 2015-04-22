@@ -14,16 +14,36 @@ require_once LIB_BASE . 'KLogger.php';
 
 class helper_utils {
     public static function get_mac_address($ua, $uri) {
+        $requested_file = helper_utils::strip_uri($uri);
+
+        // Handles Cisco 7940 files that are served via a TFTP->HTTP proxy
+        if (preg_match("/cisco/i", $ua) && preg_match("/7940/", $ua)) {
+            if (preg_match("/[0-9a-fA-F]{12}/", $requested_file, $match_result))
+                return strtolower($match_result[0]); // MAC address
+            else
+                return 'tftp'; // TFTP identifier
+        }
+
+        // Work around for older SPA devices that do not have the Mac Address in the UA string
+        // sipura/spa-1001-2.0.13(seg) (88012eb03492)
+        if (preg_match("/sipura/", $ua) && preg_match("/1001/", $ua)) {
+            if (preg_match("/spa([0-9a-fA-F]{12})/", $requested_file, $match_result))
+                return strtolower($match_result[1]); // MAC address
+        }
+
         // Let's check in the User-Agent
         if (!preg_match("/linksys|cisco/i", $ua) && preg_match("#[0-9a-fA-F]{2}(?=([:-]?))(?:\\1[0-9a-fA-F]{2}){5}#", $ua, $match_result))
             // need to return the mac address without the ':'
             return strtolower(preg_replace('/[:-]/', '', $match_result[0]));
         else 
-            $requested_file = helper_utils::strip_uri($uri);
+            if (!preg_match("/polycom/i", $ua)) $requested_file = helper_utils::strip_uri($uri);
 
-        if (preg_match("#[0-9a-fA-F]{12}#", $requested_file, $match_result))
+        if (preg_match("/linksys|cisco/i", $ua) && preg_match("#spa([0-9a-fA-F]{12})#", $requested_file, $match_result))
+            return strtolower($match_result[1]);
+
+        if (preg_match("#[0-9a-fA-F]{12}#", $requested_file, $match_result)) {
             return strtolower($match_result[0]);
-        else 
+        } else 
             return false;
     }
 
@@ -64,6 +84,11 @@ class helper_utils {
 
     private static function _get_brand_data($brand) {
         $base_folder = MODULES_DIR . $brand . "/";
+        
+        if(!file_exists($base_folder."brand_data.json")) {
+            return array();
+        }
+        
         return json_decode(file_get_contents($base_folder . "brand_data.json"), true);
     }
 
@@ -96,13 +121,17 @@ class helper_utils {
             $log->logInfo('Looking for Polycom...');
             $folder = helper_utils::get_folder("polycom", $model);
             $log->logDebug("Looking into folder: $folder");
+	    $log->logDebug("Here it is: ". $settings->paths->firmwares . $brand . "/" . $folder . "/firmware/");
 
             if (preg_match("/0{12}\.cfg$/", $uri)) {
                 $log->logInfo('File is 000000000000.cfg...');
                 $location = $settings->paths->endpoint . "polycom/000000000000.cfg";
             } elseif (!preg_match("/[a-z0-9_]*\.cfg$/", $uri)) {
-                if (preg_match("/([0-9a-zA-Z\-_]*\.ld)$/", $uri, $match_result))
+                if (preg_match("/([0-9a-zA-Z\-\_\.]*\.ld)$/", $uri, $match_result)) {
+		    $log->logDebug("Test $uri ");
+		    // unsure why match_result contains only the sip.ld portion?
                     $location = $settings->paths->firmwares . $brand . "/" . $folder . "/firmware/" . $match_result[1];
+		}
                 // This is if we have an account_id in the url
                 elseif (preg_match("/(\/[0-9a-fA-F]{32}){0,1}(.*)$/", $uri, $match_result))
                     $location = $settings->paths->endpoint . $brand . "/" . $folder . $match_result[2];

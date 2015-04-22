@@ -1,0 +1,118 @@
+0421155543|clist|4|00|dbCallSet::updateCall:db = NULL
+0421155543|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421155543|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421155648|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0421155648|clist|4|00|dbCallSet::updateCall:db = NULL
+0421155648|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421155648|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421155704|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0421155704|clist|4|00|dbCallSet::updateCall:db = NULL
+0421155704|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421155704|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421161613|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0421161613|clist|4|00|dbCallSet::updateCall:db = NULL
+0421161613|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421161613|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421164240|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0421164240|clist|4|00|dbCallSet::updateCall:db = NULL
+0421182444|sip  |4|00|NAPTR query for host 'fmoffice.fullymanaged.sip.voxter.com' returned no results
+0422003646|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0422003647|ares |4|00|aresDnsLookup: select time-out 2 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0422003648|ares |4|00|aresDnsLookup: select time-out 3 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0422003649|ares |4|00|aresDnsLookup: select time-out 4 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0422003651|ares |4|00|aresDnsLookup: select time-out 5 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0422003653|ares |4|00|aresDnsLookup: select time-out 6 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0422003653|dns  |4|00|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0422003653|sip  |4|00|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'fmoffice.fullymanaged.sip.voxter.com' found no records. 
+0422003715|dns  |4|00|DNS(SRV) query now allowed after unresponsive for 22 (of 10) sec
+0422061716|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0422072913|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422072913|clist|4|00|dbCallSet::updateCall:db = NULL
+0422073904|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422073904|clist|4|00|dbCallSet::updateCall:db = NULL
+0422073904|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422073904|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422074159|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422074159|clist|4|00|dbCallSet::updateCall:db = NULL
+0422081338|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422081338|clist|4|00|dbCallSet::updateCall:db = NULL
+0422081338|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422081338|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422081633|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422081633|clist|4|00|dbCallSet::updateCall:db = NULL
+0422081645|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422081645|clist|4|00|dbCallSet::updateCall:db = NULL
+0422081850|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422081850|clist|4|00|dbCallSet::updateCall:db = NULL
+0422082350|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422082350|clist|4|00|dbCallSet::updateCall:db = NULL
+0422082535|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422082535|clist|4|00|dbCallSet::updateCall:db = NULL
+0422082932|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422082932|clist|4|00|dbCallSet::updateCall:db = NULL
+0422082932|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422082932|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422082948|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422082948|clist|4|00|dbCallSet::updateCall:db = NULL
+0422082948|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422082948|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422083020|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422083020|clist|4|00|dbCallSet::updateCall:db = NULL
+0422083040|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422083040|clist|4|00|dbCallSet::updateCall:db = NULL
+0422083040|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422083040|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422083056|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422083056|clist|4|00|dbCallSet::updateCall:db = NULL
+0422083056|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422083056|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422083113|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422083113|clist|4|00|dbCallSet::updateCall:db = NULL
+0422083113|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422083113|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422083117|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422083117|clist|4|00|dbCallSet::updateCall:db = NULL
+0422083317|ares |4|00|aresDnsLookup: select time-out 1 on NAPTR lookup for 'fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0422083623|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422083623|clist|4|00|dbCallSet::updateCall:db = NULL
+0422083623|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422083623|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422083705|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422083705|clist|4|00|dbCallSet::updateCall:db = NULL
+0422083705|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422083705|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422090335|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422090335|clist|4|00|dbCallSet::updateCall:db = NULL
+0422090335|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422090335|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422090351|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422090351|clist|4|00|dbCallSet::updateCall:db = NULL
+0422090351|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422090351|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422090518|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422090518|clist|4|00|dbCallSet::updateCall:db = NULL
+0422090518|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422090518|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422090534|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422090534|clist|4|00|dbCallSet::updateCall:db = NULL
+0422090534|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422090534|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422090834|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422090834|clist|4|00|dbCallSet::updateCall:db = NULL
+0422090834|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422090834|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422090858|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422090858|clist|4|00|dbCallSet::updateCall:db = NULL
+0422090858|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422090858|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422092224|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422092224|clist|4|00|dbCallSet::updateCall:db = NULL
+0422092224|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422092224|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422092336|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422092336|clist|4|00|dbCallSet::updateCall:db = NULL
+0422092336|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422092336|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0422092408|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xf2c568>
+0422092408|clist|4|00|dbCallSet::updateCall:db = NULL
+0422092408|so   |4|00|IsDivertFeaturesEnabled - EXIT

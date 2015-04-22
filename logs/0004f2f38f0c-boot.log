@@ -1,0 +1,390 @@
+000000.315|so   |*|01|---------- Initial log entry ----------
+000000.315|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.315|boot |*|01|Initial log entry. Current logging level 3
+000000.315|copy |*|01|Initial log entry. Current logging level 3
+000000.315|utilm|*|01|Initial log entry. Current logging level 4
+000000.315|hw   |*|01|Initial log entry. Current logging level 4
+000000.315|ethf |*|01|Initial log entry. Current logging level 4
+000000.315|dns  |*|01|Initial log entry. Current logging level 3
+000000.315|curl |*|01|Initial log entry. Current logging level 3
+000000.315|sec  |*|01|Initial log entry. Current logging level 4
+000000.475|wdog |*|01|Initial log entry. Current logging level 4
+000000.475|lldp |*|01|Initial log entry. Current logging level 3
+000000.475|cdp  |*|01|Initial log entry. Current logging level 3
+000000.475|key  |*|01|Initial log entry. Current logging level 4
+000000.475|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.475|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.475|so   |3|01|Platform: MAC=0004f2f38f0c
+000000.475|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.475|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.475|so   |3|01|Application, main: P/N=3150-11069-507
+000000.475|log  |*|01|Install file upload callback for 'Updater'
+
+000000.475|app1 |*|01|Initial log entry. Current logging level 3
+000000.620|cfg  |*|01|Initial log entry. Current logging level 2
+000000.700|app1 |3|01|Application, load: Type=SIP, Version=4.0.7.2514 13-Jul-14 22:13
+000000.710|boot |*|01|Using TFFS for flash load
+000000.735|boot |*|01|Code length:         0x003CD570
+000000.735|boot |*|01|Code checksum:       0x1E4C97B9
+000001.470|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.150|app1 |4|01|Loaded application unknown from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.445|wdog |*|01|Initial log entry. Current logging level 4
+000000.445|lldp |*|01|Initial log entry. Current logging level 3
+000000.445|cdp  |*|01|Initial log entry. Current logging level 3
+000000.445|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f38f0c
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.445|so   |3|01|Application, main: P/N=3150-11069-507
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.450|app1 |*|01|Initial log entry. Current logging level 3
+000000.590|cfg  |*|01|Initial log entry. Current logging level 2
+000000.665|app1 |3|01|Application, load: Type=SIP, Version=4.0.7.2514 13-Jul-14 22:13
+000000.680|boot |*|01|Using TFFS for flash load
+000000.700|boot |*|01|Code length:         0x003CD570
+000000.700|boot |*|01|Code checksum:       0x1E4C97B9
+000001.445|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.115|app1 |4|01|Loaded application unknown from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.445|wdog |*|01|Initial log entry. Current logging level 4
+000000.445|lldp |*|01|Initial log entry. Current logging level 3
+000000.445|cdp  |*|01|Initial log entry. Current logging level 3
+000000.445|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f38f0c
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.445|so   |3|01|Application, main: P/N=3150-11069-507
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.590|cfg  |*|01|Initial log entry. Current logging level 2
+000000.670|app1 |3|01|Application, load: Type=SIP, Version=4.0.7.2514 13-Jul-14 22:13
+000000.695|boot |*|01|Using TFFS for flash load
+000000.730|boot |*|01|Code length:         0x003CD570
+000000.730|boot |*|01|Code checksum:       0x1E4C97B9
+000001.445|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.200|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.290|so   |*|01|---------- Initial log entry ----------
+000000.290|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.290|boot |*|01|Initial log entry. Current logging level 3
+000000.290|copy |*|01|Initial log entry. Current logging level 3
+000000.290|utilm|*|01|Initial log entry. Current logging level 4
+000000.290|hw   |*|01|Initial log entry. Current logging level 4
+000000.290|ethf |*|01|Initial log entry. Current logging level 4
+000000.290|dns  |*|01|Initial log entry. Current logging level 3
+000000.290|curl |*|01|Initial log entry. Current logging level 3
+000000.290|sec  |*|01|Initial log entry. Current logging level 4
+000000.450|wdog |*|01|Initial log entry. Current logging level 4
+000000.450|lldp |*|01|Initial log entry. Current logging level 3
+000000.450|cdp  |*|01|Initial log entry. Current logging level 3
+000000.450|key  |*|01|Initial log entry. Current logging level 4
+000000.450|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.450|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.450|so   |3|01|Platform: MAC=0004f2f38f0c
+000000.450|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.450|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.450|so   |3|01|Application, main: P/N=3150-11069-507
+000000.450|log  |*|01|Install file upload callback for 'Updater'
+
+000000.455|app1 |*|01|Initial log entry. Current logging level 3
+000000.595|cfg  |*|01|Initial log entry. Current logging level 2
+000000.675|app1 |3|01|Application, load: Type=SIP, Version=4.0.7.2514 13-Jul-14 22:13
+000000.685|boot |*|01|Using TFFS for flash load
+000000.705|boot |*|01|Code length:         0x003CD570
+000000.705|boot |*|01|Code checksum:       0x1E4C97B9
+000001.450|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.205|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.290|so   |*|01|---------- Initial log entry ----------
+000000.290|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.290|boot |*|01|Initial log entry. Current logging level 3
+000000.290|copy |*|01|Initial log entry. Current logging level 3
+000000.290|utilm|*|01|Initial log entry. Current logging level 4
+000000.290|hw   |*|01|Initial log entry. Current logging level 4
+000000.290|ethf |*|01|Initial log entry. Current logging level 4
+000000.290|dns  |*|01|Initial log entry. Current logging level 3
+000000.290|curl |*|01|Initial log entry. Current logging level 3
+000000.290|sec  |*|01|Initial log entry. Current logging level 4
+000000.450|wdog |*|01|Initial log entry. Current logging level 4
+000000.450|lldp |*|01|Initial log entry. Current logging level 3
+000000.450|cdp  |*|01|Initial log entry. Current logging level 3
+000000.450|key  |*|01|Initial log entry. Current logging level 4
+000000.450|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.450|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.450|so   |3|01|Platform: MAC=0004f2f38f0c
+000000.450|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.450|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.450|so   |3|01|Application, main: P/N=3150-11069-507
+000000.450|log  |*|01|Install file upload callback for 'Updater'
+
+000000.455|app1 |*|01|Initial log entry. Current logging level 3
+000000.595|cfg  |*|01|Initial log entry. Current logging level 2
+000000.675|app1 |3|01|Application, load: Type=SIP, Version=4.0.7.2514 13-Jul-14 22:13
+000000.685|boot |*|01|Using TFFS for flash load
+000000.705|boot |*|01|Code length:         0x003CD570
+000000.705|boot |*|01|Code checksum:       0x1E4C97B9
+000001.450|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.205|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.290|so   |*|01|---------- Initial log entry ----------
+000000.290|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.290|boot |*|01|Initial log entry. Current logging level 3
+000000.290|copy |*|01|Initial log entry. Current logging level 3
+000000.290|utilm|*|01|Initial log entry. Current logging level 4
+000000.290|hw   |*|01|Initial log entry. Current logging level 4
+000000.290|ethf |*|01|Initial log entry. Current logging level 4
+000000.290|dns  |*|01|Initial log entry. Current logging level 3
+000000.290|curl |*|01|Initial log entry. Current logging level 3
+000000.290|sec  |*|01|Initial log entry. Current logging level 4
+000000.450|wdog |*|01|Initial log entry. Current logging level 4
+000000.450|lldp |*|01|Initial log entry. Current logging level 3
+000000.450|cdp  |*|01|Initial log entry. Current logging level 3
+000000.450|key  |*|01|Initial log entry. Current logging level 4
+000000.450|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.450|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.450|so   |3|01|Platform: MAC=0004f2f38f0c
+000000.450|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.450|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.450|so   |3|01|Application, main: P/N=3150-11069-507
+000000.450|log  |*|01|Install file upload callback for 'Updater'
+
+000000.450|app1 |*|01|Initial log entry. Current logging level 3
+000000.595|cfg  |*|01|Initial log entry. Current logging level 2
+000000.675|app1 |3|01|Application, load: Type=SIP, Version=4.0.7.2514 13-Jul-14 22:13
+000000.685|boot |*|01|Using TFFS for flash load
+000000.705|boot |*|01|Code length:         0x003CD570
+000000.705|boot |*|01|Code checksum:       0x1E4C97B9
+000001.450|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.205|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.445|wdog |*|01|Initial log entry. Current logging level 4
+000000.445|lldp |*|01|Initial log entry. Current logging level 3
+000000.445|cdp  |*|01|Initial log entry. Current logging level 3
+000000.445|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f38f0c
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.445|so   |3|01|Application, main: P/N=3150-11069-507
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.590|cfg  |*|01|Initial log entry. Current logging level 2
+000000.670|app1 |3|01|Application, load: Type=SIP, Version=4.0.7.2514 13-Jul-14 22:13
+000000.680|boot |*|01|Using TFFS for flash load
+000000.690|boot |*|01|Code length:         0x003CD570
+000000.690|boot |*|01|Code checksum:       0x1E4C97B9
+000001.445|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.120|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.445|wdog |*|01|Initial log entry. Current logging level 4
+000000.445|lldp |*|01|Initial log entry. Current logging level 3
+000000.445|cdp  |*|01|Initial log entry. Current logging level 3
+000000.445|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f38f0c
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.445|so   |3|01|Application, main: P/N=3150-11069-507
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.590|cfg  |*|01|Initial log entry. Current logging level 2
+000000.665|app1 |3|01|Application, load: Type=SIP, Version=4.0.7.2514 13-Jul-14 22:13
+000000.680|boot |*|01|Using TFFS for flash load
+000000.690|boot |*|01|Code length:         0x003CD570
+000000.690|boot |*|01|Code checksum:       0x1E4C97B9
+000001.445|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.120|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.445|wdog |*|01|Initial log entry. Current logging level 4
+000000.445|lldp |*|01|Initial log entry. Current logging level 3
+000000.445|cdp  |*|01|Initial log entry. Current logging level 3
+000000.445|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f38f0c
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.445|so   |3|01|Application, main: P/N=3150-11069-507
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.590|cfg  |*|01|Initial log entry. Current logging level 2
+000000.670|app1 |3|01|Application, load: Type=SIP, Version=4.0.7.2514 13-Jul-14 22:13
+000000.680|boot |*|01|Using TFFS for flash load
+000000.690|boot |*|01|Code length:         0x003CD570
+000000.690|boot |*|01|Code checksum:       0x1E4C97B9
+000001.445|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.120|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.445|wdog |*|01|Initial log entry. Current logging level 4
+000000.445|lldp |*|01|Initial log entry. Current logging level 3
+000000.445|cdp  |*|01|Initial log entry. Current logging level 3
+000000.445|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f38f0c
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.445|so   |3|01|Application, main: P/N=3150-11069-507
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.590|cfg  |*|01|Initial log entry. Current logging level 2
+000000.670|app1 |3|01|Application, load: Type=SIP, Version=4.0.7.2514 13-Jul-14 22:13
+000000.680|boot |*|01|Using TFFS for flash load
+000000.690|boot |*|01|Code length:         0x003CD570
+000000.690|boot |*|01|Code checksum:       0x1E4C97B9
+000001.445|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.120|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.445|wdog |*|01|Initial log entry. Current logging level 4
+000000.445|lldp |*|01|Initial log entry. Current logging level 3
+000000.445|cdp  |*|01|Initial log entry. Current logging level 3
+000000.445|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f38f0c
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.445|so   |3|01|Application, main: P/N=3150-11069-507
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.590|cfg  |*|01|Initial log entry. Current logging level 2
+000000.670|app1 |3|01|Application, load: Type=SIP, Version=4.0.7.2514 13-Jul-14 22:13
+000000.680|boot |*|01|Using TFFS for flash load
+000000.690|boot |*|01|Code length:         0x003CD570
+000000.690|boot |*|01|Code checksum:       0x1E4C97B9
+000001.445|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.120|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.445|wdog |*|01|Initial log entry. Current logging level 4
+000000.445|lldp |*|01|Initial log entry. Current logging level 3
+000000.445|cdp  |*|01|Initial log entry. Current logging level 3
+000000.445|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f38f0c
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.445|so   |3|01|Application, main: P/N=3150-11069-507
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.590|cfg  |*|01|Initial log entry. Current logging level 2
+000000.670|app1 |3|01|Application, load: Type=SIP, Version=4.0.7.2514 13-Jul-14 22:13
+000000.680|boot |*|01|Using TFFS for flash load
+000000.690|boot |*|01|Code length:         0x003CD570
+000000.690|boot |*|01|Code checksum:       0x1E4C97B9
+000001.445|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.120|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.445|wdog |*|01|Initial log entry. Current logging level 4
+000000.445|lldp |*|01|Initial log entry. Current logging level 3
+000000.445|cdp  |*|01|Initial log entry. Current logging level 3
+000000.445|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f38f0c
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.445|so   |3|01|Application, main: P/N=3150-11069-507
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.450|app1 |*|01|Initial log entry. Current logging level 3
+000000.590|cfg  |*|01|Initial log entry. Current logging level 2
+000000.670|app1 |3|01|Application, load: Type=SIP, Version=4.0.7.2514 13-Jul-14 22:13
+000000.680|boot |*|01|Using TFFS for flash load
+000000.690|boot |*|01|Code length:         0x003CD570
+000000.690|boot |*|01|Code checksum:       0x1E4C97B9
+000001.445|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.120|app1 |4|01|Loaded application sip.ld from local system successfully.

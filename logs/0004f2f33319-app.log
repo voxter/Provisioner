@@ -1,0 +1,8 @@
+0420034150|log  |4|03|UtilLogC: Upload succeeded. (ConsecutiveFailures 4 Total 5 MsgSendErr 0)
+0420125544|app1 |*|03|Ctx [0] Registered [false]
+0420125718|app1 |*|03|Ctx [0] Registered [true]
+0420130119|ares |4|03|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.cumulus.voxter.sip.voxter.com' after 1 sec
+0420130218|app1 |*|03|Ctx [0] Registered [false]
+0420130250|app1 |*|03|Ctx [0] Registered [true]
+0420185049|sip  |4|03|NAPTR query for host 'cumulus.voxter.sip.voxter.com' returned no results
+0421170248|sip  |4|03|NAPTR query for host 'cumulus.voxter.sip.voxter.com' returned no results

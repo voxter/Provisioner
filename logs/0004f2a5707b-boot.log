@@ -1,0 +1,27 @@
+1103062320|app1 |3|00|   1414995800: 2014-11-3, 6:23:20, DST off
+1103062320|cfg  |*|00|Prov|Starting to update 2345-12365-001.bootrom.ld
+1103062320|dns  |3|00|DNS lookup for 'p.voxter.com'(74.114.208.245) TTL=18993
+1103062320|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12365-001.bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+1103062320|cfg  |3|00|Image 2345-12365-001.bootrom.ld has not changed
+1103062320|copy |3|00|buffered_write: transfer terminated
+1103062320|copy |3|00|Download of '2345-12365-001.bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+1103062320|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/0004f2a5707b.cfg' from 'p.voxter.com(74.114.208.245)'
+1103062321|copy |3|00|Download of '0004f2a5707b.cfg' succeeded on attempt 1 (addr 1 of 1)
+1103062321|cfg  |*|00|Prov|Starting to update 2345-12365-001.sip.ld
+1103062321|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12365-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+1103062321|cfg  |3|00|New load header information:
+1103062321|cfg  |3|00|Code length:         0x00464FE8
+1103062321|cfg  |3|00|Header check Sum:    0x07508F71
+1103062321|cfg  |3|00|Code check Sum:      0x070A3E61
+1103062321|cfg  |3|00|Options:             0x00000080
+1103062321|cfg  |5|00|Error: file does not contain a compatible image
+1103062321|cfg  |5|00|  Compatibility for image 0 is 0x400000
+1103062321|copy |3|00|buffered_write: transfer terminated
+1103062321|copy |3|00|Download of '2345-12365-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+1103062321|cfg  |4|00|Prov|File 2345-12365-001.sip.ld was not compatible with the phone
+1103062321|app1 |4|00|Image is not compatible with the phone.
+1103062321|cfg  |3|00|Prov|Provisioning succeeded
+1103062326|app1 |3|00|Application, load: Type=SIP, Version=3.2.0.0157 17-Aug-09 18:23
+1103062332|app1 |4|00|Loaded application sip.ld from local system successfully.
+1103062332|app1 |6|00|Uploading boot log, time is MON NOV 03 06:23:32 2014
+

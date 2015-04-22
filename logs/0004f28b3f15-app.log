@@ -1,0 +1,4 @@
+0420080338|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0420125617|sip  |4|00|Registration failed User: 3835, Error Code:480 Temporarily not available
+0420145933|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
+0421055133|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results

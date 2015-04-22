@@ -1,0 +1,29 @@
+0420075328|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0420092525|clist|4|00|dbIO::processResult:copy error
+0420092525|clist|4|00|dbSet::mem2srv:transfer failed
+0420093911|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420093911|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420094525|clist|4|00|dbIO::processResult:copy error
+0420094525|clist|4|00|dbSet::mem2srv:transfer failed
+0420100929|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.vantage.fullymanaged.sip.voxter.com' after 0 sec
+0420153522|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420153522|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420153603|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420153603|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420153622|clist|4|00|dbIO::processResult:copy error
+0420153622|clist|4|00|dbSet::mem2srv:transfer failed
+0420153722|clist|4|00|dbIO::processResult:copy error
+0420153722|clist|4|00|dbSet::mem2srv:transfer failed
+0420153922|clist|4|00|dbIO::processResult:copy error
+0420153922|clist|4|00|dbSet::mem2srv:transfer failed
+0421052756|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0421081422|clist|4|00|dbIO::processResult:copy error
+0421081422|clist|4|00|dbSet::mem2srv:transfer failed
+0421081822|clist|4|00|dbIO::processResult:copy error
+0421081822|clist|4|00|dbSet::mem2srv:transfer failed
+0421085122|clist|4|00|dbIO::processResult:copy error
+0421085122|clist|4|00|dbSet::mem2srv:transfer failed
+0421102822|clist|4|00|dbIO::processResult:copy error
+0421102822|clist|4|00|dbSet::mem2srv:transfer failed
+0421115222|clist|4|00|dbIO::processResult:copy error
+0421115222|clist|4|00|dbSet::mem2srv:transfer failed

@@ -1,5 +1,4 @@
 <?php 
-
 /**
  * All methods in this class are protected - Some more than others
  * Brand/family/model APIs

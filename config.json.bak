@@ -1,0 +1,27 @@
+{
+    "version": "5.2.1",
+    "static_data_source": "database",
+    "adapter": "2600hz",
+    "db_prefix": "provisioner_",
+
+    "paths": {
+        "endpoint": "/endpoint/",
+        "firmwares": "http://api.voxter.com/firmware/"
+    },
+
+    "database": {
+        "type": "bigcouch",
+        "url": "http://couchadmin:sp4r3ch4ng3@localhost",
+        "port": 15984,
+
+        "master_provider": {
+            "name": "Voxter",
+            "ip": [
+                "::1",
+                "127.0.0.1",
+                "74.114.208.40",
+                "74.114.208.41"],
+            "domain": "p.voxter.com"
+        }
+    }
+}

@@ -40,8 +40,10 @@
     "spa1001": {
         "folder": "linksysata",
         "config_files": [
-            "$model.cfg",
-            "spa$mac.xml"
+            "spa$mac-1001.xml"
+        ],
+        "regexs": [
+            "/spa([a-f0-9]{12})\\.xml/i"
         ]
     },
 
@@ -50,6 +52,54 @@
         "config_files": [
             "$model.cfg",
             "spa$mac.xml"
+        ]
+    },
+
+    "spa112": {
+        "folder": "linksysata",
+        "config_files": [
+            "$model.cfg",
+            "spa$mac.xml"
+        ],
+        "regexs": [
+            "/.*\\.cfg$/i",
+            "/spa([a-f0-9]{12})\\.xml/i"
+        ]
+    },
+
+    "spa112-highlatency": {
+        "folder": "linksysata",
+        "config_files": [
+            "$model.cfg",
+            "spa$mac-highlatency.xml"
+        ],
+        "regexs": [
+            "/.*\\.cfg$/i",
+            "/spa([a-f0-9]{12})\\.xml/i"
+        ]
+    },
+
+    "spa122": {
+        "folder": "linksysata",
+        "config_files": [
+            "$model.cfg",
+            "spa$mac.xml"
+        ],
+        "regexs": [
+            "/.*\\.cfg$/i",
+            "/spa([a-f0-9]{12})\\.xml/i"
+        ]
+    },
+
+    "spa122-highlatency": {
+        "folder": "linksysata",
+        "config_files": [
+            "$model.cfg",
+            "spa$maci-highlatency.xml"
+        ],
+        "regexs": [
+            "/.*\\.cfg$/i",
+            "/spa([a-f0-9]{12})\\.xml/i"
         ]
     },
 
@@ -96,7 +146,6 @@
     "7940g": {
         "folder": "sip79x1g",
         "config_files": [
-            "SEP$mac.cnf.xml",
             "XMLDefault.cnf.xml",
             "RINGLIST.DAT",
             "ringlist.xml",
@@ -126,15 +175,39 @@
         ]
     },
 
+    "7940broken": {
+        "folder": "sip79xx",
+        "config_files": [
+            "SIP$mac.cnf",
+            "SIPDefault.cnf",
+            "RINGLIST.DAT",
+            "dialplan.xml",
+            "P0S3-08-9-00.loads",
+            "P0S3-08-9-00.sb2"
+        ],
+        "regexs": [
+            "/SIP([a-f0-9]{12})\\.cnf/i",
+            "/SIPDefault\\.cnf$/i",
+            "/.*\\.dat$/i",
+            "/dialplan\\.xml$/i",
+            "/P0S3\\-08\\-9\\-00\\.loads/",
+            "/P0S3\\-08\\-9\\-00\\.sb2/"
+        ]
+    },
+
     "7940": {
         "folder": "sip79xx",
         "config_files": [
             "SIP$mac.cnf",
             "SIPDefault.cnf",
-            "XMLDefault.cnf.xml",
-            "SEP$mac.cnf.xml",
             "RINGLIST.DAT",
-            "ringlist.xml"
+            "dialplan.xml"
+        ],
+        "regexs": [
+            "/SIP([a-f0-9]{12})\\.cnf/i",
+            "/SIPDefault\\.cnf$/i",
+            "/.*\\.dat$/i",
+            "/dialplan\\.xml$/i"
         ]
     },
 
@@ -147,6 +220,11 @@
             "SEP$mac.cnf.xml",
             "RINGLIST.DAT",
             "ringlist.xml"
+        ],
+        "regexs": [
+            "/SIP([a-f0-9]{12})\\.cnf/i",
+            "/.*\\.cnf$/i",
+            "/.*\\.xml$/i"
         ]
     },
 
@@ -265,6 +343,20 @@
     },
 
     "504g": {
+        "folder": "spa5xx",
+        "config_files": [
+            "$model.cfg",
+            "spa$mac.xml",
+            "directory.xml"
+        ],
+        "regexs": [
+            "/spa.*\\.cfg$/i",
+            "/[a-z0-9]{12}\\.xml/i",
+            "/directory\\.xml/i"
+        ]
+    },
+
+    "508g": {
         "folder": "spa5xx",
         "config_files": [
             "$model.cfg",

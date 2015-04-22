@@ -1,0 +1,12 @@
+0306110228|ldap |4|03|cDynamicData::cDynamicData:cDynamicData:Failed
+0306110228|efk  |*|03|Initial log entry. Current logging level 4
+0306110228|app1 |4|03|[AppUserLoginC::Init]:flushing user cache file failed
+0306110228|utilm|4|03|uBLFCompressed: File /ffs0/local/local-directory_xml.zzz does not exist or is empty
+0306110228|app1 |*|03|Ctx [0] Registered [false]
+0306110229|app1 |5|03|Corporate directory instance does not exists.
+0306110229|sip  |4|03|NAPTR query for host 'cumulus.voxter.sip.voxter.com' returned no results
+0306110229|sip  |*|03|Fast Boot Measurement Point: Ready for Call, uptime: 39.024 sec.
+0306110229|app1 |*|03|Ctx [0] Registered [true]
+0306110229|cfg  |4|03|Dir|0x9557cb10|Directory contains too many contacts (limit 99)
+0306110229|cfg  |4|03|Edit|Error 0x3d0002 loading local cfg /ffs0/local/local-directory_xml.zzz
+0306110229|cfg  |4|03|Dir|0x9557cb10|Directory "/contacts/0004f2f3ad7c-directory.xml" structure error: "item" element outside of "item_list" element

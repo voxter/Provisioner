@@ -1,0 +1,29 @@
+0420073550|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0420085852|app1 |4|00|DBS event contains a handle (0xd4fb10) that's invalid
+0420085852|app1 |4|00|DBS event contains a handle (0xd66018) that's invalid
+0420085923|clist|4|00|dbIO::processResult:copy error
+0420085923|clist|4|00|dbSet::mem2srv:transfer failed
+0420104143|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420104143|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420104202|app1 |4|00|DBS event contains a handle (0xd4fb10) that's invalid
+0420104202|app1 |4|00|DBS event contains a handle (0xd66018) that's invalid
+0420104223|clist|4|00|dbIO::processResult:copy error
+0420104223|clist|4|00|dbSet::mem2srv:transfer failed
+0420125624|sip  |4|00|Registration failed User: 3805, Error Code:480 Temporarily not available
+0420142129|app1 |4|00|DBS event contains a handle (0xd4fb10) that's invalid
+0420142129|app1 |4|00|DBS event contains a handle (0xd66018) that's invalid
+0420142221|clist|4|00|dbIO::processResult:copy error
+0420142221|clist|4|00|dbSet::mem2srv:transfer failed
+0420173741|app1 |4|00|DBS event contains a handle (0xd4fb10) that's invalid
+0420173741|app1 |4|00|DBS event contains a handle (0xd66018) that's invalid
+0420173821|clist|4|00|dbIO::processResult:copy error
+0420173821|clist|4|00|dbSet::mem2srv:transfer failed
+0420174034|app1 |4|00|DBS event contains a handle (0xd4fb10) that's invalid
+0420174034|app1 |4|00|DBS event contains a handle (0xd66018) that's invalid
+0420174121|clist|4|00|dbIO::processResult:copy error
+0420174121|clist|4|00|dbSet::mem2srv:transfer failed
+0421051048|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0421130308|app1 |4|00|DBS event contains a handle (0xd4fb10) that's invalid
+0421130308|app1 |4|00|DBS event contains a handle (0xd66018) that's invalid
+0421130321|clist|4|00|dbIO::processResult:copy error
+0421130321|clist|4|00|dbSet::mem2srv:transfer failed

@@ -1,0 +1,3 @@
+0420060204|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
+0420090705|sip  |4|00|NAPTR query for host 'sampleinc.fullymanaged.sip.voxter.com' returned no results
+0421122848|sip  |4|00|NAPTR query for host 'sampleinc.fullymanaged.sip.voxter.com' returned no results

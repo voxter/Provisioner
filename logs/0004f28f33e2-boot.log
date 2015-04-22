@@ -1,0 +1,872 @@
+0414015908|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414015908|copy |3|00|Making further upload attempts for 'logs/0004f28f33e2-boot.log'
+0414015909|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414015909|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 3 (addr 1 of 1)
+0414015909|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414015909|log  |4|00|UtilLogC::uploadFifoLog: upload error. protocol 0 result = -1
+0414015914|app1 |5|00|Unknown provisioning state 44.
+0414015914|app1 |3|00|Event: Multiple Key Combo 1
+0414015914|app1 |6|00|Manual Reboot
+0414015917|wdog |*|00|Watchdog Expired: tApp1, 13
+000008.336|so   |*|00|---------- Initial log entry ----------
+000008.336|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.336|boot |*|00|Initial log entry. Current logging level 3
+000008.336|copy |*|00|Initial log entry. Current logging level 3
+000008.337|utilm|*|00|Initial log entry. Current logging level 4
+000008.337|hw   |*|00|Initial log entry. Current logging level 4
+000008.337|ethf |*|00|Initial log entry. Current logging level 4
+000008.337|dns  |*|00|Initial log entry. Current logging level 3
+000008.337|curl |*|00|Initial log entry. Current logging level 3
+000008.337|sec  |*|00|Initial log entry. Current logging level 4
+000008.346|wdog |*|00|Initial log entry. Current logging level 4
+000008.346|lldp |*|00|Initial log entry. Current logging level 3
+000008.346|cdp  |*|00|Initial log entry. Current logging level 3
+000008.346|key  |*|00|Initial log entry. Current logging level 4
+000008.468|hw   |6|00|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x4438.34
+000008.469|so   |3|00|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000008.469|so   |3|00|Platform: Board=3111-44500-001 7 0
+000008.470|so   |3|00|Platform: MAC=0004f28f33e2
+000008.471|so   |3|00|Platform: BootBlock=3.0.4.0033 (44500-001) 11-Jul-12 12:30
+000008.471|so   |*|00|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000008.471|so   |3|00|Application, main: Label=Updater, Version=Azurite 5.0.8.1205 07-Feb-15 10:16
+000008.471|so   |3|00|Application, main: P/N=3150-11069-508
+000008.472|log  |*|00|Install file upload callback for 'Updater'
+
+000008.472|app1 |*|00|Initial log entry. Current logging level 3
+000008.501|cfg  |*|00|Initial log entry. Current logging level 2
+000008.504|app1 |3|00|Application image is not present.
+000008.513|dot1x|*|00|Initial log entry. Current logging level 3
+000008.643|tls  |*|00|Initial log entry. Current logging level 4
+000009.340|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC up Speed 1000 full Duplex.
+000010.976|lldp |3|00|Enabling 802.1Q tagging, VLAN ID = 200 (from LLDP/CDP)
+000010.976|lldp |5|00|VLAN Id has changed to 200.
+000014.716|lldp |3|00|LLDP received a response from a switch. LLDP enabled.
+000014.770|dhcpc|*|00|Initial log entry. Current logging level 4
+000017.164|dns  |*|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000017.164|dns  |*|00|DNS resolver search domain is ''
+000017.164|app1 |3|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000017.164|app1 |3|00|DNS resolver search domain is ''
+000017.184|dns  |3|00|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=17277
+000017.185|app1 |3|00|DHCP returned result 0x1AF from server 10.2.0.1.
+000017.185|app1 |3|00|   Phone IP address is 10.2.0.228.
+000017.185|app1 |3|00|   Subnet mask is 255.255.255.0.
+000017.185|app1 |3|00|   Gateway address is 10.2.0.1.
+000017.185|app1 |3|00|   Provisioning server address is https://p.voxter.com.
+000017.185|app1 |3|00|   Time server is 199.19.167.36.
+000017.185|app1 |3|00|   DNS server is 8.8.8.8.
+000017.185|app1 |3|00|   DNS alternate server is 8.8.4.4.
+0414015950|app1 |3|00|Time has been set from 199.19.167.36 (199.19.167.36).
+0414015950|app1 |3|00|   1428976790: 2015-4-14, 1:59:50, DST off
+0414015950|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414015950|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 1 (addr 1 of 1)
+0414015950|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414015950|copy |3|00|Making further download attempts for '0004f28f33e2.cfg'
+0414015951|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414015951|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 2 (addr 1 of 1)
+0414015951|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414015951|copy |3|00|Making further download attempts for '0004f28f33e2.cfg'
+0414015952|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414015952|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 3 (addr 1 of 1)
+0414015952|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414015952|copy |3|00|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+0414015952|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414015952|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 1 (addr 1 of 1)
+0414015952|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414015952|copy |3|00|Making further download attempts for '000000000000.cfg'
+0414015953|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414015953|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 2 (addr 1 of 1)
+0414015953|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414015953|copy |3|00|Making further download attempts for '000000000000.cfg'
+0414015954|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414015954|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 3 (addr 1 of 1)
+0414015954|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414015954|copy |3|00|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+0414015954|cfg  |4|00|Prov|Download of master configuration file failed
+0414015954|cfg  |4|00|Prov|Trying to boot from existing configuration
+0414015954|cfg  |4|00|Prov|Provisioning failed
+0414015954|cfg  |*|00|Prov|Finished updating configuration
+0414015959|app1 |6|00|Error application is not present.
+0414015959|app1 |6|00|Uploading boot log, time is Tue Apr 14 01:59:59 2015
+
+0414015959|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414015959|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 1 (addr 1 of 1)
+0414015959|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414015959|copy |3|00|Making further upload attempts for 'logs/0004f28f33e2-boot.log'
+0414020000|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020000|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 2 (addr 1 of 1)
+0414020000|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020000|copy |3|00|Making further upload attempts for 'logs/0004f28f33e2-boot.log'
+0414020001|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020001|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 3 (addr 1 of 1)
+0414020001|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020001|log  |4|00|UtilLogC::uploadFifoLog: upload error. protocol 0 result = -1
+0414020006|app1 |5|00|Unknown provisioning state 44.
+0414020006|app1 |3|00|Event: Multiple Key Combo 1
+0414020006|app1 |6|00|Manual Reboot
+0414020009|wdog |*|00|Watchdog Expired: tApp1, 13
+000008.312|so   |*|00|---------- Initial log entry ----------
+000008.312|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.312|boot |*|00|Initial log entry. Current logging level 3
+000008.312|copy |*|00|Initial log entry. Current logging level 3
+000008.312|utilm|*|00|Initial log entry. Current logging level 4
+000008.312|hw   |*|00|Initial log entry. Current logging level 4
+000008.312|ethf |*|00|Initial log entry. Current logging level 4
+000008.312|dns  |*|00|Initial log entry. Current logging level 3
+000008.312|curl |*|00|Initial log entry. Current logging level 3
+000008.312|sec  |*|00|Initial log entry. Current logging level 4
+000008.321|wdog |*|00|Initial log entry. Current logging level 4
+000008.322|lldp |*|00|Initial log entry. Current logging level 3
+000008.322|cdp  |*|00|Initial log entry. Current logging level 3
+000008.322|key  |*|00|Initial log entry. Current logging level 4
+000008.459|hw   |6|00|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x4438.34
+000008.460|so   |3|00|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000008.460|so   |3|00|Platform: Board=3111-44500-001 7 0
+000008.460|so   |3|00|Platform: MAC=0004f28f33e2
+000008.461|so   |3|00|Platform: BootBlock=3.0.4.0033 (44500-001) 11-Jul-12 12:30
+000008.462|so   |*|00|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000008.462|so   |3|00|Application, main: Label=Updater, Version=Azurite 5.0.8.1205 07-Feb-15 10:16
+000008.462|so   |3|00|Application, main: P/N=3150-11069-508
+000008.462|log  |*|00|Install file upload callback for 'Updater'
+
+000008.462|app1 |*|00|Initial log entry. Current logging level 3
+000008.491|cfg  |*|00|Initial log entry. Current logging level 2
+000008.494|app1 |3|00|Application image is not present.
+000008.503|dot1x|*|00|Initial log entry. Current logging level 3
+000008.635|tls  |*|00|Initial log entry. Current logging level 4
+000009.315|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC up Speed 1000 full Duplex.
+000010.916|lldp |3|00|Enabling 802.1Q tagging, VLAN ID = 200 (from LLDP/CDP)
+000010.916|lldp |5|00|VLAN Id has changed to 200.
+000014.705|lldp |3|00|LLDP received a response from a switch. LLDP enabled.
+000014.770|dhcpc|*|00|Initial log entry. Current logging level 4
+000018.453|dns  |*|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000018.454|dns  |*|00|DNS resolver search domain is ''
+000018.454|app1 |3|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000018.454|app1 |3|00|DNS resolver search domain is ''
+000018.474|dns  |3|00|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=16743
+000018.475|app1 |3|00|DHCP returned result 0x1AF from server 10.2.0.1.
+000018.475|app1 |3|00|   Phone IP address is 10.2.0.228.
+000018.475|app1 |3|00|   Subnet mask is 255.255.255.0.
+000018.475|app1 |3|00|   Gateway address is 10.2.0.1.
+000018.475|app1 |3|00|   Provisioning server address is https://p.voxter.com.
+000018.475|app1 |3|00|   Time server is 199.19.167.36.
+000018.475|app1 |3|00|   DNS server is 8.8.8.8.
+000018.475|app1 |3|00|   DNS alternate server is 8.8.4.4.
+0414020000|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020043|app1 |3|00|Time has been set from 199.19.167.36 (199.19.167.36).
+0414020043|app1 |3|00|   1428976843: 2015-4-14, 2:0:43, DST off
+0414020043|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 1 (addr 1 of 1)
+0414020043|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020043|copy |3|00|Making further download attempts for '0004f28f33e2.cfg'
+0414020043|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020043|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 2 (addr 1 of 1)
+0414020043|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020043|copy |3|00|Making further download attempts for '0004f28f33e2.cfg'
+0414020044|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020044|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 3 (addr 1 of 1)
+0414020044|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020044|copy |3|00|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+0414020044|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020044|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 1 (addr 1 of 1)
+0414020044|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020044|copy |3|00|Making further download attempts for '000000000000.cfg'
+0414020045|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020045|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 2 (addr 1 of 1)
+0414020045|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020045|copy |3|00|Making further download attempts for '000000000000.cfg'
+0414020046|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020046|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 3 (addr 1 of 1)
+0414020046|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020046|copy |3|00|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+0414020046|cfg  |4|00|Prov|Download of master configuration file failed
+0414020046|cfg  |4|00|Prov|Trying to boot from existing configuration
+0414020046|cfg  |4|00|Prov|Provisioning failed
+0414020046|cfg  |*|00|Prov|Finished updating configuration
+0414020051|app1 |6|00|Error application is not present.
+0414020051|app1 |6|00|Uploading boot log, time is Tue Apr 14 02:00:52 2015
+
+0414020051|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020051|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 1 (addr 1 of 1)
+0414020051|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020051|copy |3|00|Making further upload attempts for 'logs/0004f28f33e2-boot.log'
+0414020052|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020052|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 2 (addr 1 of 1)
+0414020052|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020052|copy |3|00|Making further upload attempts for 'logs/0004f28f33e2-boot.log'
+0414020053|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020053|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 3 (addr 1 of 1)
+0414020053|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020053|log  |4|00|UtilLogC::uploadFifoLog: upload error. protocol 0 result = -1
+0414020058|app1 |5|00|Unknown provisioning state 44.
+0414020058|app1 |3|00|Event: Multiple Key Combo 1
+0414020058|app1 |6|00|Manual Reboot
+0414020101|wdog |*|00|Watchdog Expired: tApp1, 13
+000008.325|so   |*|00|---------- Initial log entry ----------
+000008.325|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.325|boot |*|00|Initial log entry. Current logging level 3
+000008.325|copy |*|00|Initial log entry. Current logging level 3
+000008.325|utilm|*|00|Initial log entry. Current logging level 4
+000008.325|hw   |*|00|Initial log entry. Current logging level 4
+000008.325|ethf |*|00|Initial log entry. Current logging level 4
+000008.325|dns  |*|00|Initial log entry. Current logging level 3
+000008.326|curl |*|00|Initial log entry. Current logging level 3
+000008.326|sec  |*|00|Initial log entry. Current logging level 4
+000008.335|wdog |*|00|Initial log entry. Current logging level 4
+000008.335|lldp |*|00|Initial log entry. Current logging level 3
+000008.335|cdp  |*|00|Initial log entry. Current logging level 3
+000008.335|key  |*|00|Initial log entry. Current logging level 4
+000008.468|hw   |6|00|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x4438.34
+000008.469|so   |3|00|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000008.470|so   |3|00|Platform: Board=3111-44500-001 7 0
+000008.470|so   |3|00|Platform: MAC=0004f28f33e2
+000008.471|so   |3|00|Platform: BootBlock=3.0.4.0033 (44500-001) 11-Jul-12 12:30
+000008.471|so   |*|00|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000008.471|so   |3|00|Application, main: Label=Updater, Version=Azurite 5.0.8.1205 07-Feb-15 10:16
+000008.471|so   |3|00|Application, main: P/N=3150-11069-508
+000008.471|log  |*|00|Install file upload callback for 'Updater'
+
+000008.472|app1 |*|00|Initial log entry. Current logging level 3
+000008.501|cfg  |*|00|Initial log entry. Current logging level 2
+000008.504|app1 |3|00|Application image is not present.
+000008.513|dot1x|*|00|Initial log entry. Current logging level 3
+000008.644|tls  |*|00|Initial log entry. Current logging level 4
+000009.328|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC up Speed 1000 full Duplex.
+000010.885|lldp |3|00|Enabling 802.1Q tagging, VLAN ID = 200 (from LLDP/CDP)
+000010.885|lldp |5|00|VLAN Id has changed to 200.
+000014.715|lldp |3|00|LLDP received a response from a switch. LLDP enabled.
+000014.770|dhcpc|*|00|Initial log entry. Current logging level 4
+000019.464|dns  |*|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000019.464|dns  |*|00|DNS resolver search domain is ''
+000019.464|app1 |3|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000019.464|app1 |3|00|DNS resolver search domain is ''
+000019.484|dns  |3|00|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=16689
+000019.485|app1 |3|00|DHCP returned result 0x1AF from server 10.2.0.1.
+000019.485|app1 |3|00|   Phone IP address is 10.2.0.228.
+000019.485|app1 |3|00|   Subnet mask is 255.255.255.0.
+000019.485|app1 |3|00|   Gateway address is 10.2.0.1.
+000019.485|app1 |3|00|   Provisioning server address is https://p.voxter.com.
+000019.485|app1 |3|00|   Time server is 199.19.167.36.
+000019.485|app1 |3|00|   DNS server is 8.8.8.8.
+000019.485|app1 |3|00|   DNS alternate server is 8.8.4.4.
+0414020137|app1 |3|00|Time has been set from 199.19.167.36 (199.19.167.36).
+0414020137|app1 |3|00|   1428976897: 2015-4-14, 2:1:37, DST off
+0414020137|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020137|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 1 (addr 1 of 1)
+0414020137|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020137|copy |3|00|Making further download attempts for '0004f28f33e2.cfg'
+0414020137|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020137|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 2 (addr 1 of 1)
+0414020137|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020137|copy |3|00|Making further download attempts for '0004f28f33e2.cfg'
+0414020138|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020138|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 3 (addr 1 of 1)
+0414020138|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020138|copy |3|00|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+0414020138|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020138|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 1 (addr 1 of 1)
+0414020138|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020138|copy |3|00|Making further download attempts for '000000000000.cfg'
+0414020139|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020139|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 2 (addr 1 of 1)
+0414020139|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020139|copy |3|00|Making further download attempts for '000000000000.cfg'
+0414020140|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020140|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 3 (addr 1 of 1)
+0414020140|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020140|copy |3|00|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+0414020140|cfg  |4|00|Prov|Download of master configuration file failed
+0414020140|cfg  |4|00|Prov|Trying to boot from existing configuration
+0414020140|cfg  |4|00|Prov|Provisioning failed
+0414020140|cfg  |*|00|Prov|Finished updating configuration
+0414020145|app1 |6|00|Error application is not present.
+0414020145|app1 |6|00|Uploading boot log, time is Tue Apr 14 02:01:46 2015
+
+0414020145|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020145|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 1 (addr 1 of 1)
+0414020145|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020145|copy |3|00|Making further upload attempts for 'logs/0004f28f33e2-boot.log'
+0414020146|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020146|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 2 (addr 1 of 1)
+0414020146|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020146|copy |3|00|Making further upload attempts for 'logs/0004f28f33e2-boot.log'
+0414020147|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020147|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 3 (addr 1 of 1)
+0414020147|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020147|log  |4|00|UtilLogC::uploadFifoLog: upload error. protocol 0 result = -1
+0414020152|app1 |5|00|Unknown provisioning state 44.
+0414020152|app1 |3|00|Event: Multiple Key Combo 1
+0414020152|app1 |6|00|Manual Reboot
+0414020155|wdog |*|00|Watchdog Expired: tApp1, 13
+000008.335|so   |*|00|---------- Initial log entry ----------
+000008.335|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.335|boot |*|00|Initial log entry. Current logging level 3
+000008.336|copy |*|00|Initial log entry. Current logging level 3
+000008.336|utilm|*|00|Initial log entry. Current logging level 4
+000008.336|hw   |*|00|Initial log entry. Current logging level 4
+000008.336|ethf |*|00|Initial log entry. Current logging level 4
+000008.336|dns  |*|00|Initial log entry. Current logging level 3
+000008.336|curl |*|00|Initial log entry. Current logging level 3
+000008.336|sec  |*|00|Initial log entry. Current logging level 4
+000008.345|wdog |*|00|Initial log entry. Current logging level 4
+000008.345|lldp |*|00|Initial log entry. Current logging level 3
+000008.345|cdp  |*|00|Initial log entry. Current logging level 3
+000008.345|key  |*|00|Initial log entry. Current logging level 4
+000008.479|hw   |6|00|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x4438.34
+000008.480|so   |3|00|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000008.480|so   |3|00|Platform: Board=3111-44500-001 7 0
+000008.480|so   |3|00|Platform: MAC=0004f28f33e2
+000008.481|so   |3|00|Platform: BootBlock=3.0.4.0033 (44500-001) 11-Jul-12 12:30
+000008.482|so   |*|00|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000008.482|so   |3|00|Application, main: Label=Updater, Version=Azurite 5.0.8.1205 07-Feb-15 10:16
+000008.482|so   |3|00|Application, main: P/N=3150-11069-508
+000008.482|log  |*|00|Install file upload callback for 'Updater'
+
+000008.482|app1 |*|00|Initial log entry. Current logging level 3
+000008.511|cfg  |*|00|Initial log entry. Current logging level 2
+000008.514|app1 |3|00|Application image is not present.
+000008.523|dot1x|*|00|Initial log entry. Current logging level 3
+000008.655|tls  |*|00|Initial log entry. Current logging level 4
+000009.338|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC up Speed 1000 full Duplex.
+000010.840|lldp |3|00|Enabling 802.1Q tagging, VLAN ID = 200 (from LLDP/CDP)
+000010.840|lldp |5|00|VLAN Id has changed to 200.
+000014.725|lldp |3|00|LLDP received a response from a switch. LLDP enabled.
+000014.780|dhcpc|*|00|Initial log entry. Current logging level 4
+000017.483|dns  |*|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000017.484|dns  |*|00|DNS resolver search domain is ''
+000017.484|app1 |3|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000017.484|app1 |3|00|DNS resolver search domain is ''
+000017.503|dns  |3|00|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=16637
+000017.504|app1 |3|00|DHCP returned result 0x1AF from server 10.2.0.1.
+000017.505|app1 |3|00|   Phone IP address is 10.2.0.228.
+000017.505|app1 |3|00|   Subnet mask is 255.255.255.0.
+000017.505|app1 |3|00|   Gateway address is 10.2.0.1.
+000017.505|app1 |3|00|   Provisioning server address is https://p.voxter.com.
+000017.505|app1 |3|00|   Time server is 199.19.167.36.
+000017.505|app1 |3|00|   DNS server is 8.8.8.8.
+000017.505|app1 |3|00|   DNS alternate server is 8.8.4.4.
+000017.564|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020230|app1 |3|00|Time has been set from 199.19.167.36 (199.19.167.36).
+0414020230|app1 |3|00|   1428976950: 2015-4-14, 2:2:30, DST off
+0414020230|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 1 (addr 1 of 1)
+0414020230|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020230|copy |3|00|Making further download attempts for '0004f28f33e2.cfg'
+0414020230|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020230|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 2 (addr 1 of 1)
+0414020230|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020230|copy |3|00|Making further download attempts for '0004f28f33e2.cfg'
+0414020231|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020231|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 3 (addr 1 of 1)
+0414020231|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020231|copy |3|00|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+0414020231|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020231|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 1 (addr 1 of 1)
+0414020231|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020231|copy |3|00|Making further download attempts for '000000000000.cfg'
+0414020232|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020232|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 2 (addr 1 of 1)
+0414020232|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020232|copy |3|00|Making further download attempts for '000000000000.cfg'
+0414020233|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020233|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 3 (addr 1 of 1)
+0414020233|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020233|copy |3|00|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+0414020233|cfg  |4|00|Prov|Download of master configuration file failed
+0414020233|cfg  |4|00|Prov|Trying to boot from existing configuration
+0414020233|cfg  |4|00|Prov|Provisioning failed
+0414020233|cfg  |*|00|Prov|Finished updating configuration
+0414020238|app1 |6|00|Error application is not present.
+0414020238|app1 |6|00|Uploading boot log, time is Tue Apr 14 02:02:39 2015
+
+0414020238|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020238|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 1 (addr 1 of 1)
+0414020238|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020238|copy |3|00|Making further upload attempts for 'logs/0004f28f33e2-boot.log'
+0414020239|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020239|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 2 (addr 1 of 1)
+0414020239|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020239|copy |3|00|Making further upload attempts for 'logs/0004f28f33e2-boot.log'
+0414020240|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020240|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 3 (addr 1 of 1)
+0414020240|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020240|log  |4|00|UtilLogC::uploadFifoLog: upload error. protocol 0 result = -1
+0414020245|app1 |5|00|Unknown provisioning state 44.
+0414020245|app1 |3|00|Event: Multiple Key Combo 1
+0414020245|app1 |6|00|Manual Reboot
+0414020248|wdog |*|00|Watchdog Expired: tApp1, 13
+000008.304|so   |*|00|---------- Initial log entry ----------
+000008.304|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.304|boot |*|00|Initial log entry. Current logging level 3
+000008.304|copy |*|00|Initial log entry. Current logging level 3
+000008.304|utilm|*|00|Initial log entry. Current logging level 4
+000008.304|hw   |*|00|Initial log entry. Current logging level 4
+000008.304|ethf |*|00|Initial log entry. Current logging level 4
+000008.304|dns  |*|00|Initial log entry. Current logging level 3
+000008.304|curl |*|00|Initial log entry. Current logging level 3
+000008.304|sec  |*|00|Initial log entry. Current logging level 4
+000008.314|wdog |*|00|Initial log entry. Current logging level 4
+000008.314|lldp |*|00|Initial log entry. Current logging level 3
+000008.314|cdp  |*|00|Initial log entry. Current logging level 3
+000008.314|key  |*|00|Initial log entry. Current logging level 4
+000008.448|hw   |6|00|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x4438.34
+000008.450|so   |3|00|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000008.450|so   |3|00|Platform: Board=3111-44500-001 7 0
+000008.450|so   |3|00|Platform: MAC=0004f28f33e2
+000008.451|so   |3|00|Platform: BootBlock=3.0.4.0033 (44500-001) 11-Jul-12 12:30
+000008.451|so   |*|00|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000008.451|so   |3|00|Application, main: Label=Updater, Version=Azurite 5.0.8.1205 07-Feb-15 10:16
+000008.451|so   |3|00|Application, main: P/N=3150-11069-508
+000008.451|log  |*|00|Install file upload callback for 'Updater'
+
+000008.452|app1 |*|00|Initial log entry. Current logging level 3
+000008.481|cfg  |*|00|Initial log entry. Current logging level 2
+000008.484|app1 |3|00|Application image is not present.
+000008.493|dot1x|*|00|Initial log entry. Current logging level 3
+000008.623|tls  |*|00|Initial log entry. Current logging level 4
+000009.307|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC up Speed 1000 full Duplex.
+000010.788|lldp |3|00|Enabling 802.1Q tagging, VLAN ID = 200 (from LLDP/CDP)
+000010.788|lldp |5|00|VLAN Id has changed to 200.
+000014.695|lldp |3|00|LLDP received a response from a switch. LLDP enabled.
+000014.750|dhcpc|*|00|Initial log entry. Current logging level 4
+000017.123|dns  |*|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000017.124|dns  |*|00|DNS resolver search domain is ''
+000017.124|app1 |3|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000017.124|app1 |3|00|DNS resolver search domain is ''
+000017.144|dns  |3|00|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=16585
+000017.145|app1 |3|00|DHCP returned result 0x1AF from server 10.2.0.1.
+000017.145|app1 |3|00|   Phone IP address is 10.2.0.228.
+000017.145|app1 |3|00|   Subnet mask is 255.255.255.0.
+000017.145|app1 |3|00|   Gateway address is 10.2.0.1.
+000017.145|app1 |3|00|   Provisioning server address is https://p.voxter.com.
+000017.145|app1 |3|00|   Time server is 199.19.167.36.
+000017.145|app1 |3|00|   DNS server is 8.8.8.8.
+000017.145|app1 |3|00|   DNS alternate server is 8.8.4.4.
+0414020321|app1 |3|00|Time has been set from 199.19.167.36 (199.19.167.36).
+0414020321|app1 |3|00|   1428977001: 2015-4-14, 2:3:21, DST off
+0414020321|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020321|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 1 (addr 1 of 1)
+0414020321|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020321|copy |3|00|Making further download attempts for '0004f28f33e2.cfg'
+0414020322|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020322|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 2 (addr 1 of 1)
+0414020322|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020322|copy |3|00|Making further download attempts for '0004f28f33e2.cfg'
+0414020323|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020323|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 3 (addr 1 of 1)
+0414020323|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020323|copy |3|00|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+0414020323|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020323|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 1 (addr 1 of 1)
+0414020323|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020323|copy |3|00|Making further download attempts for '000000000000.cfg'
+0414020324|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020324|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 2 (addr 1 of 1)
+0414020324|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020324|copy |3|00|Making further download attempts for '000000000000.cfg'
+0414020325|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020325|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 3 (addr 1 of 1)
+0414020325|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020325|copy |3|00|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+0414020325|cfg  |4|00|Prov|Download of master configuration file failed
+0414020325|cfg  |4|00|Prov|Trying to boot from existing configuration
+0414020325|cfg  |4|00|Prov|Provisioning failed
+0414020325|cfg  |*|00|Prov|Finished updating configuration
+0414020330|app1 |6|00|Error application is not present.
+0414020330|app1 |6|00|Uploading boot log, time is Tue Apr 14 02:03:30 2015
+
+0414020330|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020330|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 1 (addr 1 of 1)
+0414020330|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020330|copy |3|00|Making further upload attempts for 'logs/0004f28f33e2-boot.log'
+0414020331|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020331|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 2 (addr 1 of 1)
+0414020331|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020331|copy |3|00|Making further upload attempts for 'logs/0004f28f33e2-boot.log'
+0414020332|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020332|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 3 (addr 1 of 1)
+0414020332|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020332|log  |4|00|UtilLogC::uploadFifoLog: upload error. protocol 0 result = -1
+0414020337|app1 |5|00|Unknown provisioning state 44.
+0414020337|app1 |3|00|Event: Multiple Key Combo 1
+0414020337|app1 |6|00|Manual Reboot
+0414020340|wdog |*|00|Watchdog Expired: tApp1, 13
+000008.320|so   |*|00|---------- Initial log entry ----------
+000008.321|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.321|boot |*|00|Initial log entry. Current logging level 3
+000008.321|copy |*|00|Initial log entry. Current logging level 3
+000008.321|utilm|*|00|Initial log entry. Current logging level 4
+000008.321|hw   |*|00|Initial log entry. Current logging level 4
+000008.321|ethf |*|00|Initial log entry. Current logging level 4
+000008.321|dns  |*|00|Initial log entry. Current logging level 3
+000008.321|curl |*|00|Initial log entry. Current logging level 3
+000008.321|sec  |*|00|Initial log entry. Current logging level 4
+000008.329|wdog |*|00|Initial log entry. Current logging level 4
+000008.329|lldp |*|00|Initial log entry. Current logging level 3
+000008.329|cdp  |*|00|Initial log entry. Current logging level 3
+000008.329|key  |*|00|Initial log entry. Current logging level 4
+000008.449|hw   |6|00|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x4438.34
+000008.450|so   |3|00|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000008.450|so   |3|00|Platform: Board=3111-44500-001 7 0
+000008.450|so   |3|00|Platform: MAC=0004f28f33e2
+000008.451|so   |3|00|Platform: BootBlock=3.0.4.0033 (44500-001) 11-Jul-12 12:30
+000008.451|so   |*|00|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000008.451|so   |3|00|Application, main: Label=Updater, Version=Azurite 5.0.8.1205 07-Feb-15 10:16
+000008.451|so   |3|00|Application, main: P/N=3150-11069-508
+000008.452|log  |*|00|Install file upload callback for 'Updater'
+
+000008.452|app1 |*|00|Initial log entry. Current logging level 3
+000008.481|cfg  |*|00|Initial log entry. Current logging level 2
+000008.484|app1 |3|00|Application image is not present.
+000008.493|dot1x|*|00|Initial log entry. Current logging level 3
+000008.624|tls  |*|00|Initial log entry. Current logging level 4
+000009.324|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC up Speed 1000 full Duplex.
+000010.767|lldp |3|00|Enabling 802.1Q tagging, VLAN ID = 200 (from LLDP/CDP)
+000010.767|lldp |5|00|VLAN Id has changed to 200.
+000014.695|lldp |3|00|LLDP received a response from a switch. LLDP enabled.
+000014.750|dhcpc|*|00|Initial log entry. Current logging level 4
+000017.464|dns  |*|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000017.464|dns  |*|00|DNS resolver search domain is ''
+000017.464|app1 |3|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000017.464|app1 |3|00|DNS resolver search domain is ''
+000017.484|dns  |3|00|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=16532
+000017.485|app1 |3|00|DHCP returned result 0x1AF from server 10.2.0.1.
+000017.485|app1 |3|00|   Phone IP address is 10.2.0.228.
+000017.485|app1 |3|00|   Subnet mask is 255.255.255.0.
+000017.485|app1 |3|00|   Gateway address is 10.2.0.1.
+000017.485|app1 |3|00|   Provisioning server address is https://p.voxter.com.
+000017.485|app1 |3|00|   Time server is 199.19.167.36.
+000017.485|app1 |3|00|   DNS server is 8.8.8.8.
+000017.485|app1 |3|00|   DNS alternate server is 8.8.4.4.
+000017.530|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020414|app1 |3|00|Time has been set from 199.19.167.36 (199.19.167.36).
+0414020414|app1 |3|00|   1428977054: 2015-4-14, 2:4:14, DST off
+0414020414|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 1 (addr 1 of 1)
+0414020414|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020414|copy |3|00|Making further download attempts for '0004f28f33e2.cfg'
+0414020414|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020414|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 2 (addr 1 of 1)
+0414020414|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020414|copy |3|00|Making further download attempts for '0004f28f33e2.cfg'
+0414020415|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020415|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 3 (addr 1 of 1)
+0414020415|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020415|copy |3|00|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+0414020415|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020415|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 1 (addr 1 of 1)
+0414020415|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020415|copy |3|00|Making further download attempts for '000000000000.cfg'
+0414020416|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020416|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 2 (addr 1 of 1)
+0414020416|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020416|copy |3|00|Making further download attempts for '000000000000.cfg'
+0414020417|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020417|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 3 (addr 1 of 1)
+0414020417|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020417|copy |3|00|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+0414020417|cfg  |4|00|Prov|Download of master configuration file failed
+0414020417|cfg  |4|00|Prov|Trying to boot from existing configuration
+0414020417|cfg  |4|00|Prov|Provisioning failed
+0414020417|cfg  |*|00|Prov|Finished updating configuration
+0414020422|app1 |6|00|Error application is not present.
+0414020422|app1 |6|00|Uploading boot log, time is Tue Apr 14 02:04:23 2015
+
+0414020422|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020422|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 1 (addr 1 of 1)
+0414020422|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020422|copy |3|00|Making further upload attempts for 'logs/0004f28f33e2-boot.log'
+0414020423|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020423|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 2 (addr 1 of 1)
+0414020423|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020423|copy |3|00|Making further upload attempts for 'logs/0004f28f33e2-boot.log'
+0414020424|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020424|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 3 (addr 1 of 1)
+0414020424|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020424|log  |4|00|UtilLogC::uploadFifoLog: upload error. protocol 0 result = -1
+0414020429|app1 |5|00|Unknown provisioning state 44.
+0414020429|app1 |3|00|Event: Multiple Key Combo 1
+0414020429|app1 |6|00|Manual Reboot
+0414020432|wdog |*|00|Watchdog Expired: tApp1, 13
+000008.321|so   |*|00|---------- Initial log entry ----------
+000008.321|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.321|boot |*|00|Initial log entry. Current logging level 3
+000008.321|copy |*|00|Initial log entry. Current logging level 3
+000008.322|utilm|*|00|Initial log entry. Current logging level 4
+000008.322|hw   |*|00|Initial log entry. Current logging level 4
+000008.322|ethf |*|00|Initial log entry. Current logging level 4
+000008.322|dns  |*|00|Initial log entry. Current logging level 3
+000008.322|curl |*|00|Initial log entry. Current logging level 3
+000008.322|sec  |*|00|Initial log entry. Current logging level 4
+000008.331|wdog |*|00|Initial log entry. Current logging level 4
+000008.331|lldp |*|00|Initial log entry. Current logging level 3
+000008.331|cdp  |*|00|Initial log entry. Current logging level 3
+000008.331|key  |*|00|Initial log entry. Current logging level 4
+000008.479|hw   |6|00|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x4438.34
+000008.480|so   |3|00|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000008.480|so   |3|00|Platform: Board=3111-44500-001 7 0
+000008.480|so   |3|00|Platform: MAC=0004f28f33e2
+000008.481|so   |3|00|Platform: BootBlock=3.0.4.0033 (44500-001) 11-Jul-12 12:30
+000008.481|so   |*|00|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000008.481|so   |3|00|Application, main: Label=Updater, Version=Azurite 5.0.8.1205 07-Feb-15 10:16
+000008.481|so   |3|00|Application, main: P/N=3150-11069-508
+000008.482|log  |*|00|Install file upload callback for 'Updater'
+
+000008.482|app1 |*|00|Initial log entry. Current logging level 3
+000008.511|cfg  |*|00|Initial log entry. Current logging level 2
+000008.514|app1 |3|00|Application image is not present.
+000008.523|dot1x|*|00|Initial log entry. Current logging level 3
+000008.654|tls  |*|00|Initial log entry. Current logging level 4
+000009.324|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC up Speed 1000 full Duplex.
+000011.726|lldp |3|00|Enabling 802.1Q tagging, VLAN ID = 200 (from LLDP/CDP)
+000011.726|lldp |5|00|VLAN Id has changed to 200.
+000014.727|lldp |3|00|LLDP received a response from a switch. LLDP enabled.
+000014.780|dhcpc|*|00|Initial log entry. Current logging level 4
+000017.474|dns  |*|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000017.474|dns  |*|00|DNS resolver search domain is ''
+000017.474|app1 |3|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000017.474|app1 |3|00|DNS resolver search domain is ''
+000017.494|dns  |3|00|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=16961
+000017.495|app1 |3|00|DHCP returned result 0x1AF from server 10.2.0.1.
+000017.495|app1 |3|00|   Phone IP address is 10.2.0.228.
+000017.495|app1 |3|00|   Subnet mask is 255.255.255.0.
+000017.495|app1 |3|00|   Gateway address is 10.2.0.1.
+000017.495|app1 |3|00|   Provisioning server address is https://p.voxter.com.
+000017.495|app1 |3|00|   Time server is 199.19.167.36.
+000017.495|app1 |3|00|   DNS server is 8.8.8.8.
+000017.495|app1 |3|00|   DNS alternate server is 8.8.4.4.
+0414020423|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020506|app1 |3|00|Time has been set from 199.19.167.36 (199.19.167.36).
+0414020506|app1 |3|00|   1428977106: 2015-4-14, 2:5:6, DST off
+0414020506|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 1 (addr 1 of 1)
+0414020506|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020506|copy |3|00|Making further download attempts for '0004f28f33e2.cfg'
+0414020506|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020506|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 2 (addr 1 of 1)
+0414020506|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020506|copy |3|00|Making further download attempts for '0004f28f33e2.cfg'
+0414020507|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020507|copy |3|00|Download of '0004f28f33e2.cfg' FAILED on attempt 3 (addr 1 of 1)
+0414020507|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020507|copy |3|00|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+0414020507|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020507|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 1 (addr 1 of 1)
+0414020507|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020507|copy |3|00|Making further download attempts for '000000000000.cfg'
+0414020508|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020508|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 2 (addr 1 of 1)
+0414020508|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020508|copy |3|00|Making further download attempts for '000000000000.cfg'
+0414020509|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/000000000000.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020509|copy |3|00|Download of '000000000000.cfg' FAILED on attempt 3 (addr 1 of 1)
+0414020509|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020509|copy |3|00|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+0414020509|cfg  |4|00|Prov|Download of master configuration file failed
+0414020509|cfg  |4|00|Prov|Trying to boot from existing configuration
+0414020509|cfg  |4|00|Prov|Provisioning failed
+0414020509|cfg  |*|00|Prov|Finished updating configuration
+0414020514|app1 |6|00|Error application is not present.
+0414020514|app1 |6|00|Uploading boot log, time is Tue Apr 14 02:05:15 2015
+
+0414020514|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020514|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 1 (addr 1 of 1)
+0414020514|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020514|copy |3|00|Making further upload attempts for 'logs/0004f28f33e2-boot.log'
+0414020515|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020515|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 2 (addr 1 of 1)
+0414020515|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020515|copy |3|00|Making further upload attempts for 'logs/0004f28f33e2-boot.log'
+0414020516|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020516|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 3 (addr 1 of 1)
+0414020516|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020516|log  |4|00|UtilLogC::uploadFifoLog: upload error. protocol 0 result = -1
+0414020521|app1 |5|00|Unknown provisioning state 44.
+0414020521|app1 |3|00|Event: Multiple Key Combo 1
+0414020521|app1 |6|00|Manual Reboot
+0414020524|wdog |*|00|Watchdog Expired: tApp1, 13
+000008.297|so   |*|00|---------- Initial log entry ----------
+000008.297|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.297|boot |*|00|Initial log entry. Current logging level 3
+000008.297|copy |*|00|Initial log entry. Current logging level 3
+000008.297|utilm|*|00|Initial log entry. Current logging level 4
+000008.297|hw   |*|00|Initial log entry. Current logging level 4
+000008.297|ethf |*|00|Initial log entry. Current logging level 4
+000008.297|dns  |*|00|Initial log entry. Current logging level 3
+000008.297|curl |*|00|Initial log entry. Current logging level 3
+000008.297|sec  |*|00|Initial log entry. Current logging level 4
+000008.306|wdog |*|00|Initial log entry. Current logging level 4
+000008.306|lldp |*|00|Initial log entry. Current logging level 3
+000008.306|cdp  |*|00|Initial log entry. Current logging level 3
+000008.306|key  |*|00|Initial log entry. Current logging level 4
+000008.428|hw   |6|00|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x4438.34
+000008.430|so   |3|00|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000008.430|so   |3|00|Platform: Board=3111-44500-001 7 0
+000008.430|so   |3|00|Platform: MAC=0004f28f33e2
+000008.431|so   |3|00|Platform: BootBlock=3.0.4.0033 (44500-001) 11-Jul-12 12:30
+000008.431|so   |*|00|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000008.432|so   |3|00|Application, main: Label=Updater, Version=Azurite 5.0.8.1205 07-Feb-15 10:16
+000008.432|so   |3|00|Application, main: P/N=3150-11069-508
+000008.432|log  |*|00|Install file upload callback for 'Updater'
+
+000008.432|app1 |*|00|Initial log entry. Current logging level 3
+000008.461|cfg  |*|00|Initial log entry. Current logging level 2
+000008.464|app1 |3|00|Application image is not present.
+000008.473|dot1x|*|00|Initial log entry. Current logging level 3
+000008.604|tls  |*|00|Initial log entry. Current logging level 4
+000009.300|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC up Speed 1000 full Duplex.
+000011.683|lldp |3|00|Enabling 802.1Q tagging, VLAN ID = 200 (from LLDP/CDP)
+000011.683|lldp |5|00|VLAN Id has changed to 200.
+000014.676|lldp |3|00|LLDP received a response from a switch. LLDP enabled.
+000014.730|dhcpc|*|00|Initial log entry. Current logging level 4
+000018.433|dns  |*|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000018.433|dns  |*|00|DNS resolver search domain is ''
+000018.434|app1 |3|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000018.434|app1 |3|00|DNS resolver search domain is ''
+000018.454|dns  |3|00|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=17155
+000018.455|app1 |3|00|DHCP returned result 0x1AF from server 10.2.0.1.
+000018.455|app1 |3|00|   Phone IP address is 10.2.0.228.
+000018.455|app1 |3|00|   Subnet mask is 255.255.255.0.
+000018.455|app1 |3|00|   Gateway address is 10.2.0.1.
+000018.455|app1 |3|00|   Provisioning server address is https://p.voxter.com.
+000018.455|app1 |3|00|   Time server is 199.19.167.36.
+000018.455|app1 |3|00|   DNS server is 8.8.8.8.
+000018.455|app1 |3|00|   DNS alternate server is 8.8.4.4.
+0414020559|app1 |3|00|Time has been set from 199.19.167.36 (199.19.167.36).
+0414020559|app1 |3|00|   1428977159: 2015-4-14, 2:5:59, DST off
+0414020618|app1 |6|00|Uploading boot log, time is Tue Apr 14 02:06:19 2015
+
+0414020618|copy |3|00|'https://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020618|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' FAILED on attempt 1 (addr 1 of 1)
+0414020618|copy |4|00|SSL_connect error SSL connect error.error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+0414020618|log  |4|00|UtilLogC::uploadFifoLog: upload error. protocol 0 result = -1
+0414020618|app1 |3|00|Event: Multiple Key Combo 1
+0414020618|app1 |6|00|Manual Reboot
+0414020618|app1 |4|00|Unexpected Event: State:19, AppStateReboot, Event: 4, AppEvLclKeyMKC
+0414020621|wdog |*|00|Watchdog Expired: tApp1, 13
+000008.333|so   |*|00|---------- Initial log entry ----------
+000008.333|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.333|boot |*|00|Initial log entry. Current logging level 3
+000008.333|copy |*|00|Initial log entry. Current logging level 3
+000008.333|utilm|*|00|Initial log entry. Current logging level 4
+000008.333|hw   |*|00|Initial log entry. Current logging level 4
+000008.333|ethf |*|00|Initial log entry. Current logging level 4
+000008.333|dns  |*|00|Initial log entry. Current logging level 3
+000008.333|curl |*|00|Initial log entry. Current logging level 3
+000008.333|sec  |*|00|Initial log entry. Current logging level 4
+000008.342|wdog |*|00|Initial log entry. Current logging level 4
+000008.342|lldp |*|00|Initial log entry. Current logging level 3
+000008.342|cdp  |*|00|Initial log entry. Current logging level 3
+000008.342|key  |*|00|Initial log entry. Current logging level 4
+000008.468|hw   |6|00|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x4438.34
+000008.470|so   |3|00|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000008.470|so   |3|00|Platform: Board=3111-44500-001 7 0
+000008.470|so   |3|00|Platform: MAC=0004f28f33e2
+000008.471|so   |3|00|Platform: BootBlock=3.0.4.0033 (44500-001) 11-Jul-12 12:30
+000008.471|so   |*|00|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000008.471|so   |3|00|Application, main: Label=Updater, Version=Azurite 5.0.8.1205 07-Feb-15 10:16
+000008.471|so   |3|00|Application, main: P/N=3150-11069-508
+000008.471|log  |*|00|Install file upload callback for 'Updater'
+
+000008.472|app1 |*|00|Initial log entry. Current logging level 3
+000008.501|cfg  |*|00|Initial log entry. Current logging level 2
+000008.504|app1 |3|00|Application image is not present.
+000008.513|dot1x|*|00|Initial log entry. Current logging level 3
+000008.644|tls  |*|00|Initial log entry. Current logging level 4
+000009.336|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC up Speed 1000 full Duplex.
+000011.663|lldp |3|00|Enabling 802.1Q tagging, VLAN ID = 200 (from LLDP/CDP)
+000011.663|lldp |5|00|VLAN Id has changed to 200.
+000014.715|lldp |3|00|LLDP received a response from a switch. LLDP enabled.
+000014.780|dhcpc|*|00|Initial log entry. Current logging level 4
+000017.484|dns  |*|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000017.484|dns  |*|00|DNS resolver search domain is ''
+000017.484|app1 |3|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000017.484|app1 |3|00|DNS resolver search domain is ''
+000017.504|dns  |3|00|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=16856
+000017.505|app1 |3|00|DHCP returned result 0x1A7 from server 10.2.0.1.
+000017.505|app1 |3|00|   Phone IP address is 10.2.0.228.
+000017.505|app1 |3|00|   Subnet mask is 255.255.255.0.
+000017.505|app1 |3|00|   Gateway address is 10.2.0.1.
+000017.505|app1 |3|00|   Time server is 199.19.167.36.
+000017.505|app1 |3|00|   DNS server is 8.8.8.8.
+000017.505|app1 |3|00|   DNS alternate server is 8.8.4.4.
+000017.553|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/0004f28f33e2.cfg' from 'p.voxter.com(74.114.208.245)'
+0414020651|app1 |3|00|Time has been set from 199.19.167.36 (199.19.167.36).
+0414020651|app1 |3|00|   1428977211: 2015-4-14, 2:6:51, DST off
+0414020651|copy |3|00|Download of '0004f28f33e2.cfg' succeeded on attempt 1 (addr 1 of 1)
+0414020651|cfg  |*|00|Prov|Starting to update 3111-44500-001.sip.ld
+0414020651|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/3111-44500-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+0414020651|cfg  |3|00|New load header information:
+0414020651|cfg  |3|00|Code length:         0x02E6C310
+0414020651|cfg  |3|00|Code Checksum:       0x377DC579
+0414020651|cfg  |3|00|Options:             0x00000080
+0414020651|cfg  |3|00|Recognized container image
+0414020651|cfg  |3|00|New load header information:
+0414020651|cfg  |3|00|Code length:         0x027B0000
+0414020651|cfg  |3|00|Code Checksum:       0x4E2E5767
+0414020651|cfg  |3|00|Options:             0x00000002
+0414020651|cfg  |3|00|Could not open application file for checking
+0414020651|cfg  |3|00|Application in container image 1 is different
+0414020651|cfg  |3|00|New load header information:
+0414020651|cfg  |3|00|Code length:         0x006BB9C0
+0414020651|cfg  |3|00|Code Checksum:       0x377D20FD
+0414020651|cfg  |3|00|Options:             0x00000010
+0414020651|cfg  |3|00|Updater is already present
+0414020651|cfg  |3|00|Updater in container image 2 is not different
+0414020651|cfg  |3|00|Using application
+0414020651|cfg  |*|00|Prov|Updating the Application
+0414020651|cfg  |3|00|Using compatible image 0
+0414020704|copy |3|00|buffered_write: transfer terminated
+0414020704|copy |3|00|Download of '3111-44500-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+0414020705|sig  |*|00|Initial log entry. Current logging level 3
+0414020705|sig  |3|00|hwSigParseRemove: found key Sig_3.
+0414020708|cfg  |3|00|Good image signature
+0414020708|cfg  |3|00|Programming 41615952 bytes into tffs in 4K blocks
+0414020729|cfg  |3|00|Extracting application files
+0414020729|cfg  |3|00|New load header information:
+0414020729|cfg  |3|00|Code length:         0x027B0000
+0414020729|cfg  |3|00|Code Checksum:       0x4E2E5767
+0414020729|cfg  |3|00|Options:             0x00000002
+0414020808|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC down.
+0414020814|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC up Speed 1000 full Duplex.
+0414020828|cfg  |3|00|Finished extracting application files (OK)
+0414020832|cfg  |3|00|File system is synchronized
+0414020833|cfg  |*|00|Prov|Succeeded updating file 3111-44500-001.sip.ld
+0414020834|cfg  |*|00|Prov|Image has been changed
+0414020834|cfg  |3|00|Prov|Provisioning succeeded
+0414020834|app1 |3|00|Application, load: Type=SIP, Version=4.0.8.1608 07-Feb-15 10:30
+0414020834|cfg  |*|00|Prov|Finished updating configuration
+0414020834|boot |*|00|Using TFFS for flash load
+0414020834|boot |*|00|Code length:         0x027B0000
+0414020834|boot |*|00|Code checksum:       0x4E2E5767
+0414020834|app1 |4|00|Loaded application sip.ld from local system successfully.
+0414020834|app1 |6|00|Uploading boot log, time is Tue Apr 14 02:08:35 2015
+
+0414020834|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/logs/0004f28f33e2-boot.log' to 'p.voxter.com(74.114.208.245)'
+0414020834|copy |3|00|Upload of 'logs/0004f28f33e2-boot.log' succeeded on attempt 1 (addr 1 of 1)
+0414020838|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC down.
+0414020837|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC up Speed 1000 full Duplex.
+0414020852|cfg  |3|00|Prov|Shutting down
+000008.157|so   |*|00|---------- Initial log entry ----------
+000008.157|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.157|boot |*|00|Initial log entry. Current logging level 3
+000008.157|copy |*|00|Initial log entry. Current logging level 3
+000008.157|utilm|*|00|Initial log entry. Current logging level 4
+000008.157|hw   |*|00|Initial log entry. Current logging level 4
+000008.157|ethf |*|00|Initial log entry. Current logging level 4
+000008.157|dns  |*|00|Initial log entry. Current logging level 3
+000008.157|curl |*|00|Initial log entry. Current logging level 3
+000008.158|sec  |*|00|Initial log entry. Current logging level 4
+000008.166|wdog |*|00|Initial log entry. Current logging level 4
+000008.166|lldp |*|00|Initial log entry. Current logging level 3
+000008.167|cdp  |*|00|Initial log entry. Current logging level 3
+000008.167|key  |*|00|Initial log entry. Current logging level 4
+000008.299|hw   |6|00|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x4438.34
+000008.300|so   |3|00|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000008.300|so   |3|00|Platform: Board=3111-44500-001 7 0
+000008.300|so   |3|00|Platform: MAC=0004f28f33e2
+000008.301|so   |3|00|Platform: BootBlock=3.0.4.0033 (44500-001) 11-Jul-12 12:30
+000008.301|so   |*|00|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000008.302|so   |3|00|Application, main: Label=Updater, Version=Azurite 5.0.8.1205 07-Feb-15 10:16
+000008.302|so   |3|00|Application, main: P/N=3150-11069-508
+000008.302|log  |*|00|Install file upload callback for 'Updater'
+
+000008.302|app1 |*|00|Initial log entry. Current logging level 3
+000008.331|cfg  |*|00|Initial log entry. Current logging level 2
+000008.338|app1 |3|00|Application, load: Type=SIP, Version=4.0.8.1608 07-Feb-15 10:30
+000009.158|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC up Speed 1000 full Duplex.

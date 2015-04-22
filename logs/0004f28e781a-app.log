@@ -1,0 +1,462 @@
+0421175940|so   |*|00|SoNcasC::procMsg: Client service shutdown complete
+0421175950|wdog |*|00|Watchdog Expired: tSupObjs, 8
+0421175950|log  |*|00|---------- Final log entry ----------
+000400.132|log  |*|00|---------- Initial log entry ----------
+000359.815|rdisk|*|00|Initial log entry. Current logging level 4
+000359.817|rdisk|*|00|RAM disk created and mounted at "/rfs0"
+000359.817|rdisk|*|00|RAM disk created, size: 16,777,216 bytes
+000400.123|so   |*|00|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000400.123|so   |*|00|Platform: Interface    eth0 MAC=0004f28e781a
+000400.125|so   |*|00|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000400.126|so   |*|00|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000400.129|so   |*|00|Platform: Updater=5.5.0.13251 24-Mar-15 03:06
+000400.129|so   |*|00|Application, main: Label=SIP, Version=Congo 5.3.0.12074 24-Mar-15 02:31
+000400.129|so   |*|00|Application, main: P/N=3150-11530-530
+000400.129|rdisk|*|00|RAM disk created, size: 16,777,216 bytes
+000400.130|ocsp |*|00|O.C.S.P. Enabled = 0
+000400.208|tls  |*|00|Initial log entry. Current logging level 4
+000400.255|pmt  |*|00|Initial log entry. Current logging level 4
+000400.258|wdog |*|00|Initial log entry. Current logging level 4
+000400.259|ethf |*|00|Initial log entry. Current logging level 4
+000400.260|hw   |*|00|Initial log entry. Current logging level 4
+000400.260|ares |*|00|Initial log entry. Current logging level 4
+000400.260|dns  |*|00|Initial log entry. Current logging level 4
+000400.261|cfg  |*|00|Initial log entry. Current logging level 4
+000400.261|cfg  |*|00|Prm|cfgParamBaseProfileUpdate: Using Base Profile Generic
+000400.263|dot1x|*|00|Initial log entry. Current logging level 4
+000400.436|lic  |*|00|Initial log entry. Current logging level 4
+000400.455|lic  |5|00|cfgCfsFlashKeyScratchLoad: could not load flash len 976
+000400.455|lic  |*|00|License expiry check in 3277 seconds
+000400.520|curl |*|00|Initial log entry. Current logging level 4
+000400.520|utilm|*|00|Initial log entry. Current logging level 4
+000400.521|copy |*|00|Initial log entry. Current logging level 4
+000400.521|rtos |*|00|Initial log entry. Current logging level 4
+000404.627|pgui |*|00|Initial log entry. Current logging level 4
+000407.023|dhcpc|*|00|Initial log entry. Current logging level 4
+000410.279|cfg  |*|00|RT|   Phone IP address is 10.75.1.116.
+000410.279|cfg  |*|00|RT|   Subnet mask is 255.255.255.0.
+000410.279|cfg  |*|00|RT|   Gateway address is 10.75.1.1.
+000410.280|cfg  |*|00|RT|   DNS server is 10.75.3.210.
+000410.280|cfg  |*|00|RT|   DNS alternate server is 10.75.3.204.
+000410.280|cfg  |*|00|RT|   DNS domain is van.cdot.ca.
+000410.280|cfg  |*|00|RT|   Time server is 10.75.3.210.
+000410.280|cfg  |*|00|RT|   Time server is 10.75.133.67.
+000410.280|cfg  |*|00|RT|   GMT offset is -28800 seconds.
+000410.282|dns  |*|00|DNS resolver servers are '10.75.3.210' '10.75.3.204'
+000410.282|dns  |*|00|DNS resolver search domain is 'van.cdot.ca'
+000410.284|cfg  |*|00|RT|Primary IP: 10.75.1.116 subnet mask 255.255.255.0
+000410.773|cfg  |*|00|Prov|Starting to update 3111-46135-002.sip.ld
+000412.151|copy |*|00|Server 'p.voxter.com' said 'overrides/0004f28e781a-phone.cfg' is not present
+000412.172|copy |*|00|Server 'p.voxter.com' said 'overrides/0004f28e781a-web.cfg' is not present
+000412.193|copy |*|00|Server 'p.voxter.com' said 'licenses/000000000000-license.cfg' is not present
+000412.214|copy |*|00|Server 'p.voxter.com' said 'licenses/0004f28e781a-license.cfg' is not present
+000412.226|cfg  |*|00|Prm|0004f28e781a_reg.cfg: Value "" for configuration parameter reg.1.server.2.port is invalid, ignoring
+000412.227|cfg  |*|00|Prm|0004f28e781a_reg.cfg: Value "" for configuration parameter reg.1.outboundProxy.port is invalid, ignoring
+000412.228|cfg  |*|00|Prm|0004f28e781a_reg.cfg: Value "" for configuration parameter reg.1.lineKeys is invalid, ignoring
+000412.235|cfg  |4|00|Prm|provisioner.cfg: Unknown parameter "sec.tagSerialNo.set" found, ignoring.
+000412.262|cfg  |*|00|Prm|features.cfg: Value 9999 for configuration parameter dir.local.contacts.maxNum is too large, using 500, the maximum allowed
+000412.292|cfg  |*|00|Prov|Setting device parameters from configuration files.
+000412.295|cfg  |4|00|RT|cfgFlashUpdateFromConfig: Failed to update SerialConfig
+000412.695|cfg  |*|00|Prov|Finished updating configuration
+000412.695|sec  |*|00|Initial log entry. Current logging level 4
+000412.698|so   |*|00|Configuration files: 0004f28e781a_reg.cfg, provisioner.cfg, sip.cfg, features.cfg
+000412.698|so   |*|00|Configuration file "0004f28e781a_reg.cfg" SHA1 digest: 2CC862451696DA16B340CE4F0A7E1A1D4146BC9D
+000412.699|so   |*|00|Configuration file "provisioner.cfg" SHA1 digest: 51080CD89DA743106AF5139272C6860F0465BE9D
+000412.699|so   |*|00|Configuration file "sip.cfg" SHA1 digest: 8E310DB6B220A0EF1D6DF3849E8EC996A0BDA0AE
+000412.699|so   |*|00|Configuration file "features.cfg" SHA1 digest: C581BA279B236C29DF1CFC79741E3FAED2E8A230
+000412.699|cfg  |4|00|Prm|Configuration file(s) statistics: 1 parameters were invalid and could not be interpreted.
+000412.699|cfg  |4|00|Prm|Configuration file(s) statistics: 1 parameter values were used but were out of range. 5 were invalid and ignored.
+000412.701|log  |*|00|Log render level set to 1
+000412.705|pcap |*|00|On-Phone Packet Capture disabled
+000412.705|srtp |*|00|Initial log entry. Current logging level 4
+000412.706|cfg  |5|00|Prm|Parameter 0 is out of range
+000412.710|res  |*|00|Initial log entry. Current logging level 4
+000412.711|httpa|*|00|Initial log entry. Current logging level 4
+000412.711|lldp |*|00|Initial log entry. Current logging level 4
+000412.711|cdp  |*|00|Initial log entry. Current logging level 4
+000412.711|pcd  |*|00|Initial log entry. Current logging level 4
+000412.729|tickt|*|00|Initial log entry. Current logging level 4
+000412.730|loc  |*|00|Initial log entry. Current logging level 4
+000412.736|ssps |*|00|Initial log entry. Current logging level 4
+000412.739|ssps |5|00|Allocated 36992 bytes for SspsHdiMemBase=0xe8aee8
+000412.739|ssps |4|00|sspsDspLoad: found Maroo 23.
+000412.764|utilm|4|00|uBLFUnCompressed: File /ffs0/Config/Local/WebTicket/0/sip.usr doesn't exist or is empty
+000412.768|tickt|4|00|soWebTicketCertMove: Could not copy key to new uiSlot
+000412.769|tickt|4|00|soWebTicketCertMove: Could not copy cert to new uiSlot
+000412.771|tickt|4|00|soWebTicketCertMove: Could not copy SIP user to new uiSlot
+000412.772|tickt|4|00|soWebTicketCertMove: Could not copy SIP uuid to new uiSlot
+000412.773|tickt|4|00|soWebTicketCertMove: Could not copy server to new uiSlot
+000412.973|so   |*|00|System Info Reports:
+000412.973|so   |*|00|  Cpu is ARMv6-compatible processor rev 7 (v6l), ID: 0x111700b0, running at 300MHz.
+000412.973|so   |*|00|  Board is identified as PolycomVVX-VVX_300.
+000412.973|so   |*|00|  DRAM_SIZE: 128 MB
+000412.973|so   |*|00|  NAND flash detected is 20
+000412.973|key  |*|00|Initial log entry. Current logging level 4
+000413.003|httpd|*|00|Initial log entry. Current logging level 4
+000413.004|poll |*|00|Initial log entry. Current logging level 4
+000413.004|push |*|00|Initial log entry. Current logging level 4
+000413.005|poll |*|00|Initial log entry. Current logging level 4
+000413.005|poll |*|00|Initial log entry. Current logging level 4
+000413.006|ht   |*|00|Initial log entry. Current logging level 4
+000413.007|dbuf |*|00|Initial log entry. Current logging level 4
+000413.009|ssps |*|00|sspsMain: Set HDI mem to be 0, was 0
+000413.014|ssps |*|00|Application, comp. 1: Label=PolyDSP Vino BCM11193 Mem1 FS1, Version=8.4.1.2003 26-Nov-2014 14:26
+000413.014|ssps |*|00|Application, comp. 1: P/N=3150-11580-841.
+000413.015|ice  |*|00|Initial log entry. Current logging level 4
+000413.015|pps  |*|00|Initial log entry. Current logging level 4
+000413.015|sip  |*|00|Initial log entry. Current logging level 4
+000413.016|sipt |*|00|Initial log entry. Current logging level 4
+000413.016|sipp |*|00|Initial log entry. Current logging level 4
+000413.018|ptt  |*|00|Initial log entry. Current logging level 4
+000413.020|xmpp |*|00|Initial log entry. Current logging level 4
+000413.021|btoe |*|00|Initial log entry. Current logging level 4
+000413.023|btoe |5|00|PpsBtoeC::ppsProcMsg thread launched
+000413.871|pwrsv|*|00|Initial log entry. Current logging level 4
+000413.905|so   |*|00|Using TCP IP Media Port, configured initial RTP port 2222
+000413.938|sshc |*|00|Initial log entry. Current logging level 4
+000413.939|gbLoc|*|00|Initial log entry. Current logging level 4
+000413.939|app1 |*|00|Initial log entry. Current logging level 4
+000413.959|btoe |5|00|PpsBtoeC Callback is set
+000413.996|app1 |*|00|AppPhoneC::AppPhoneC() Number Of Line Keys = 48
+000413.996|app1 |*|00|AppPhoneC::AppPhoneC() - new AppRegLineC, szUser = 8729
+000414.116|ldap |*|00|Initial log entry. Current logging level 4
+000414.322|efk  |*|00|Initial log entry. Current logging level 4
+000414.365|cmp  |*|00|Initial log entry. Current logging level 4
+000414.366|wmgr |*|00|Initial log entry. Current logging level 4
+000414.379|slog |*|00|Initial log entry. Current logging level 4
+000414.421|so   |4|00|SoKeyC::procMsg unexpected message 4099
+000414.468|so   |*|00|Network initialized. Starting network tasks.
+000414.469|log  |*|00|Install file upload callback for 'so'
+
+0421180636|pgui |*|00|Qt Mouse driver created.
+0421180638|em   |*|00|Initial log entry. Current logging level 4
+0421180638|dbs  |*|00|Initial log entry. Current logging level 4
+0421180638|osd  |*|00|Initial log entry. Current logging level 4
+0421180638|clist|*|00|Initial log entry. Current logging level 4
+0421180638|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+0421180638|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+0421180638|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+0421180638|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+0421180639|clist|4|00|dbXML::createEntry:name=<bb> func=<0x1afd08><0x1afcb8>- invalid or already exist
+0421180644|brow |*|00|Initial log entry. Current logging level 4
+0421180645|app1 |5|00|[AppHybridC]: APP IS COMPLETELY INTIALIZED.
+0421180645|sip  |*|00|Sip Register Usr:8729 Dsp:8729 Auth:'8729' Inx:0
+0421180645|app1 |4|00|Corporate directory instance does not exists.
+0421180645|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+0421180645|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+0421180645|moh  |*|00|Initial log entry. Current logging level 4
+0421180645|moh  |4|00|SoNcasMohC::soNcasmohCfgInit: File provisioning for Moh is defined only for Lync Profile adn if Moh feature is enabled
+0421180645|sip  |*|00|Fast Boot Measurement Point: Ready for Call, uptime: 287.885 sec.
+0421183308|cfg  |*|00|RT|   Phone IP address is 10.2.0.236.
+0421183308|cfg  |*|00|RT|   Subnet mask is 255.255.255.0.
+0421183308|cfg  |*|00|RT|   Gateway address is 10.2.0.1.
+0421183308|cfg  |*|00|RT|Primary IP: 10.2.0.236 subnet mask 255.255.255.0
+0421183308|so   |*|00|Restarting because of IP address change
+0421183308|app1 |*|00|Event: Multiple Key Combo 7
+0421183308|app1 |*|00|Manual Restart
+0421183308|ldap |4|00|ldapXfer::start:xferStart failed cState=-1
+0421183308|app1 |*|00|AppC::appReboot cDynamicData shutdown complete
+0421183308|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0421183309|ares |4|00|aresDnsLookup: select time-out 2 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0421183310|ares |4|00|aresDnsLookup: select time-out 3 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0421183312|ares |4|00|aresDnsLookup: select time-out 4 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0421183315|ares |4|00|aresDnsLookup: select time-out 5 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0421183319|ares |4|00|aresDnsLookup: select time-out 6 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0421183319|ares |4|00|aresDnsLookup: select time-out 7 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0421183319|dns  |4|00|DNS server(s) unresponsive due to query timeout after 10 sec (Threshold = 5)
+0421183319|sip  |4|00|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'fmoffice.fullymanaged.sip.voxter.com' found no records
+0421183319|sip  |4|00|Registration failed User: 8729, Error Code:480 Temporarily not available
+0421183319|so   |*|00|SoNcasC::procMsg: Client service shutdown complete
+0421183324|wdog |*|00|Watchdog Expired: tApp0, 45
+0421183324|log  |*|00|---------- Final log entry ----------
+003130.472|log  |*|00|---------- Initial log entry ----------
+003130.193|rdisk|*|00|Initial log entry. Current logging level 4
+003130.195|rdisk|*|00|RAM disk created and mounted at "/rfs0"
+003130.195|rdisk|*|00|RAM disk created, size: 16,777,216 bytes
+003130.464|so   |*|00|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+003130.465|so   |*|00|Platform: Interface    eth0 MAC=0004f28e781a
+003130.466|so   |*|00|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+003130.467|so   |*|00|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+003130.470|so   |*|00|Platform: Updater=5.5.0.13251 24-Mar-15 03:06
+003130.470|so   |*|00|Application, main: Label=SIP, Version=Congo 5.3.0.12074 24-Mar-15 02:31
+003130.470|so   |*|00|Application, main: P/N=3150-11530-530
+003130.470|rdisk|*|00|RAM disk created, size: 16,777,216 bytes
+003130.470|ocsp |*|00|O.C.S.P. Enabled = 0
+003130.532|tls  |*|00|Initial log entry. Current logging level 4
+003130.580|pmt  |*|00|Initial log entry. Current logging level 4
+003130.583|wdog |*|00|Initial log entry. Current logging level 4
+003130.583|ethf |*|00|Initial log entry. Current logging level 4
+003130.584|hw   |*|00|Initial log entry. Current logging level 4
+003130.584|ares |*|00|Initial log entry. Current logging level 4
+003130.584|dns  |*|00|Initial log entry. Current logging level 4
+003130.585|cfg  |*|00|Initial log entry. Current logging level 4
+003130.585|cfg  |*|00|Prm|cfgParamBaseProfileUpdate: Using Base Profile Generic
+003130.587|dot1x|*|00|Initial log entry. Current logging level 4
+003130.707|lic  |*|00|Initial log entry. Current logging level 4
+003130.725|lic  |5|00|cfgCfsFlashKeyScratchLoad: could not load flash len 976
+003130.726|lic  |*|00|License expiry check in 3254 seconds
+003130.788|curl |*|00|Initial log entry. Current logging level 4
+003130.788|utilm|*|00|Initial log entry. Current logging level 4
+003130.788|copy |*|00|Initial log entry. Current logging level 4
+003130.788|rtos |*|00|Initial log entry. Current logging level 4
+003132.503|brow |*|00|Initial log entry. Current logging level 4
+003133.748|pgui |*|00|Qt Keyboard driver created.
+003133.750|pgui |4|00|Reconnected with core app, reload the keyboard
+003137.233|dhcpc|*|00|Initial log entry. Current logging level 4
+003140.309|cfg  |*|00|RT|   Phone IP address is 10.2.0.236.
+003140.309|cfg  |*|00|RT|   Subnet mask is 255.255.255.0.
+003140.309|cfg  |*|00|RT|   Gateway address is 10.2.0.1.
+003140.310|cfg  |*|00|RT|   DNS server is 8.8.8.8.
+003140.310|cfg  |*|00|RT|   DNS alternate server is 8.8.4.4.
+003140.310|cfg  |*|00|RT|   GMT offset is -28800 seconds.
+003140.311|dns  |*|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+003140.311|dns  |*|00|DNS resolver search domain is ''
+003140.314|cfg  |*|00|RT|Primary IP: 10.2.0.236 subnet mask 255.255.255.0
+003141.127|cfg  |*|00|Prov|Starting to update 3111-46135-002.sip.ld
+003143.781|copy |*|00|Server 'p.voxter.com' said 'overrides/0004f28e781a-web.cfg' is not present
+003143.846|copy |*|00|Server 'p.voxter.com' said 'licenses/000000000000-license.cfg' is not present
+003143.909|copy |*|00|Server 'p.voxter.com' said 'licenses/0004f28e781a-license.cfg' is not present
+003143.920|cfg  |*|00|Prm|0004f28e781a_reg.cfg: Value "" for configuration parameter reg.1.server.2.port is invalid, ignoring
+003143.921|cfg  |*|00|Prm|0004f28e781a_reg.cfg: Value "" for configuration parameter reg.1.outboundProxy.port is invalid, ignoring
+003143.921|cfg  |*|00|Prm|0004f28e781a_reg.cfg: Value "" for configuration parameter reg.1.lineKeys is invalid, ignoring
+003143.928|cfg  |4|00|Prm|provisioner.cfg: Unknown parameter "sec.tagSerialNo.set" found, ignoring.
+003143.954|cfg  |*|00|Prm|features.cfg: Value 9999 for configuration parameter dir.local.contacts.maxNum is too large, using 500, the maximum allowed
+003143.987|cfg  |*|00|Prov|Setting device parameters from configuration files.
+003143.988|cfg  |4|00|RT|cfgFlashUpdateFromConfig: Failed to update SerialConfig
+003144.014|cfg  |*|00|Prov|Finished updating configuration
+003144.014|sec  |*|00|Initial log entry. Current logging level 4
+003144.017|so   |*|00|Configuration files: 0004f28e781a_reg.cfg, provisioner.cfg, sip.cfg, features.cfg
+003144.017|so   |*|00|Configuration file "0004f28e781a_reg.cfg" SHA1 digest: 2CC862451696DA16B340CE4F0A7E1A1D4146BC9D
+003144.017|so   |*|00|Configuration file "provisioner.cfg" SHA1 digest: 51080CD89DA743106AF5139272C6860F0465BE9D
+003144.017|so   |*|00|Configuration file "sip.cfg" SHA1 digest: 8E310DB6B220A0EF1D6DF3849E8EC996A0BDA0AE
+003144.017|so   |*|00|Configuration file "features.cfg" SHA1 digest: C581BA279B236C29DF1CFC79741E3FAED2E8A230
+003144.017|cfg  |4|00|Prm|Configuration file(s) statistics: 1 parameters were invalid and could not be interpreted.
+003144.017|cfg  |4|00|Prm|Configuration file(s) statistics: 1 parameter values were used but were out of range. 5 were invalid and ignored.
+003144.020|log  |*|00|Log render level set to 1
+003144.023|pcap |*|00|On-Phone Packet Capture disabled
+003144.024|srtp |*|00|Initial log entry. Current logging level 4
+003144.025|cfg  |5|00|Prm|Parameter 0 is out of range
+003144.028|res  |*|00|Initial log entry. Current logging level 4
+003144.029|httpa|*|00|Initial log entry. Current logging level 4
+003144.029|lldp |*|00|Initial log entry. Current logging level 4
+003144.029|cdp  |*|00|Initial log entry. Current logging level 4
+003144.030|pcd  |*|00|Initial log entry. Current logging level 4
+003144.042|tickt|*|00|Initial log entry. Current logging level 4
+003144.043|loc  |*|00|Initial log entry. Current logging level 4
+003144.047|ssps |*|00|Initial log entry. Current logging level 4
+003144.049|ssps |5|00|Allocated 36992 bytes for SspsHdiMemBase=0xe78b90
+003144.049|ssps |4|00|sspsDspLoad: found Maroo 23.
+003144.073|utilm|4|00|uBLFUnCompressed: File /ffs0/Config/Local/WebTicket/0/sip.usr doesn't exist or is empty
+003144.076|tickt|4|00|soWebTicketCertMove: Could not copy key to new uiSlot
+003144.077|tickt|4|00|soWebTicketCertMove: Could not copy cert to new uiSlot
+003144.078|tickt|4|00|soWebTicketCertMove: Could not copy SIP user to new uiSlot
+003144.079|tickt|4|00|soWebTicketCertMove: Could not copy SIP uuid to new uiSlot
+003144.080|tickt|4|00|soWebTicketCertMove: Could not copy NTLM user to new uiSlot
+003144.081|tickt|4|00|soWebTicketCertMove: Could not copy NTLM domain to new uiSlot
+003144.082|tickt|4|00|soWebTicketCertMove: Could not copy SIP password to new uiSlot
+003144.083|tickt|4|00|soWebTicketCertMove: Could not copy server to new uiSlot
+003144.272|so   |*|00|System Info Reports:
+003144.272|so   |*|00|  Cpu is ARMv6-compatible processor rev 7 (v6l), ID: 0x111700b0, running at 300MHz.
+003144.272|so   |*|00|  Board is identified as PolycomVVX-VVX_300.
+003144.272|so   |*|00|  DRAM_SIZE: 128 MB
+003144.272|so   |*|00|  NAND flash detected is 20
+003144.272|key  |*|00|Initial log entry. Current logging level 4
+003144.301|httpd|*|00|Initial log entry. Current logging level 4
+003144.304|poll |*|00|Initial log entry. Current logging level 4
+003144.304|push |*|00|Initial log entry. Current logging level 4
+003144.305|poll |*|00|Initial log entry. Current logging level 4
+003144.305|poll |*|00|Initial log entry. Current logging level 4
+003144.305|ht   |*|00|Initial log entry. Current logging level 4
+003144.306|dbuf |*|00|Initial log entry. Current logging level 4
+003144.308|ssps |*|00|sspsMain: Set HDI mem to be 0, was 0
+003144.313|ssps |*|00|Application, comp. 1: Label=PolyDSP Vino BCM11193 Mem1 FS1, Version=8.4.1.2003 26-Nov-2014 14:26
+003144.313|ssps |*|00|Application, comp. 1: P/N=3150-11580-841.
+003144.313|ice  |*|00|Initial log entry. Current logging level 4
+003144.314|pps  |*|00|Initial log entry. Current logging level 4
+003144.314|sip  |*|00|Initial log entry. Current logging level 4
+003144.314|sipt |*|00|Initial log entry. Current logging level 4
+003144.314|sipp |*|00|Initial log entry. Current logging level 4
+003144.316|ptt  |*|00|Initial log entry. Current logging level 4
+003144.318|xmpp |*|00|Initial log entry. Current logging level 4
+003144.319|btoe |*|00|Initial log entry. Current logging level 4
+003144.321|btoe |5|00|PpsBtoeC::ppsProcMsg thread launched
+003145.152|pwrsv|*|00|Initial log entry. Current logging level 4
+003145.185|so   |*|00|Using TCP IP Media Port, configured initial RTP port 2222
+003145.214|sshc |*|00|Initial log entry. Current logging level 4
+003145.214|gbLoc|*|00|Initial log entry. Current logging level 4
+003145.214|app1 |*|00|Initial log entry. Current logging level 4
+003145.234|btoe |5|00|PpsBtoeC Callback is set
+003145.269|app1 |*|00|AppPhoneC::AppPhoneC() Number Of Line Keys = 48
+003145.270|app1 |*|00|AppPhoneC::AppPhoneC() - new AppRegLineC, szUser = 8729
+003145.358|ldap |*|00|Initial log entry. Current logging level 4
+003145.553|efk  |*|00|Initial log entry. Current logging level 4
+003145.598|cmp  |*|00|Initial log entry. Current logging level 4
+003145.599|wmgr |*|00|Initial log entry. Current logging level 4
+003145.604|slog |*|00|Initial log entry. Current logging level 4
+003145.637|so   |4|00|SoKeyC::procMsg unexpected message 4099
+003145.702|so   |*|00|Network initialized. Starting network tasks.
+003145.704|log  |*|00|Install file upload callback for 'so'
+
+003145.825|clist|*|00|Initial log entry. Current logging level 4
+003145.853|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+003145.854|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+003145.864|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+003145.865|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+0421183344|clist|4|00|dbXML::createEntry:name=<bb> func=<0x1afd08><0x1afcb8>- invalid or already exist
+0421183347|app1 |5|00|[AppHybridC]: APP IS COMPLETELY INTIALIZED.
+0421183347|sip  |*|00|Sip Register Usr:8729 Dsp:8729 Auth:'8729' Inx:0
+0421183347|app1 |4|00|Corporate directory instance does not exists.
+0421183347|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+0421183347|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+0421183347|moh  |*|00|Initial log entry. Current logging level 4
+0421183347|moh  |4|00|SoNcasMohC::soNcasmohCfgInit: File provisioning for Moh is defined only for Lync Profile adn if Moh feature is enabled
+0421183347|sip  |*|00|Fast Boot Measurement Point: Ready for Call, uptime: 1910.714 sec.
+0421183351|pgui |4|00|Unable to find token (en) from the cached table list, notification ignored
+0421183351|pgui |4|00|Unable to find token (en) from the cached table list, notification ignored
+0421183351|pgui |4|00|Unable to find token (en) from the cached table list, notification ignored
+0421183351|pgui |4|00|Unable to find token (en) from the cached table list, notification ignored
+000017.569|log  |*|00|---------- Initial log entry ----------
+000017.186|rdisk|*|00|Initial log entry. Current logging level 4
+000017.191|rdisk|*|00|RAM disk created and mounted at "/rfs0"
+000017.193|rdisk|*|00|RAM disk created, size: 16,777,216 bytes
+000017.551|so   |*|00|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000017.551|so   |*|00|Platform: Interface    eth0 MAC=0004f28e781a
+000017.553|so   |*|00|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000017.554|so   |*|00|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000017.563|so   |*|00|Platform: Updater=5.5.0.13251 24-Mar-15 03:06
+000017.563|so   |*|00|Application, main: Label=SIP, Version=Congo 5.3.0.12074 24-Mar-15 02:31
+000017.563|so   |*|00|Application, main: P/N=3150-11530-530
+000017.563|rdisk|*|00|RAM disk created, size: 16,777,216 bytes
+000017.568|ocsp |*|00|O.C.S.P. Enabled = 0
+000017.636|tls  |*|00|Initial log entry. Current logging level 4
+000017.684|pmt  |*|00|Initial log entry. Current logging level 4
+000017.701|wdog |*|00|Initial log entry. Current logging level 4
+000017.701|ethf |*|00|Initial log entry. Current logging level 4
+000017.702|hw   |*|00|Initial log entry. Current logging level 4
+000017.706|ares |*|00|Initial log entry. Current logging level 4
+000017.710|dns  |*|00|Initial log entry. Current logging level 4
+000017.710|cfg  |*|00|Initial log entry. Current logging level 4
+000017.710|cfg  |*|00|Prm|cfgParamBaseProfileUpdate: Using Base Profile Generic
+000017.724|dot1x|*|00|Initial log entry. Current logging level 4
+000017.916|lic  |*|00|Initial log entry. Current logging level 4
+000017.934|lic  |5|00|cfgCfsFlashKeyScratchLoad: could not load flash len 976
+000017.935|lic  |*|00|License expiry check in 1599 seconds
+000018.062|curl |*|00|Initial log entry. Current logging level 4
+000018.062|utilm|*|00|Initial log entry. Current logging level 4
+000018.063|copy |*|00|Initial log entry. Current logging level 4
+000018.065|rtos |*|00|Initial log entry. Current logging level 4
+000018.067|sec  |*|00|Initial log entry. Current logging level 4
+000018.092|so   |*|00|Configuration files: 0004f28e781a_reg.cfg, provisioner.cfg, sip.cfg, features.cfg
+000018.092|so   |*|00|Configuration file "0004f28e781a_reg.cfg" SHA1 digest: 2CC862451696DA16B340CE4F0A7E1A1D4146BC9D
+000018.092|so   |*|00|Configuration file "provisioner.cfg" SHA1 digest: 51080CD89DA743106AF5139272C6860F0465BE9D
+000018.092|so   |*|00|Configuration file "sip.cfg" SHA1 digest: 8E310DB6B220A0EF1D6DF3849E8EC996A0BDA0AE
+000018.092|so   |*|00|Configuration file "features.cfg" SHA1 digest: C581BA279B236C29DF1CFC79741E3FAED2E8A230
+000018.092|cfg  |4|00|Prm|Configuration file(s) statistics: 1 parameters were invalid and could not be interpreted.
+000018.093|cfg  |4|00|Prm|Configuration file(s) statistics: 1 parameter values were used but were out of range. 5 were invalid and ignored.
+000018.108|log  |*|00|Log render level set to 1
+000018.115|pcap |*|00|On-Phone Packet Capture disabled
+000018.119|srtp |*|00|Initial log entry. Current logging level 4
+000018.132|cfg  |5|00|Prm|Parameter 0 is out of range
+000018.142|res  |*|00|Initial log entry. Current logging level 4
+000018.148|httpa|*|00|Initial log entry. Current logging level 4
+000018.148|lldp |*|00|Initial log entry. Current logging level 4
+000018.148|cdp  |*|00|Initial log entry. Current logging level 4
+000018.151|pcd  |*|00|Initial log entry. Current logging level 4
+000018.184|tickt|*|00|Initial log entry. Current logging level 4
+000018.186|loc  |*|00|Initial log entry. Current logging level 4
+000018.198|utilm|4|00|uBLFUnCompressed: File /ffs0/Config/Local/WebTicket/0/sip.usr doesn't exist or is empty
+000018.208|tickt|4|00|soWebTicketCertMove: Could not copy key to new uiSlot
+000018.209|tickt|4|00|soWebTicketCertMove: Could not copy cert to new uiSlot
+000018.210|tickt|4|00|soWebTicketCertMove: Could not copy SIP user to new uiSlot
+000018.211|tickt|4|00|soWebTicketCertMove: Could not copy SIP uuid to new uiSlot
+000018.211|tickt|4|00|soWebTicketCertMove: Could not copy NTLM user to new uiSlot
+000018.212|tickt|4|00|soWebTicketCertMove: Could not copy NTLM domain to new uiSlot
+000018.213|tickt|4|00|soWebTicketCertMove: Could not copy SIP password to new uiSlot
+000018.214|tickt|4|00|soWebTicketCertMove: Could not copy server to new uiSlot
+000018.228|ssps |*|00|Initial log entry. Current logging level 4
+000018.241|ssps |5|00|Allocated 36992 bytes for SspsHdiMemBase=0xe80ed0
+000018.244|ssps |4|00|sspsDspLoad: found Maroo 23.
+000018.697|so   |*|00|System Info Reports:
+000018.697|so   |*|00|  Cpu is ARMv6-compatible processor rev 7 (v6l), ID: 0x111700b0, running at 300MHz.
+000018.697|so   |*|00|  Board is identified as PolycomVVX-VVX_300.
+000018.697|so   |*|00|  DRAM_SIZE: 128 MB
+000018.697|so   |*|00|  NAND flash detected is 20
+000018.699|key  |*|00|Initial log entry. Current logging level 4
+000018.744|httpd|*|00|Initial log entry. Current logging level 4
+000018.745|poll |*|00|Initial log entry. Current logging level 4
+000018.747|push |*|00|Initial log entry. Current logging level 4
+000018.748|poll |*|00|Initial log entry. Current logging level 4
+000018.750|poll |*|00|Initial log entry. Current logging level 4
+000018.757|ht   |*|00|Initial log entry. Current logging level 4
+000018.760|dbuf |*|00|Initial log entry. Current logging level 4
+000018.766|ssps |*|00|sspsMain: Set HDI mem to be 0, was 0
+000018.785|ssps |*|00|Application, comp. 1: Label=PolyDSP Vino BCM11193 Mem1 FS1, Version=8.4.1.2003 26-Nov-2014 14:26
+000018.785|ssps |*|00|Application, comp. 1: P/N=3150-11580-841.
+000018.787|ice  |*|00|Initial log entry. Current logging level 4
+000018.791|pps  |*|00|Initial log entry. Current logging level 4
+000018.793|sip  |*|00|Initial log entry. Current logging level 4
+000018.795|sipt |*|00|Initial log entry. Current logging level 4
+000018.795|sipp |*|00|Initial log entry. Current logging level 4
+000018.804|ptt  |*|00|Initial log entry. Current logging level 4
+000018.811|xmpp |*|00|Initial log entry. Current logging level 4
+000018.819|btoe |*|00|Initial log entry. Current logging level 4
+000018.827|btoe |5|00|PpsBtoeC::ppsProcMsg thread launched
+000019.721|pwrsv|*|00|Initial log entry. Current logging level 4
+000019.758|so   |*|00|Using TCP IP Media Port, configured initial RTP port 2222
+000019.834|sshc |*|00|Initial log entry. Current logging level 4
+000019.834|gbLoc|*|00|Initial log entry. Current logging level 4
+000019.841|app1 |*|00|Initial log entry. Current logging level 4
+000019.893|btoe |5|00|PpsBtoeC Callback is set
+000019.938|app1 |*|00|AppPhoneC::AppPhoneC() Number Of Line Keys = 48
+000019.938|app1 |*|00|AppPhoneC::AppPhoneC() - new AppRegLineC, szUser = 8729
+000020.070|ldap |*|00|Initial log entry. Current logging level 4
+000020.312|efk  |*|00|Initial log entry. Current logging level 4
+000020.457|cmp  |*|00|Initial log entry. Current logging level 4
+000020.461|wmgr |*|00|Initial log entry. Current logging level 4
+000020.462|slog |*|00|Initial log entry. Current logging level 4
+000020.564|so   |4|00|SoKeyC::procMsg unexpected message 4099
+000024.455|dhcpc|*|00|Initial log entry. Current logging level 4
+000025.378|pgui |*|00|Initial log entry. Current logging level 4
+000027.890|cfg  |*|00|RT|   Phone IP address is 10.2.0.236.
+000027.890|cfg  |*|00|RT|   Subnet mask is 255.255.255.0.
+000027.890|cfg  |*|00|RT|   Gateway address is 10.2.0.1.
+000027.891|cfg  |*|00|RT|   DNS server is 8.8.8.8.
+000027.891|cfg  |*|00|RT|   DNS alternate server is 8.8.4.4.
+000027.891|cfg  |*|00|RT|   GMT offset is -28800 seconds.
+000027.897|dns  |*|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000027.897|dns  |*|00|DNS resolver search domain is ''
+000027.899|cfg  |*|00|RT|Primary IP: 10.2.0.236 subnet mask 255.255.255.0
+000028.038|so   |*|00|Network initialized. Starting network tasks.
+000028.042|log  |*|00|Install file upload callback for 'so'
+
+0421183927|pgui |*|00|Qt Mouse driver created.
+0421183929|em   |*|00|Initial log entry. Current logging level 4
+0421183929|dbs  |*|00|Initial log entry. Current logging level 4
+0421183929|osd  |*|00|Initial log entry. Current logging level 4
+0421183929|clist|*|00|Initial log entry. Current logging level 4
+0421183929|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+0421183929|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+0421183929|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+0421183929|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+0421183932|clist|4|00|dbXML::createEntry:name=<bb> func=<0x1afd08><0x1afcb8>- invalid or already exist
+0421183935|brow |*|00|Initial log entry. Current logging level 4
+0421183937|app1 |5|00|[AppHybridC]: APP IS COMPLETELY INTIALIZED.
+0421183937|sip  |*|00|Sip Register Usr:8729 Dsp:8729 Auth:'8729' Inx:0
+0421183937|app1 |4|00|Corporate directory instance does not exists.
+0421183937|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+0421183937|clist|4|00|dbCfg::getServerDir:Unknown dbCfg type
+0421183937|moh  |*|00|Initial log entry. Current logging level 4
+0421183937|moh  |4|00|SoNcasMohC::soNcasmohCfgInit: File provisioning for Moh is defined only for Lync Profile adn if Moh feature is enabled
+0421183937|cfg  |*|00|Prov|Starting to update 3111-46135-002.sip.ld
+0421183937|sip  |*|00|Fast Boot Measurement Point: Ready for Call, uptime: 68.891 sec.
+0421183942|copy |*|00|Server 'p.voxter.com' said 'overrides/0004f28e781a-web.cfg' is not present
+0421183942|copy |*|00|Server 'p.voxter.com' said 'licenses/000000000000-license.cfg' is not present
+0421183942|copy |*|00|Server 'p.voxter.com' said 'licenses/0004f28e781a-license.cfg' is not present
+0421183942|cfg  |*|00|Prm|0004f28e781a_reg.cfg: Value "" for configuration parameter reg.1.server.2.port is invalid, ignoring
+0421183942|cfg  |*|00|Prm|0004f28e781a_reg.cfg: Value "" for configuration parameter reg.1.outboundProxy.port is invalid, ignoring
+0421183942|cfg  |*|00|Prm|0004f28e781a_reg.cfg: Value "" for configuration parameter reg.1.lineKeys is invalid, ignoring
+0421183942|cfg  |4|00|Prm|provisioner.cfg: Unknown parameter "sec.tagSerialNo.set" found, ignoring.
+0421183942|cfg  |*|00|Prm|features.cfg: Value 9999 for configuration parameter dir.local.contacts.maxNum is too large, using 500, the maximum allowed
+0421183942|cfg  |*|00|Prov|Setting device parameters from configuration files.
+0421183942|cfg  |4|00|RT|cfgFlashUpdateFromConfig: Failed to update SerialConfig
+0421183942|cfg  |*|00|Prov|Finished updating configuration

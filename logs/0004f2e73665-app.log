@@ -1,0 +1,33 @@
+0420054745|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420064745|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420074745|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420084745|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420084802|ares |4|03|aresDnsLookup: select time-out 1 on SRV lookup for '_ntp._udp.pool.ntp.org' after 1 sec
+0420084802|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0420095142|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420105143|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420115143|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420124758|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0420125542|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420125641|app1 |*|03|Ctx [0] Registered [false]
+0420125750|app1 |*|03|Ctx [0] Registered [true]
+0420130251|app1 |*|03|Ctx [0] Registered [false]
+0420130337|app1 |*|03|Ctx [0] Registered [true]
+0420135937|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420140737|sip  |4|03|NAPTR query for host 'parkit.voxter.sip.voxter.com' returned no results
+0420145937|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420155938|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420164756|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0420170336|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420180336|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420190336|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420200336|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420204754|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0420210735|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420220735|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420222737|ares |4|03|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 1 sec
+0420230738|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421000739|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421004752|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0421011136|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421021136|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys

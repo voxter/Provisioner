@@ -1,0 +1,48 @@
+0418235942|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419005942|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419013542|sip  |4|03|NAPTR query for host 'cumulus.voxter.sip.voxter.com' returned no results
+0419015943|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419025943|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419035943|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419045943|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419055943|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419065943|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419075944|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419085944|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419095944|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419102413|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0419110342|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419120342|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419130342|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419140342|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419150343|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419160343|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419170343|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419180343|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419190343|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419200343|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419210343|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419220343|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419230344|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0419235144|sip  |4|03|NAPTR query for host 'cumulus.voxter.sip.voxter.com' returned no results
+0420000344|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420010344|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420020344|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420030344|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420040344|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420050344|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420060344|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420070345|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420080345|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420090345|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420100345|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420102411|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0420110743|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420120743|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420125646|app1 |*|03|Ctx [0] Registered [false]
+0420125700|app1 |*|03|Ctx [0] Registered [true]
+0420130159|app1 |*|03|Ctx [0] Registered [false]
+0420130237|app1 |*|03|Ctx [0] Registered [true]
+0420131037|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420141037|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0420151038|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys

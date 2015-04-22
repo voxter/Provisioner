@@ -59,9 +59,10 @@ class Accounts {
             $default_settings = array();
             $default_settings['data'] = $this->db->get($account_db, $account_id);
 
-            if (isset($default_settings['data']['settings']))
+            if (isset($default_settings['data']['settings'])) {
+                $this->_log->logDebug("Default settings came back OK");
                 return $default_settings;
-            else {
+            } else {
                 $this->_log->logDebug("No account with this id - EXIT");
                 throw new RestException(404, 'This account_id do not exist or there are no default settings for this user');
             }

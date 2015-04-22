@@ -1,0 +1,7 @@
+0418213548|sip  |4|00|NAPTR query for host 'lakeexcavating.voxter.sip.voxter.com' returned no results
+0419195148|sip  |4|00|NAPTR query for host 'lakeexcavating.voxter.sip.voxter.com' returned no results
+0420080025|clist|4|00|dbCallSet::updateCall:m_status=<true> list[1]=<0xd2c6c0>
+0420080025|clist|4|00|dbCallSet::updateCall:db = NULL
+0420080025|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420080025|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420125620|sip  |4|00|Registration failed User: 1004, Error Code:480 Temporarily not available

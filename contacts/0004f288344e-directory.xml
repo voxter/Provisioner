@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- edited with XMLSPY v5 rel. 4 U (http://www.xmlspy.com) -->
+<?Saved @ --2014-10-23T10:37:14-- ?>
+<directory>
+  <item_list>
+    <item>
+      <ln>Main Menu (menu)</ln>
+      <ct>1000</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Tammie Surrey</ln>
+      <ct>7016</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Kevin Church</ln>
+      <ct>7012</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Bryce Clark</ln>
+      <ct>7010</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Shairoz  Verjee</ln>
+      <ct>7013</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Elaine Walsh</ln>
+      <ct>7015</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Boardroom Boardroom</ln>
+      <ct>7011</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Christine Peters</ln>
+      <ct>7014</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>voicemail (check)</ln>
+      <ct>*97</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>call forward (activate)</ln>
+      <ct>*72</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+  </item_list>
+</directory>

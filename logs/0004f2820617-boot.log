@@ -1,0 +1,322 @@
+000007.061|so   |*|01|---------- Initial log entry ----------
+000007.061|so   |*|01|+++ Note that Updater log times are in GMT +++
+000007.061|boot |*|01|Initial log entry. Current logging level 3
+000007.061|copy |*|01|Initial log entry. Current logging level 3
+000007.061|utilm|*|01|Initial log entry. Current logging level 4
+000007.061|hw   |*|01|Initial log entry. Current logging level 4
+000007.061|ethf |*|01|Initial log entry. Current logging level 4
+000007.061|dns  |*|01|Initial log entry. Current logging level 3
+000007.062|curl |*|01|Initial log entry. Current logging level 3
+000007.062|sec  |*|01|Initial log entry. Current logging level 4
+000007.071|wdog |*|01|Initial log entry. Current logging level 4
+000007.071|lldp |*|01|Initial log entry. Current logging level 3
+000007.071|cdp  |*|01|Initial log entry. Current logging level 3
+000007.071|key  |*|01|Initial log entry. Current logging level 4
+000007.190|hw   |6|01|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x1c.
+000007.190|so   |3|01|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000007.190|so   |3|01|Platform: Board=3111-44500-001 7 0
+000007.191|so   |3|01|Platform: MAC=0004f2820617
+000007.191|so   |3|01|Platform: BootBlock=3.0.3.0013 (44500-001) 07-Oct-11 08:34
+000007.192|so   |*|01|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000007.192|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.3.10644 05-Feb-13 17:24
+000007.192|so   |3|01|Application, main: P/N=3150-11069-513
+000007.192|log  |*|01|Install file upload callback for 'Updater'
+
+000007.193|app1 |*|01|Initial log entry. Current logging level 3
+000007.218|cfg  |*|01|Initial log entry. Current logging level 2
+000008.069|so   |3|01|Link status is Net up Speed 1000 full Duplex, PC down.
+000006.921|so   |*|01|---------- Initial log entry ----------
+000006.921|so   |*|01|+++ Note that Updater log times are in GMT +++
+000006.921|boot |*|01|Initial log entry. Current logging level 3
+000006.921|copy |*|01|Initial log entry. Current logging level 3
+000006.921|utilm|*|01|Initial log entry. Current logging level 4
+000006.921|hw   |*|01|Initial log entry. Current logging level 4
+000006.921|ethf |*|01|Initial log entry. Current logging level 4
+000006.921|dns  |*|01|Initial log entry. Current logging level 3
+000006.921|curl |*|01|Initial log entry. Current logging level 3
+000006.921|sec  |*|01|Initial log entry. Current logging level 4
+000006.931|wdog |*|01|Initial log entry. Current logging level 4
+000006.931|lldp |*|01|Initial log entry. Current logging level 3
+000006.931|cdp  |*|01|Initial log entry. Current logging level 3
+000006.932|key  |*|01|Initial log entry. Current logging level 4
+000007.050|hw   |6|01|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x1c.
+000007.051|so   |3|01|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000007.051|so   |3|01|Platform: Board=3111-44500-001 7 0
+000007.051|so   |3|01|Platform: MAC=0004f2820617
+000007.052|so   |3|01|Platform: BootBlock=3.0.3.0013 (44500-001) 07-Oct-11 08:34
+000007.052|so   |*|01|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000007.052|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.3.10644 05-Feb-13 17:24
+000007.052|so   |3|01|Application, main: P/N=3150-11069-513
+000007.052|log  |*|01|Install file upload callback for 'Updater'
+
+000007.053|app1 |*|01|Initial log entry. Current logging level 3
+000007.078|cfg  |*|01|Initial log entry. Current logging level 2
+000007.924|so   |3|01|Link status is Net up Speed 1000 full Duplex, PC down.
+000006.848|so   |*|01|---------- Initial log entry ----------
+000006.848|so   |*|01|+++ Note that Updater log times are in GMT +++
+000006.848|boot |*|01|Initial log entry. Current logging level 3
+000006.848|copy |*|01|Initial log entry. Current logging level 3
+000006.848|utilm|*|01|Initial log entry. Current logging level 4
+000006.848|hw   |*|01|Initial log entry. Current logging level 4
+000006.848|ethf |*|01|Initial log entry. Current logging level 4
+000006.848|dns  |*|01|Initial log entry. Current logging level 3
+000006.848|curl |*|01|Initial log entry. Current logging level 3
+000006.848|sec  |*|01|Initial log entry. Current logging level 4
+000006.858|wdog |*|01|Initial log entry. Current logging level 4
+000006.858|lldp |*|01|Initial log entry. Current logging level 3
+000006.858|cdp  |*|01|Initial log entry. Current logging level 3
+000006.858|key  |*|01|Initial log entry. Current logging level 4
+000006.980|hw   |6|01|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x1c.
+000006.981|so   |3|01|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000006.981|so   |3|01|Platform: Board=3111-44500-001 7 0
+000006.981|so   |3|01|Platform: MAC=0004f2820617
+000006.982|so   |3|01|Platform: BootBlock=3.0.3.0013 (44500-001) 07-Oct-11 08:34
+000006.982|so   |*|01|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000006.982|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.3.10644 05-Feb-13 17:24
+000006.982|so   |3|01|Application, main: P/N=3150-11069-513
+000006.983|log  |*|01|Install file upload callback for 'Updater'
+
+000006.983|app1 |*|01|Initial log entry. Current logging level 3
+000007.008|cfg  |*|01|Initial log entry. Current logging level 2
+000007.019|dot1x|*|01|Initial log entry. Current logging level 3
+000007.019|app1 |3|01|Starting provisioning because of the start type.
+000007.155|tls  |*|01|Initial log entry. Current logging level 4
+000007.851|so   |3|01|Link status is Net up Speed 1000 full Duplex, PC down.
+000010.241|lldp |3|01|Enabling 802.1Q tagging, VLAN ID = 206 (from LLDP/CDP)
+000010.241|lldp |5|01|VLAN Id has changed to 206.
+000013.227|lldp |3|01|LLDP received a response from a switch. LLDP enabled.
+000013.280|dhcpc|*|01|Initial log entry. Current logging level 4
+000016.564|dns  |*|01|DNS resolver servers are '172.24.192.11' '172.24.192.12'
+000016.564|dns  |*|01|DNS resolver search domain is 'hq.squareup.com'
+000016.564|app1 |3|01|DNS resolver servers are '172.24.192.11' '172.24.192.12'
+000016.564|app1 |3|01|DNS resolver search domain is 'hq.squareup.com'
+000016.572|dns  |3|01|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=86080
+000016.573|app1 |3|01|DHCP returned result 0x3A7 from server 172.24.192.12.
+000016.573|app1 |3|01|   Phone IP address is 172.24.33.14.
+000016.573|app1 |3|01|   Subnet mask is 255.255.254.0.
+000016.573|app1 |3|01|   Gateway address is 172.24.32.1.
+000016.573|app1 |3|01|   Time server is 192.168.18.193.
+0317214452|app1 |3|01|   DNS server is 172.24.192.11.
+0317214452|app1 |3|01|   DNS alternate server is 172.24.192.12.
+0317214452|app1 |3|01|   DNS domain is hq.squareup.com.
+0317214613|app1 |3|01|Time has been set from 192.168.18.193 (192.168.18.193).
+0317214613|app1 |3|01|   1426628773: 2015-3-17, 21:46:13, DST off
+0317214613|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f2820617.cfg' from 'p.voxter.com(74.114.208.245)'
+0317214613|copy |3|01|Download of '0004f2820617.cfg' succeeded on attempt 1 (addr 1 of 1)
+0317214613|cfg  |*|01|Prov|Starting to update 3111-44500-001.sip.ld
+0317214613|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/3111-44500-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+0317214613|cfg  |3|01|New load header information:
+0317214613|cfg  |3|01|Code length:         0x02E64F20
+0317214613|cfg  |3|01|Code Checksum:       0x37659CDD
+0317214613|cfg  |3|01|Options:             0x00000080
+0317214613|cfg  |3|01|Recognized container image
+0317214613|cfg  |3|01|New load header information:
+0317214613|cfg  |3|01|Code length:         0x027AD000
+0317214613|cfg  |3|01|Code Checksum:       0x4E23087A
+0317214613|cfg  |3|01|Options:             0x00000002
+0317214613|cfg  |3|01|Application header is different
+0317214613|cfg  |3|01|Application in container image 1 is different
+0317214613|cfg  |3|01|New load header information:
+0317214613|cfg  |3|01|Code length:         0x006B75D0
+0317214613|cfg  |3|01|Code Checksum:       0x3764F9B0
+0317214613|cfg  |3|01|Options:             0x00000010
+0317214613|cfg  |3|01|Updater header is different
+0317214613|cfg  |3|01|Updater in container image 2 is different
+0317214613|cfg  |3|01|Using Updater
+0317214625|cfg  |*|01|Prov|Updating the Updater
+0317214625|cfg  |3|01|Using compatible image 0
+0317214628|copy |3|01|Download of '3111-44500-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+0317214628|sig  |*|01|Initial log entry. Current logging level 3
+0317214628|sig  |3|01|hwSigParseRemove: found key Sig_3.
+0317214629|cfg  |3|01|Good image signature
+0317214629|cfg  |4|01|Removing application...
+0317214632|cfg  |3|01|Programming Updater from sector 64 to 319
+0317214637|cfg  |3|01|Programming to sector 64 complete
+0317214638|cfg  |*|01|Prov|Image has been changed
+0317214638|cfg  |*|01|Prov|Provisioning needs to reboot to upgrade image(s)
+000009.009|so   |*|01|---------- Initial log entry ----------
+000009.009|so   |*|01|+++ Note that Updater log times are in GMT +++
+000009.009|boot |*|01|Initial log entry. Current logging level 3
+000009.009|copy |*|01|Initial log entry. Current logging level 3
+000009.010|utilm|*|01|Initial log entry. Current logging level 4
+000009.010|hw   |*|01|Initial log entry. Current logging level 4
+000009.010|ethf |*|01|Initial log entry. Current logging level 4
+000009.010|dns  |*|01|Initial log entry. Current logging level 3
+000009.010|curl |*|01|Initial log entry. Current logging level 3
+000009.010|sec  |*|01|Initial log entry. Current logging level 4
+000009.019|wdog |*|01|Initial log entry. Current logging level 4
+000009.020|lldp |*|01|Initial log entry. Current logging level 3
+000009.020|cdp  |*|01|Initial log entry. Current logging level 3
+000009.020|key  |*|01|Initial log entry. Current logging level 4
+000009.152|hw   |6|01|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x1c.0
+000009.153|so   |3|01|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000009.153|so   |3|01|Platform: Board=3111-44500-001 7 0
+000009.153|so   |3|01|Platform: MAC=0004f2820617
+000009.154|so   |3|01|Platform: BootBlock=3.0.3.0013 (44500-001) 07-Oct-11 08:34
+000009.154|so   |*|01|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000009.154|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.6.0565 26-Feb-14 08:00
+000009.154|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000009.154|log  |*|01|Install file upload callback for 'Updater'
+
+000009.155|app1 |*|01|Initial log entry. Current logging level 3
+000009.183|cfg  |*|01|Initial log entry. Current logging level 2
+000009.193|dot1x|*|01|Initial log entry. Current logging level 3
+000009.193|app1 |3|01|Starting provisioning because of the start type.
+000009.333|tls  |*|01|Initial log entry. Current logging level 4
+000010.014|so   |3|01|Link status is Net up Speed 1000 full Duplex, PC down.
+000012.416|lldp |3|01|Enabling 802.1Q tagging, VLAN ID = 206 (from LLDP/CDP)
+000012.417|lldp |5|01|VLAN Id has changed to 206.
+000015.405|lldp |3|01|LLDP received a response from a switch. LLDP enabled.
+000015.460|dhcpc|*|01|Initial log entry. Current logging level 4
+000017.904|dns  |*|01|DNS resolver servers are '172.24.192.11' '172.24.192.12'
+000017.904|dns  |*|01|DNS resolver search domain is 'hq.squareup.com'
+000017.904|app1 |3|01|DNS resolver servers are '172.24.192.11' '172.24.192.12'
+000017.904|app1 |3|01|DNS resolver search domain is 'hq.squareup.com'
+000017.912|dns  |3|01|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=86027
+000017.913|app1 |3|01|DHCP returned result 0x3A7 from server 172.24.192.11.
+000017.913|app1 |3|01|   Phone IP address is 172.24.33.14.
+000017.913|app1 |3|01|   Subnet mask is 255.255.254.0.
+000017.913|app1 |3|01|   Gateway address is 172.24.32.1.
+0317214621|app1 |3|01|   Time server is 192.168.18.193.
+0317214621|app1 |3|01|   DNS server is 172.24.192.11.
+0317214621|app1 |3|01|   DNS alternate server is 172.24.192.12.
+0317214621|app1 |3|01|   DNS domain is hq.squareup.com.
+0317214706|app1 |3|01|Time has been set from 192.168.18.193 (192.168.18.193).
+0317214706|app1 |3|01|   1426628826: 2015-3-17, 21:47:6, DST off
+0317214706|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f2820617.cfg' from 'p.voxter.com(74.114.208.245)'
+0317214706|copy |3|01|Download of '0004f2820617.cfg' succeeded on attempt 1 (addr 1 of 1)
+0317214706|cfg  |*|01|Prov|Starting to update 3111-44500-001.sip.ld
+0317214706|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/3111-44500-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+0317214706|cfg  |3|01|New load header information:
+0317214706|cfg  |3|01|Code length:         0x02E64F20
+0317214706|cfg  |3|01|Code Checksum:       0x37659CDD
+0317214706|cfg  |3|01|Options:             0x00000080
+0317214706|cfg  |5|01|hwBoard.verDisplay: 23
+
+0317214706|cfg  |3|01|Recognized container image
+0317214706|cfg  |3|01|New load header information:
+0317214706|cfg  |3|01|Code length:         0x027AD000
+0317214706|cfg  |3|01|Code Checksum:       0x4E23087A
+0317214706|cfg  |3|01|Options:             0x00000002
+0317214706|cfg  |5|01|hwBoard.verDisplay: 23
+
+0317214706|cfg  |3|01|Could not open application file for checking
+0317214706|cfg  |3|01|Application in container image 1 is different
+0317214706|cfg  |3|01|New load header information:
+0317214706|cfg  |3|01|Code length:         0x006B75D0
+0317214706|cfg  |3|01|Code Checksum:       0x3764F9B0
+0317214706|cfg  |3|01|Options:             0x00000010
+0317214706|cfg  |5|01|hwBoard.verDisplay: 23
+
+0317214706|cfg  |3|01|Updater is already present
+0317214706|cfg  |3|01|Updater in container image 2 is not different
+0317214706|cfg  |3|01|Using application
+0317214706|cfg  |*|01|Prov|Updating the Application
+0317214706|cfg  |3|01|Using compatible image 0
+0317214722|copy |3|01|buffered_write: transfer terminated
+0317214722|copy |3|01|Download of '3111-44500-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+0317214723|sig  |*|01|Initial log entry. Current logging level 3
+0317214723|sig  |3|01|hwSigParseRemove: found key Sig_3.
+0317214725|cfg  |3|01|Good image signature
+0317214726|cfg  |3|01|Programming 41603664 bytes into tffs in 4K blocks
+0317214747|cfg  |3|01|Extracting application files
+0317214747|cfg  |3|01|New load header information:
+0317214747|cfg  |3|01|Code length:         0x027AD000
+0317214747|cfg  |3|01|Code Checksum:       0x4E23087A
+0317214747|cfg  |3|01|Options:             0x00000002
+0317214847|cfg  |3|01|Finished extracting application files (OK)
+0317214852|cfg  |3|01|File system is synchronized
+0317214853|cfg  |*|01|Prov|Succeeded updating file 3111-44500-001.sip.ld
+0317214853|cfg  |*|01|Prov|Image has been changed
+0317214853|cfg  |3|01|Prov|Provisioning succeeded
+0317214853|app1 |3|01|Application, load: Type=SIP, Version=4.0.6.0711 26-Feb-14 08:15
+0317214853|cfg  |*|01|Prov|Finished updating configuration
+0317214853|boot |*|01|Using TFFS for flash load
+0317214853|boot |*|01|Code length:         0x027AD000
+0317214853|boot |*|01|Code checksum:       0x4E23087A
+0317214853|app1 |4|01|Loaded application sip.ld from local system successfully.
+0317214853|app1 |6|01|Uploading boot log, time is Tue Mar 17 21:48:54 2015
+
+0317214854|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/logs/0004f2820617-boot.log' to 'p.voxter.com(74.114.208.245)'
+0317214854|copy |3|01|Upload of 'logs/0004f2820617-boot.log' succeeded on attempt 1 (addr 1 of 1)
+000008.189|so   |*|00|---------- Initial log entry ----------
+000008.189|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.189|boot |*|00|Initial log entry. Current logging level 3
+000008.189|copy |*|00|Initial log entry. Current logging level 3
+000008.189|utilm|*|00|Initial log entry. Current logging level 4
+000008.189|hw   |*|00|Initial log entry. Current logging level 4
+000008.189|ethf |*|00|Initial log entry. Current logging level 4
+000008.189|dns  |*|00|Initial log entry. Current logging level 3
+000008.189|curl |*|00|Initial log entry. Current logging level 3
+000008.189|sec  |*|00|Initial log entry. Current logging level 4
+000008.198|wdog |*|00|Initial log entry. Current logging level 4
+000008.199|lldp |*|00|Initial log entry. Current logging level 3
+000008.199|cdp  |*|00|Initial log entry. Current logging level 3
+000008.199|key  |*|00|Initial log entry. Current logging level 4
+000008.320|hw   |6|00|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x1c.0
+000008.321|so   |3|00|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000008.321|so   |3|00|Platform: Board=3111-44500-001 7 0
+000008.321|so   |3|00|Platform: MAC=0004f2820617
+000008.322|so   |3|00|Platform: BootBlock=3.0.3.0013 (44500-001) 07-Oct-11 08:34
+000008.322|so   |*|00|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000008.322|so   |3|00|Application, main: Label=Updater, Version=Azurite 5.0.6.0565 26-Feb-14 08:00
+000008.322|so   |3|00|Application, main: P/N=YYYY-YYYYY-YYY
+000008.322|log  |*|00|Install file upload callback for 'Updater'
+
+000008.323|app1 |*|00|Initial log entry. Current logging level 3
+000008.351|cfg  |*|00|Initial log entry. Current logging level 2
+000009.195|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC down.
+000008.243|so   |*|00|---------- Initial log entry ----------
+000008.243|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.243|boot |*|00|Initial log entry. Current logging level 3
+000008.243|copy |*|00|Initial log entry. Current logging level 3
+000008.244|utilm|*|00|Initial log entry. Current logging level 4
+000008.244|hw   |*|00|Initial log entry. Current logging level 4
+000008.244|ethf |*|00|Initial log entry. Current logging level 4
+000008.244|dns  |*|00|Initial log entry. Current logging level 3
+000008.244|curl |*|00|Initial log entry. Current logging level 3
+000008.244|sec  |*|00|Initial log entry. Current logging level 4
+000008.253|wdog |*|00|Initial log entry. Current logging level 4
+000008.253|lldp |*|00|Initial log entry. Current logging level 3
+000008.253|cdp  |*|00|Initial log entry. Current logging level 3
+000008.253|key  |*|00|Initial log entry. Current logging level 4
+000008.370|hw   |6|00|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x1c.0
+000008.371|so   |3|00|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000008.371|so   |3|00|Platform: Board=3111-44500-001 7 0
+000008.371|so   |3|00|Platform: MAC=0004f2820617
+000008.372|so   |3|00|Platform: BootBlock=3.0.3.0013 (44500-001) 07-Oct-11 08:34
+000008.372|so   |*|00|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000008.372|so   |3|00|Application, main: Label=Updater, Version=Azurite 5.0.6.0565 26-Feb-14 08:00
+000008.372|so   |3|00|Application, main: P/N=YYYY-YYYYY-YYY
+000008.372|log  |*|00|Install file upload callback for 'Updater'
+
+000008.373|app1 |*|00|Initial log entry. Current logging level 3
+000008.401|cfg  |*|00|Initial log entry. Current logging level 2
+000009.250|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC down.
+000008.215|so   |*|00|---------- Initial log entry ----------
+000008.215|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.215|boot |*|00|Initial log entry. Current logging level 3
+000008.216|copy |*|00|Initial log entry. Current logging level 3
+000008.216|utilm|*|00|Initial log entry. Current logging level 4
+000008.216|hw   |*|00|Initial log entry. Current logging level 4
+000008.216|ethf |*|00|Initial log entry. Current logging level 4
+000008.216|dns  |*|00|Initial log entry. Current logging level 3
+000008.216|curl |*|00|Initial log entry. Current logging level 3
+000008.216|sec  |*|00|Initial log entry. Current logging level 4
+000008.225|wdog |*|00|Initial log entry. Current logging level 4
+000008.225|lldp |*|00|Initial log entry. Current logging level 3
+000008.225|cdp  |*|00|Initial log entry. Current logging level 3
+000008.225|key  |*|00|Initial log entry. Current logging level 4
+000008.340|hw   |6|00|TouchScreen: found lds700x_ts on /dev/event1, firmware version: 0x1c.0
+000008.341|so   |3|00|Platform: Model=VVX 500, Assembly=3111-44500-001 Rev=A Region=0
+000008.341|so   |3|00|Platform: Board=3111-44500-001 7 0
+000008.341|so   |3|00|Platform: MAC=0004f2820617
+000008.342|so   |3|00|Platform: BootBlock=3.0.3.0013 (44500-001) 07-Oct-11 08:34
+000008.342|so   |*|00|Platform: BootL1=1.0.0.0018 (44500-001) 06-Oct-11 17:01
+000008.342|so   |3|00|Application, main: Label=Updater, Version=Azurite 5.0.6.0565 26-Feb-14 08:00
+000008.342|so   |3|00|Application, main: P/N=YYYY-YYYYY-YYY
+000008.342|log  |*|00|Install file upload callback for 'Updater'
+
+000008.343|app1 |*|00|Initial log entry. Current logging level 3
+000008.371|cfg  |*|00|Initial log entry. Current logging level 2
+000009.222|so   |3|00|Link status is Net up Speed 1000 full Duplex, PC down.

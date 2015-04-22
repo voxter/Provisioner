@@ -1,0 +1,63 @@
+0420070813|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0420093137|app1 |4|00|DBS event contains a handle (0xd4ee58) that's invalid
+0420093137|app1 |4|00|DBS event contains a handle (0xd77868) that's invalid
+0420093222|clist|4|00|dbIO::processResult:copy error
+0420093222|clist|4|00|dbSet::mem2srv:transfer failed
+0420102434|app1 |4|00|DBS event contains a handle (0xd4ee58) that's invalid
+0420102434|app1 |4|00|DBS event contains a handle (0xd77868) that's invalid
+0420102522|clist|4|00|dbIO::processResult:copy error
+0420102522|clist|4|00|dbSet::mem2srv:transfer failed
+0420102611|app1 |4|00|DBS event contains a handle (0x4129eb98) that's invalid
+0420102611|app1 |4|00|DBS event contains a handle (0xd4e500) that's invalid
+0420125646|sip  |4|00|Registration failed User: 3811, Error Code:480 Temporarily not available
+0420125804|sip  |4|00|Registration failed User: 3811, Error Code:401 Unauthorized
+0420210240|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420210240|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420210300|app1 |4|00|DBS event contains a handle (0xd4ee58) that's invalid
+0420210300|app1 |4|00|DBS event contains a handle (0xd77868) that's invalid
+0420210320|clist|4|00|dbIO::processResult:copy error
+0420210320|clist|4|00|dbSet::mem2srv:transfer failed
+0421045853|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0421085355|app1 |4|00|DBS event contains a handle (0xd4ee58) that's invalid
+0421085355|app1 |4|00|DBS event contains a handle (0xd77868) that's invalid
+0421085420|clist|4|00|dbIO::processResult:copy error
+0421085420|clist|4|00|dbSet::mem2srv:transfer failed
+0421085638|app1 |4|00|DBS event contains a handle (0xd4ee58) that's invalid
+0421085638|app1 |4|00|DBS event contains a handle (0xd77868) that's invalid
+0421085720|clist|4|00|dbIO::processResult:copy error
+0421085720|clist|4|00|dbSet::mem2srv:transfer failed
+0421103054|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 0 sec
+0421110712|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421110712|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421110732|app1 |4|00|DBS event contains a handle (0xd4ee58) that's invalid
+0421110732|app1 |4|00|DBS event contains a handle (0xd77868) that's invalid
+0421110820|clist|4|00|dbIO::processResult:copy error
+0421110820|clist|4|00|dbSet::mem2srv:transfer failed
+0421115701|app1 |4|00|DBS event contains a handle (0xd4ee58) that's invalid
+0421115701|app1 |4|00|DBS event contains a handle (0xd77868) that's invalid
+0421115713|app1 |4|00|DBS event contains a handle (0xd4ee58) that's invalid
+0421115713|app1 |4|00|DBS event contains a handle (0xd77868) that's invalid
+0421115720|clist|4|00|dbIO::processResult:copy error
+0421115720|clist|4|00|dbSet::mem2srv:transfer failed
+0421115807|app1 |4|00|DBS event contains a handle (0xd4ee58) that's invalid
+0421115807|app1 |4|00|DBS event contains a handle (0xd77868) that's invalid
+0421115820|clist|4|00|dbIO::processResult:copy error
+0421115820|clist|4|00|dbSet::mem2srv:transfer failed
+0421165535|app1 |4|00|DBS event contains a handle (0xd4ee58) that's invalid
+0421165535|app1 |4|00|DBS event contains a handle (0xd77868) that's invalid
+0421165618|clist|4|00|dbIO::processResult:copy error
+0421165618|clist|4|00|dbSet::mem2srv:transfer failed
+0421171806|app1 |4|00|DBS event contains a handle (0xd4ee58) that's invalid
+0421171806|app1 |4|00|DBS event contains a handle (0xd77868) that's invalid
+0421171818|clist|4|00|dbIO::processResult:copy error
+0421171818|clist|4|00|dbSet::mem2srv:transfer failed
+0421172415|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421172415|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0421172423|app1 |4|00|DBS event contains a handle (0xd4ee58) that's invalid
+0421172423|app1 |4|00|DBS event contains a handle (0xd77868) that's invalid
+0421172518|clist|4|00|dbIO::processResult:copy error
+0421172518|clist|4|00|dbSet::mem2srv:transfer failed
+0421173318|app1 |4|00|DBS event contains a handle (0xd4ee58) that's invalid
+0421173318|app1 |4|00|DBS event contains a handle (0xd77868) that's invalid
+0421173418|clist|4|00|dbIO::processResult:copy error
+0421173418|clist|4|00|dbSet::mem2srv:transfer failed

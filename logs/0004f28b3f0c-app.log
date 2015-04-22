@@ -1,0 +1,6 @@
+0420080342|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0420092008|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420092008|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420092119|clist|4|00|dbIO::processResult:copy error
+0420092119|clist|4|00|dbSet::mem2srv:transfer failed
+0420105419|clist|4|00|dbIO::processResult:copy error

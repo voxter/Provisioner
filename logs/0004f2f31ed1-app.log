@@ -1,0 +1,100 @@
+0419185341|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419185341|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419185341|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419185407|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419185408|ares |4|03|aresDnsLookup: select time-out 1 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 1 sec
+0419185410|ares |4|03|aresDnsLookup: select time-out 2 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 2 sec
+0419185414|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419185414|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419185414|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419185440|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419185441|ares |4|03|aresDnsLookup: select time-out 1 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 1 sec
+0419185443|ares |4|03|aresDnsLookup: select time-out 2 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 2 sec
+0419185447|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419185447|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419185447|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419185513|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419185514|ares |4|03|aresDnsLookup: select time-out 1 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 1 sec
+0419185516|ares |4|03|aresDnsLookup: select time-out 2 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 2 sec
+0419185520|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419185520|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419185520|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419185546|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419185547|ares |4|03|aresDnsLookup: select time-out 1 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 1 sec
+0419185549|ares |4|03|aresDnsLookup: select time-out 2 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 2 sec
+0419185553|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419185553|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419185553|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419185619|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419185620|ares |4|03|aresDnsLookup: select time-out 1 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 1 sec
+0419185622|ares |4|03|aresDnsLookup: select time-out 2 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 2 sec
+0419185626|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419185626|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419185626|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419185652|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419185653|ares |4|03|aresDnsLookup: select time-out 1 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 1 sec
+0419185655|ares |4|03|aresDnsLookup: select time-out 2 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 2 sec
+0419185659|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419185659|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419185659|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419185725|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419185726|ares |4|03|aresDnsLookup: select time-out 1 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 1 sec
+0419185728|ares |4|03|aresDnsLookup: select time-out 2 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 2 sec
+0419185732|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419185732|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419185732|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419185758|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419185759|ares |4|03|aresDnsLookup: select time-out 1 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 1 sec
+0419185801|ares |4|03|aresDnsLookup: select time-out 2 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 2 sec
+0419185805|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419185805|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419185805|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419185831|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419185832|ares |4|03|aresDnsLookup: select time-out 1 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 1 sec
+0419185834|ares |4|03|aresDnsLookup: select time-out 2 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 2 sec
+0419185838|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419185838|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419185838|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419185904|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419185905|ares |4|03|aresDnsLookup: select time-out 1 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 1 sec
+0419185907|ares |4|03|aresDnsLookup: select time-out 2 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 2 sec
+0419185911|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419185911|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419185911|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419185937|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419185938|ares |4|03|aresDnsLookup: select time-out 1 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 1 sec
+0419185940|ares |4|03|aresDnsLookup: select time-out 2 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 2 sec
+0419185944|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419185944|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419185944|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419190010|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419190011|ares |4|03|aresDnsLookup: select time-out 1 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 1 sec
+0419190013|ares |4|03|aresDnsLookup: select time-out 2 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 2 sec
+0419190017|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419190017|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419190017|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419190043|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419190044|ares |4|03|aresDnsLookup: select time-out 1 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 1 sec
+0419190046|ares |4|03|aresDnsLookup: select time-out 2 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 2 sec
+0419190050|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419190050|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419190050|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419190116|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419190117|ares |4|03|aresDnsLookup: select time-out 1 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 1 sec
+0419190119|ares |4|03|aresDnsLookup: select time-out 2 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 2 sec
+0419190123|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419190123|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419190123|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419190149|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419190150|ares |4|03|aresDnsLookup: select time-out 1 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 1 sec
+0419190152|ares |4|03|aresDnsLookup: select time-out 2 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 2 sec
+0419190156|ares |4|03|aresDnsLookup: select time-out 3 on NAPTR lookup for 'cumulus.voxter.sip.voxter.com' after 4 sec
+0419190156|dns  |4|03|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419190156|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'cumulus.voxter.sip.voxter.com' found no records
+0419190222|dns  |4|03|DNS(NAPTR) query now allowed after unresponsive for 26 (of 10) sec
+0419190222|app1 |*|03|Ctx [0] Registered [true]
+0419215022|sip  |4|03|NAPTR query for host 'cumulus.voxter.sip.voxter.com' returned no results
+0420125526|app1 |*|03|Ctx [0] Registered [false]
+0420125655|app1 |*|03|Ctx [0] Registered [true]
+0420130156|app1 |*|03|Ctx [0] Registered [false]
+0420130240|app1 |*|03|Ctx [0] Registered [true]

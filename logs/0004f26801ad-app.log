@@ -1,0 +1,7 @@
+0108075233|app1 |*|00|Event: Multiple Key Combo 7
+0108075233|app1 |*|00|Manual Restart
+0108075233|ldap |4|00|ldapXfer::start:xferStart failed cState=-1
+0108075233|app1 |*|00|AppC::appReconfigure corp dir shutdown complete
+0108075234|so   |*|00|SoNcasC::procMsg: Client service shutdown complete
+0108075243|wdog |*|00|Watchdog Expired: tSupObjs, 8
+0108075243|log  |*|00|---------- Final log entry ----------

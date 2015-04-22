@@ -1,0 +1,476 @@
+1025050200|copy |3|00|Download of '2345-12500-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+1025050200|cfg  |3|00|Prov|Provisioning succeeded
+1025050200|app1 |3|00|Application, load: Type=SIP, Version=3.2.0.0157 17-Aug-09 17:53
+1025050205|app1 |4|00|Loaded application sip.ld from local system successfully.
+1025050205|app1 |6|00|Uploading boot log, time is FRI OCT 25 05:02:05 2013
+
+1025050205|copy |3|00|'ftp://aastra:****@74.114.208.131/293/0004f21e84d0-boot.log' to '74.114.208.131'
+1025050205|copy |3|00|Upload of '293/0004f21e84d0-boot.log' FAILED on attempt 1 (addr 1 of 1)
+1025050205|copy |3|00|transport res: 9 respCode 550
+1025050205|copy |3|00|transport error: Error.
+1025050205|copy |3|00|transport error buffer: Server denied you to change to the given directory.
+1025050205|copy |3|00|'ftp://aastra:****@74.114.208.131/0004f21e84d0-boot.log' to '74.114.208.131'
+1025050206|copy |3|00|Upload of '0004f21e84d0-boot.log' succeeded on attempt 1 (addr 1 of 1)
+000000.350|so   |*|00|---------- Initial log entry ----------
+000000.350|so   |*|00|+++ Note that bootrom log times are in GMT +++
+000000.350|cfg  |*|00|Initial log entry. Current logging level 3
+000000.350|copy |*|00|Initial log entry. Current logging level 3
+000000.350|utilm|*|00|Initial log entry. Current logging level 4
+000000.350|hw   |*|00|Initial log entry. Current logging level 4
+0100000000|ethf |*|00|Initial log entry. Current logging level 4
+0100000000|dns  |*|00|Initial log entry. Current logging level 3
+0100000000|curl |*|00|Initial log entry. Current logging level 3
+0118050813|wdog |*|00|Initial log entry. Current logging level 4
+0118050813|lldp |*|00|Initial log entry. Current logging level 3
+0118050813|lldp |3|00|LLDP is DISABLED.
+0118050813|cdp  |*|00|Initial log entry. Current logging level 3
+0118050813|cdp  |3|00|CDP is DISABLED.
+0118050813|key  |*|00|Initial log entry. Current logging level 4
+0118050813|so   |3|00|Platform: Model=SoundPoint IP 550, Assembly=2345-12500-001 Rev=A
+0118050813|so   |3|00|Platform: Board=2345-12500-001 1
+0118050813|so   |3|00|Platform: MAC=0004f21e84d0, IP=Resolving, Subnet Mask=Resolving
+0118050813|so   |3|00|Platform: BootBlock=2.8.1 (12500_001) 02-May-08 14:08
+0118050813|so   |3|00|Application, main: Label=BOOT, Version=Muscovite 4.3.0.0246 04-Jun-10 16:52
+0118050813|so   |3|00|Application, main: P/N=3150-11069-430
+0118050813|app1 |*|00|Initial log entry. Current logging level 3
+0118050813|cfg  |*|00|Initial log entry. Current logging level 2
+0118050814|so   |3|00|Link status is Net up Speed 100 full Duplex, PC down.
+0118050824|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+0118050827|cdp  |3|00|CDP received a response from a switch. CDP enabled.
+0118050827|cdp  |*|00|Native VLAN Id is 20
+0118050827|cdp  |*|00|No Auxiliary VLAN found
+0118050827|cdp  |*|00|CDP power usage is 5900 milliWatts.
+0118050835|app1 |3|00|DNS resolver server is '10.2.0.1'
+0118050835|app1 |3|00|DNS resolver search domain is ''
+0118050835|app1 |3|00|Bootline: esw(3,0)bootHost:flash e=10.2.0.48:ffffff00:15180:15 h=74.114.208.131 g=10.2.0.1 u=**** pw=**** f=0x40 tn=CircaIP
+0118050835|app1 |3|00|DHCP returned result 0x8F from server 10.2.0.1.
+0118050835|app1 |3|00|   Phone IP address is 10.2.0.48.
+0118050835|app1 |3|00|   Subnet mask is 255.255.255.0.
+0118050835|app1 |3|00|   Gateway address is 10.2.0.1.
+0118050835|app1 |3|00|   Boot server address is ftp://aastra:****@74.114.208.131.
+0118050835|app1 |3|00|   DNS server is 10.2.0.1.
+0118050903|app1 |3|00|Time has been set from 74.114.208.131 (74.114.208.131).
+0118050903|app1 |3|00|   1390021743: 2014-1-18, 5:9:3, DST off
+0118050903|cfg  |*|00|Prov|Starting to update 2345-12500-001.bootrom.ld
+0118050903|copy |3|00|'ftp://aastra:****@74.114.208.131/2345-12500-001.bootrom.ld' from '74.114.208.131'
+0118050903|cfg  |3|00|Image 2345-12500-001.bootrom.ld has not changed
+0118050903|copy |3|00|buffered_write: transfer terminated
+0118050903|copy |3|00|Download of '2345-12500-001.bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+0118050904|copy |3|00|'ftp://aastra:****@74.114.208.131/0004f21e84d0.cfg' from '74.114.208.131'
+0118050904|copy |3|00|Download of '0004f21e84d0.cfg' succeeded on attempt 1 (addr 1 of 1)
+0118050904|cfg  |*|00|Prov|Starting to update 2345-12500-001.sip.ld
+0118050904|copy |3|00|'ftp://aastra:****@74.114.208.131/2345-12500-001.sip.ld' from '74.114.208.131'
+0118050904|cfg  |3|00|Image 2345-12500-001.sip.ld has not changed
+0118050904|copy |3|00|buffered_write: transfer Terminated on entry. Return 0
+0118050904|copy |3|00|Download of '2345-12500-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+0118050904|cfg  |3|00|Prov|Provisioning succeeded
+0118050904|app1 |3|00|Application, load: Type=SIP, Version=3.2.0.0157 17-Aug-09 17:53
+0118050909|app1 |4|00|Loaded application sip.ld from local system successfully.
+0118050909|app1 |6|00|Uploading boot log, time is SAT JAN 18 05:09:09 2014
+
+0118050909|copy |3|00|'ftp://aastra:****@74.114.208.131/293/0004f21e84d0-boot.log' to '74.114.208.131'
+0118050910|copy |3|00|Upload of '293/0004f21e84d0-boot.log' FAILED on attempt 1 (addr 1 of 1)
+0118050910|copy |3|00|transport res: 9 respCode 550
+0118050910|copy |3|00|transport error: Error.
+0118050910|copy |3|00|transport error buffer: Server denied you to change to the given directory.
+0118050910|copy |3|00|'ftp://aastra:****@74.114.208.131/0004f21e84d0-boot.log' to '74.114.208.131'
+0118050910|copy |3|00|Upload of '0004f21e84d0-boot.log' succeeded on attempt 1 (addr 1 of 1)
+000000.355|so   |*|00|---------- Initial log entry ----------
+000000.355|so   |*|00|+++ Note that bootrom log times are in GMT +++
+000000.355|cfg  |*|00|Initial log entry. Current logging level 3
+000000.355|copy |*|00|Initial log entry. Current logging level 3
+000000.355|utilm|*|00|Initial log entry. Current logging level 4
+000000.355|hw   |*|00|Initial log entry. Current logging level 4
+000000.355|ethf |*|00|Initial log entry. Current logging level 4
+000000.355|dns  |*|00|Initial log entry. Current logging level 3
+0100000000|curl |*|00|Initial log entry. Current logging level 3
+0307051250|wdog |*|00|Initial log entry. Current logging level 4
+0307051250|lldp |*|00|Initial log entry. Current logging level 3
+0307051250|lldp |3|00|LLDP is DISABLED.
+0307051250|cdp  |*|00|Initial log entry. Current logging level 3
+0307051250|cdp  |3|00|CDP is DISABLED.
+0307051250|key  |*|00|Initial log entry. Current logging level 4
+0307051250|so   |3|00|Platform: Model=SoundPoint IP 550, Assembly=2345-12500-001 Rev=A
+0307051250|so   |3|00|Platform: Board=2345-12500-001 1
+0307051250|so   |3|00|Platform: MAC=0004f21e84d0, IP=Resolving, Subnet Mask=Resolving
+0307051250|so   |3|00|Platform: BootBlock=2.8.1 (12500_001) 02-May-08 14:08
+0307051250|so   |3|00|Application, main: Label=BOOT, Version=Muscovite 4.3.0.0246 04-Jun-10 16:52
+0307051250|so   |3|00|Application, main: P/N=3150-11069-430
+0307051250|app1 |*|00|Initial log entry. Current logging level 3
+0307051250|cfg  |*|00|Initial log entry. Current logging level 2
+0307051251|so   |3|00|Link status is Net down, PC down.
+0307051252|so   |3|00|Link status is Net up Speed 100 full Duplex, PC down.
+0307051301|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+0307051304|cdp  |3|00|CDP received a response from a switch. CDP enabled.
+0307051304|cdp  |*|00|Native VLAN Id is 20
+0307051304|cdp  |*|00|No Auxiliary VLAN found
+0307051304|cdp  |*|00|CDP power usage is 5900 milliWatts.
+0307051323|app1 |3|00|DNS resolver server is '10.2.0.1'
+0307051323|app1 |3|00|DNS resolver search domain is ''
+0307051323|app1 |3|00|Bootline: esw(3,0)bootHost:flash e=10.2.0.48:ffffff00:15180:15 h=74.114.208.131 g=10.2.0.1 u=**** pw=**** f=0x40 tn=CircaIP
+0307051323|app1 |3|00|DHCP returned result 0x8F from server 10.2.0.1.
+0307051323|app1 |3|00|   Phone IP address is 10.2.0.48.
+0307051323|app1 |3|00|   Subnet mask is 255.255.255.0.
+0307051323|app1 |3|00|   Gateway address is 10.2.0.1.
+0307051323|app1 |3|00|   Boot server address is ftp://aastra:****@74.114.208.131.
+0307051323|app1 |3|00|   DNS server is 10.2.0.1.
+0307075749|app1 |3|00|Time has been set from 74.114.208.131 (74.114.208.131).
+0307075749|app1 |3|00|   1394179069: 2014-3-7, 7:57:49, DST off
+0307075749|cfg  |*|00|Prov|Starting to update 2345-12500-001.bootrom.ld
+0307075749|copy |3|00|'ftp://aastra:****@74.114.208.131/2345-12500-001.bootrom.ld' from '74.114.208.131'
+0307075749|cfg  |3|00|Image 2345-12500-001.bootrom.ld has not changed
+0307075749|copy |3|00|buffered_write: transfer Terminated on entry. Return 0
+0307075749|copy |3|00|Download of '2345-12500-001.bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+0307075749|copy |3|00|'ftp://aastra:****@74.114.208.131/0004f21e84d0.cfg' from '74.114.208.131'
+0307075750|copy |3|00|Download of '0004f21e84d0.cfg' succeeded on attempt 1 (addr 1 of 1)
+0307075750|cfg  |*|00|Prov|Starting to update 2345-12500-001.sip.ld
+0307075750|copy |3|00|'ftp://aastra:****@74.114.208.131/2345-12500-001.sip.ld' from '74.114.208.131'
+0307075750|cfg  |3|00|Image 2345-12500-001.sip.ld has not changed
+0307075750|copy |3|00|buffered_write: transfer terminated
+0307075750|copy |3|00|Download of '2345-12500-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+0307075750|cfg  |3|00|Prov|Provisioning succeeded
+0307075750|app1 |3|00|Application, load: Type=SIP, Version=3.2.0.0157 17-Aug-09 17:53
+0307075755|app1 |4|00|Loaded application sip.ld from local system successfully.
+0307075755|app1 |6|00|Uploading boot log, time is FRI MAR 07 07:57:56 2014
+
+0307075756|copy |3|00|'ftp://aastra:****@74.114.208.131/293/0004f21e84d0-boot.log' to '74.114.208.131'
+0307075756|copy |3|00|Upload of '293/0004f21e84d0-boot.log' FAILED on attempt 1 (addr 1 of 1)
+0307075756|copy |3|00|transport res: 9 respCode 550
+0307075756|copy |3|00|transport error: Error.
+0307075756|copy |3|00|transport error buffer: Server denied you to change to the given directory.
+0307075756|copy |3|00|'ftp://aastra:****@74.114.208.131/0004f21e84d0-boot.log' to '74.114.208.131'
+0307075756|copy |3|00|Upload of '0004f21e84d0-boot.log' succeeded on attempt 1 (addr 1 of 1)
+000000.355|so   |*|00|---------- Initial log entry ----------
+000000.355|so   |*|00|+++ Note that bootrom log times are in GMT +++
+000000.355|cfg  |*|00|Initial log entry. Current logging level 3
+000000.355|copy |*|00|Initial log entry. Current logging level 3
+000000.355|utilm|*|00|Initial log entry. Current logging level 4
+000000.355|hw   |*|00|Initial log entry. Current logging level 4
+0100000000|ethf |*|00|Initial log entry. Current logging level 4
+0100000000|dns  |*|00|Initial log entry. Current logging level 3
+0100000000|curl |*|00|Initial log entry. Current logging level 3
+0320075921|wdog |*|00|Initial log entry. Current logging level 4
+0320075921|lldp |*|00|Initial log entry. Current logging level 3
+0320075921|lldp |3|00|LLDP is DISABLED.
+0320075921|cdp  |*|00|Initial log entry. Current logging level 3
+0320075921|cdp  |3|00|CDP is DISABLED.
+0320075921|key  |*|00|Initial log entry. Current logging level 4
+0320075921|so   |3|00|Platform: Model=SoundPoint IP 550, Assembly=2345-12500-001 Rev=A
+0320075921|so   |3|00|Platform: Board=2345-12500-001 1
+0320075921|so   |3|00|Platform: MAC=0004f21e84d0, IP=Resolving, Subnet Mask=Resolving
+0320075921|so   |3|00|Platform: BootBlock=2.8.1 (12500_001) 02-May-08 14:08
+0320075921|so   |3|00|Application, main: Label=BOOT, Version=Muscovite 4.3.0.0246 04-Jun-10 16:52
+0320075921|so   |3|00|Application, main: P/N=3150-11069-430
+0320075921|app1 |*|00|Initial log entry. Current logging level 3
+0320075921|cfg  |*|00|Initial log entry. Current logging level 2
+0320075922|so   |3|00|Link status is Net down, PC down.
+0320075923|so   |3|00|Link status is Net up Speed 100 full Duplex, PC down.
+0320075932|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+0320075935|cdp  |3|00|CDP received a response from a switch. CDP enabled.
+0320075935|cdp  |*|00|Native VLAN Id is 20
+0320075935|cdp  |*|00|No Auxiliary VLAN found
+0320075935|cdp  |*|00|CDP power usage is 5900 milliWatts.
+0320075958|app1 |3|00|DNS resolver server is '10.2.0.1'
+0320075958|app1 |3|00|DNS resolver search domain is ''
+0320075958|app1 |3|00|Bootline: esw(3,0)bootHost:flash e=10.2.0.48:ffffff00:15180:18 h=74.114.208.131 g=10.2.0.1 u=**** pw=**** f=0x40 tn=CircaIP
+0320075958|app1 |3|00|DHCP returned result 0x8F from server 10.2.0.1.
+0320075958|app1 |3|00|   Phone IP address is 10.2.0.48.
+0320075958|app1 |3|00|   Subnet mask is 255.255.255.0.
+0320075958|app1 |3|00|   Gateway address is 10.2.0.1.
+0320075958|app1 |3|00|   Boot server address is ftp://aastra:****@74.114.208.131.
+0320075958|app1 |3|00|   DNS server is 10.2.0.1.
+0321023241|app1 |3|00|Time has been set from 74.114.208.131 (74.114.208.131).
+0321023241|app1 |3|00|   1395369161: 2014-3-21, 2:32:41, DST off
+0321023241|cfg  |*|00|Prov|Starting to update 2345-12500-001.bootrom.ld
+0321023241|copy |3|00|'ftp://aastra:****@74.114.208.131/2345-12500-001.bootrom.ld' from '74.114.208.131'
+0321023241|cfg  |3|00|Image 2345-12500-001.bootrom.ld has not changed
+0321023241|copy |3|00|buffered_write: transfer terminated
+0321023241|copy |3|00|Download of '2345-12500-001.bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+0321023241|copy |3|00|'ftp://aastra:****@74.114.208.131/0004f21e84d0.cfg' from '74.114.208.131'
+0321023241|copy |3|00|Download of '0004f21e84d0.cfg' succeeded on attempt 1 (addr 1 of 1)
+0321023241|cfg  |*|00|Prov|Starting to update 2345-12500-001.sip.ld
+0321023241|copy |3|00|'ftp://aastra:****@74.114.208.131/2345-12500-001.sip.ld' from '74.114.208.131'
+0321023242|cfg  |3|00|Image 2345-12500-001.sip.ld has not changed
+0321023242|copy |3|00|buffered_write: transfer terminated
+0321023242|copy |3|00|Download of '2345-12500-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+0321023242|cfg  |3|00|Prov|Provisioning succeeded
+0321023242|app1 |3|00|Application, load: Type=SIP, Version=3.2.0.0157 17-Aug-09 17:53
+0321023247|app1 |4|00|Loaded application sip.ld from local system successfully.
+0321023247|app1 |6|00|Uploading boot log, time is FRI MAR 21 02:32:48 2014
+
+0321023247|copy |3|00|'ftp://aastra:****@74.114.208.131/293/0004f21e84d0-boot.log' to '74.114.208.131'
+0321023249|copy |3|00|Upload of '293/0004f21e84d0-boot.log' FAILED on attempt 1 (addr 1 of 1)
+0321023249|copy |3|00|transport res: 9 respCode 550
+0321023249|copy |3|00|transport error: Error.
+0321023249|copy |3|00|transport error buffer: Server denied you to change to the given directory.
+0321023249|copy |3|00|'ftp://aastra:****@74.114.208.131/0004f21e84d0-boot.log' to '74.114.208.131'
+0321023249|copy |3|00|Upload of '0004f21e84d0-boot.log' succeeded on attempt 1 (addr 1 of 1)
+000000.355|so   |*|00|---------- Initial log entry ----------
+000000.355|so   |*|00|+++ Note that bootrom log times are in GMT +++
+000000.355|cfg  |*|00|Initial log entry. Current logging level 3
+000000.355|copy |*|00|Initial log entry. Current logging level 3
+000000.355|utilm|*|00|Initial log entry. Current logging level 4
+0100000000|hw   |*|00|Initial log entry. Current logging level 4
+0100000000|ethf |*|00|Initial log entry. Current logging level 4
+0100000000|dns  |*|00|Initial log entry. Current logging level 3
+0100000000|curl |*|00|Initial log entry. Current logging level 3
+0513023703|wdog |*|00|Initial log entry. Current logging level 4
+0513023703|lldp |*|00|Initial log entry. Current logging level 3
+0513023703|lldp |3|00|LLDP is DISABLED.
+0513023703|cdp  |*|00|Initial log entry. Current logging level 3
+0513023703|cdp  |3|00|CDP is DISABLED.
+0513023703|key  |*|00|Initial log entry. Current logging level 4
+0513023703|so   |3|00|Platform: Model=SoundPoint IP 550, Assembly=2345-12500-001 Rev=A
+0513023703|so   |3|00|Platform: Board=2345-12500-001 1
+0513023703|so   |3|00|Platform: MAC=0004f21e84d0, IP=Resolving, Subnet Mask=Resolving
+0513023703|so   |3|00|Platform: BootBlock=2.8.1 (12500_001) 02-May-08 14:08
+0513023703|so   |3|00|Application, main: Label=BOOT, Version=Muscovite 4.3.0.0246 04-Jun-10 16:52
+0513023703|so   |3|00|Application, main: P/N=3150-11069-430
+0513023703|app1 |*|00|Initial log entry. Current logging level 3
+0513023703|cfg  |*|00|Initial log entry. Current logging level 2
+0513023704|so   |3|00|Link status is Net down, PC down.
+0513023705|so   |3|00|Link status is Net up Speed 100 full Duplex, PC down.
+0513023714|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+0513023716|cdp  |3|00|CDP received a response from a switch. CDP enabled.
+0513023716|cdp  |*|00|Native VLAN Id is 20
+0513023716|cdp  |*|00|No Auxiliary VLAN found
+0513023716|cdp  |*|00|CDP power usage is 5900 milliWatts.
+0513023736|app1 |3|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+0513023736|app1 |3|00|DNS resolver search domain is ''
+0513023736|app1 |3|00|Bootline: esw(3,0)bootHost:flash e=10.2.0.20:fffffe00:3f480:15 h=74.114.208.131 g=10.2.0.1 u=**** pw=**** f=0x40 tn=CircaIP
+0513023736|app1 |3|00|DHCP returned result 0x18F from server 10.2.0.1.
+0513023736|app1 |3|00|   Phone IP address is 10.2.0.20.
+0513023736|app1 |3|00|   Subnet mask is 255.255.254.0.
+0513023736|app1 |3|00|   Gateway address is 10.2.0.1.
+0513023736|app1 |3|00|   Boot server address is ftp://aastra:****@74.114.208.131.
+0513023736|app1 |3|00|   DNS server is 8.8.8.8.
+0513023736|app1 |3|00|   DNS alternate server is 8.8.4.4.
+0514133125|app1 |3|00|Time has been set from 74.114.208.131 (74.114.208.131).
+0514133125|app1 |3|00|   1400074285: 2014-5-14, 13:31:25, DST off
+0514133125|cfg  |*|00|Prov|Starting to update 2345-12500-001.bootrom.ld
+0514133125|copy |3|00|'ftp://aastra:****@74.114.208.131/2345-12500-001.bootrom.ld' from '74.114.208.131'
+0514133125|cfg  |3|00|Image 2345-12500-001.bootrom.ld has not changed
+0514133125|copy |3|00|buffered_write: transfer terminated
+0514133125|copy |3|00|Download of '2345-12500-001.bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+0514133125|copy |3|00|'ftp://aastra:****@74.114.208.131/0004f21e84d0.cfg' from '74.114.208.131'
+0514133125|copy |3|00|Download of '0004f21e84d0.cfg' succeeded on attempt 1 (addr 1 of 1)
+0514133126|cfg  |*|00|Prov|Starting to update 2345-12500-001.sip.ld
+0514133126|copy |3|00|'ftp://aastra:****@74.114.208.131/2345-12500-001.sip.ld' from '74.114.208.131'
+0514133126|cfg  |3|00|Image 2345-12500-001.sip.ld has not changed
+0514133126|copy |3|00|buffered_write: transfer terminated
+0514133126|copy |3|00|Download of '2345-12500-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+0514133126|cfg  |3|00|Prov|Provisioning succeeded
+0514133126|app1 |3|00|Application, load: Type=SIP, Version=3.2.0.0157 17-Aug-09 17:53
+0514133131|app1 |4|00|Loaded application sip.ld from local system successfully.
+0514133131|app1 |6|00|Uploading boot log, time is WED MAY 14 13:31:31 2014
+
+0514133131|copy |3|00|'ftp://aastra:****@74.114.208.131/293/0004f21e84d0-boot.log' to '74.114.208.131'
+0514133131|copy |3|00|Upload of '293/0004f21e84d0-boot.log' FAILED on attempt 1 (addr 1 of 1)
+0514133131|copy |3|00|transport res: 9 respCode 550
+0514133131|copy |3|00|transport error: Error.
+0514133131|copy |3|00|transport error buffer: Server denied you to change to the given directory.
+0514133131|copy |3|00|'ftp://aastra:****@74.114.208.131/0004f21e84d0-boot.log' to '74.114.208.131'
+0514133131|copy |3|00|Upload of '0004f21e84d0-boot.log' succeeded on attempt 1 (addr 1 of 1)
+000000.525|so   |*|00|---------- Initial log entry ----------
+000000.525|so   |*|00|+++ Note that bootrom log times are in GMT +++
+000000.525|cfg  |*|00|Initial log entry. Current logging level 3
+000000.525|copy |*|00|Initial log entry. Current logging level 3
+000000.525|utilm|*|00|Initial log entry. Current logging level 4
+000000.525|hw   |*|00|Initial log entry. Current logging level 4
+000000.525|ethf |*|00|Initial log entry. Current logging level 4
+000000.525|dns  |*|00|Initial log entry. Current logging level 3
+0100000000|curl |*|00|Initial log entry. Current logging level 3
+1103064906|wdog |*|00|Initial log entry. Current logging level 4
+1103064906|lldp |*|00|Initial log entry. Current logging level 3
+1103064906|lldp |3|00|LLDP is DISABLED.
+1103064906|cdp  |*|00|Initial log entry. Current logging level 3
+1103064906|cdp  |3|00|CDP is DISABLED.
+1103064906|key  |*|00|Initial log entry. Current logging level 4
+1103064906|so   |3|00|Platform: Model=SoundPoint IP 550, Assembly=2345-12500-001 Rev=A
+1103064906|so   |3|00|Platform: Board=2345-12500-001 1
+1103064906|so   |3|00|Platform: MAC=0004f21e84d0, IP=Resolving, Subnet Mask=Resolving
+1103064906|so   |3|00|Platform: BootBlock=2.8.1 (12500_001) 02-May-08 14:08
+1103064906|so   |3|00|Application, main: Label=BOOT, Version=Muscovite 4.3.0.0246 04-Jun-10 16:52
+1103064906|so   |3|00|Application, main: P/N=3150-11069-430
+1103064906|app1 |*|00|Initial log entry. Current logging level 3
+1103064906|cfg  |*|00|Initial log entry. Current logging level 2
+1103064907|so   |3|00|Link status is Net up Speed 100 full Duplex, PC down.
+1103064917|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+1103064920|cdp  |3|00|CDP received a response from a switch. CDP enabled.
+1103064920|cdp  |*|00|Native VLAN Id is 20
+1103064920|cdp  |*|00|No Auxiliary VLAN found
+1103064920|cdp  |*|00|CDP power usage is 5900 milliWatts.
+1103064930|app1 |3|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+1103064930|app1 |3|00|DNS resolver search domain is ''
+1103064930|app1 |3|00|Bootline: esw(3,0)bootHost:flash e=10.2.0.93:fffffe00:3f480:18 h=74.114.208.245 g=10.2.0.1 u=**** pw=**** f=0x40 tn=CircaIP
+1103064930|app1 |3|00|DHCP returned result 0x187 from server 10.2.0.1.
+1103064930|app1 |3|00|   Phone IP address is 10.2.0.93.
+1103064930|app1 |3|00|   Subnet mask is 255.255.254.0.
+1103064930|app1 |3|00|   Gateway address is 10.2.0.1.
+1103064930|app1 |3|00|   DNS server is 8.8.8.8.
+1103064930|app1 |3|00|   DNS alternate server is 8.8.4.4.
+1103065125|app1 |3|00|Time has been set from 74.114.208.131 (74.114.208.131).
+1103065125|app1 |3|00|   1414997485: 2014-11-3, 6:51:25, DST off
+1103065125|cfg  |*|00|Prov|Starting to update 2345-12500-001.bootrom.ld
+1103065125|dns  |3|00|DNS lookup for 'p.voxter.com'(74.114.208.245) TTL=16163
+1103065125|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12500-001.bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+1103065125|cfg  |3|00|Image 2345-12500-001.bootrom.ld has not changed
+1103065125|copy |3|00|buffered_write: transfer Terminated on entry. Return 0
+1103065125|copy |3|00|Download of '2345-12500-001.bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+1103065125|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/0004f21e84d0.cfg' from 'p.voxter.com(74.114.208.245)'
+1103065125|copy |3|00|Download of '0004f21e84d0.cfg' succeeded on attempt 1 (addr 1 of 1)
+1103065125|cfg  |*|00|Prov|Starting to update 2345-12500-001.sip.ld
+1103065125|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12500-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+1103065125|cfg  |3|00|New load header information:
+1103065125|cfg  |3|00|Code length:         0x0046D2E0
+1103065125|cfg  |3|00|Header check Sum:    0x075B88AB
+1103065125|cfg  |3|00|Code check Sum:      0x0714B4A7
+1103065125|cfg  |3|00|Options:             0x00000080
+1103065125|cfg  |5|00|Error: file does not contain a compatible image
+1103065125|cfg  |5|00|  Compatibility for image 0 is 0x400000
+1103065125|copy |3|00|buffered_write: transfer terminated
+1103065125|copy |3|00|Download of '2345-12500-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+1103065125|cfg  |4|00|Prov|File 2345-12500-001.sip.ld was not compatible with the phone
+1103065125|app1 |4|00|Image is not compatible with the phone.
+1103065125|cfg  |3|00|Prov|Provisioning succeeded
+1103065130|app1 |3|00|Application, load: Type=SIP, Version=3.2.0.0157 17-Aug-09 17:53
+1103065136|app1 |4|00|Loaded application sip.ld from local system successfully.
+1103065136|app1 |6|00|Uploading boot log, time is MON NOV 03 06:51:37 2014
+
+1103065136|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/logs/0004f21e84d0-boot.log' to 'p.voxter.com(74.114.208.245)'
+1103065136|copy |3|00|Curl attempted to write at an unexpected time
+1103065136|copy |3|00|Upload of 'logs/0004f21e84d0-boot.log' succeeded on attempt 1 (addr 1 of 1)
+000000.500|so   |*|00|---------- Initial log entry ----------
+000000.500|so   |*|00|+++ Note that bootrom log times are in GMT +++
+000000.500|cfg  |*|00|Initial log entry. Current logging level 3
+000000.500|copy |*|00|Initial log entry. Current logging level 3
+000000.500|utilm|*|00|Initial log entry. Current logging level 4
+000000.500|hw   |*|00|Initial log entry. Current logging level 4
+000000.500|ethf |*|00|Initial log entry. Current logging level 4
+000000.500|dns  |*|00|Initial log entry. Current logging level 3
+000000.500|curl |*|00|Initial log entry. Current logging level 3
+000000.765|wdog |*|00|Initial log entry. Current logging level 4
+000000.765|lldp |*|00|Initial log entry. Current logging level 3
+000000.770|lldp |3|00|LLDP is DISABLED.
+000000.770|cdp  |*|00|Initial log entry. Current logging level 3
+000000.770|cdp  |3|00|CDP is DISABLED.
+000000.770|key  |*|00|Initial log entry. Current logging level 4
+000000.770|so   |3|00|Platform: Model=SoundPoint IP 550, Assembly=2345-12500-001 Rev=A
+000000.770|so   |3|00|Platform: Board=2345-12500-001 1
+000000.770|so   |3|00|Platform: MAC=0004f21e84d0, IP=Resolving, Subnet Mask=Resolving
+000000.770|so   |3|00|Platform: BootBlock=2.8.1 (12500_001) 02-May-08 14:08
+000000.770|so   |3|00|Application, main: Label=BOOT, Version=Muscovite 4.3.0.0246 04-Jun-10 16:52
+000000.770|so   |3|00|Application, main: P/N=3150-11069-430
+000000.770|app1 |*|00|Initial log entry. Current logging level 3
+000000.795|cfg  |*|00|Initial log entry. Current logging level 2
+000001.765|so   |3|00|Link status is Net up Speed 100 full Duplex, PC down.
+000012.395|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+000015.370|cdp  |3|00|CDP received a response from a switch. CDP enabled.
+000015.370|cdp  |*|00|Native VLAN Id is 20
+000015.370|cdp  |*|00|No Auxiliary VLAN found
+000015.370|cdp  |*|00|CDP power usage is 5900 milliWatts.
+000025.870|app1 |3|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000025.870|app1 |3|00|DNS resolver search domain is ''
+000025.890|app1 |3|00|Bootline: esw(3,0)bootHost:flash e=10.2.0.93:fffffe00:3f480:18 h=74.114.208.245 g=10.2.0.1 u=**** pw=**** f=0x40 tn=CircaIP
+000025.890|app1 |3|00|DHCP returned result 0x187 from server 10.2.0.1.
+000025.890|app1 |3|00|   Phone IP address is 10.2.0.93.
+000025.890|app1 |3|00|   Subnet mask is 255.255.254.0.
+000025.890|app1 |3|00|   Gateway address is 10.2.0.1.
+000025.890|app1 |3|00|   DNS server is 8.8.8.8.
+000025.890|app1 |3|00|   DNS alternate server is 8.8.4.4.
+1103065248|app1 |3|00|Time has been set from pool.ntp.org (206.108.0.133).
+1103065248|app1 |3|00|   1414997568: 2014-11-3, 6:52:48, DST off
+1103065248|cfg  |*|00|Prov|Starting to update 2345-12500-001.bootrom.ld
+1103065248|dns  |3|00|DNS lookup for 'p.voxter.com'(74.114.208.245) TTL=19235
+1103065248|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12500-001.bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+1103065248|cfg  |3|00|Image 2345-12500-001.bootrom.ld has not changed
+1103065248|copy |3|00|buffered_write: transfer terminated
+1103065248|copy |3|00|Download of '2345-12500-001.bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+1103065248|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/0004f21e84d0.cfg' from 'p.voxter.com(74.114.208.245)'
+1103065249|copy |3|00|Download of '0004f21e84d0.cfg' succeeded on attempt 1 (addr 1 of 1)
+1103065249|cfg  |*|00|Prov|Starting to update 2345-12500-001.sip.ld
+1103065249|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12500-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+1103065249|cfg  |3|00|New load header information:
+1103065249|cfg  |3|00|Code length:         0x0046D2E0
+1103065249|cfg  |3|00|Header check Sum:    0x075B88AB
+1103065249|cfg  |3|00|Code check Sum:      0x0714B4A7
+1103065249|cfg  |3|00|Options:             0x00000080
+1103065249|cfg  |5|00|Error: file does not contain a compatible image
+1103065249|cfg  |5|00|  Compatibility for image 0 is 0x400000
+1103065249|copy |3|00|buffered_write: transfer terminated
+1103065249|copy |3|00|Download of '2345-12500-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+1103065249|cfg  |4|00|Prov|File 2345-12500-001.sip.ld was not compatible with the phone
+1103065249|app1 |4|00|Image is not compatible with the phone.
+1103065249|cfg  |3|00|Prov|Provisioning succeeded
+1103065254|app1 |3|00|Application, load: Type=SIP, Version=3.2.0.0157 17-Aug-09 17:53
+1103065259|app1 |4|00|Loaded application sip.ld from local system successfully.
+1103065259|app1 |6|00|Uploading boot log, time is MON NOV 03 06:53:00 2014
+
+1103065300|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/logs/0004f21e84d0-boot.log' to 'p.voxter.com(74.114.208.245)'
+1103065300|copy |3|00|Upload of 'logs/0004f21e84d0-boot.log' succeeded on attempt 1 (addr 1 of 1)
+000000.375|so   |*|00|---------- Initial log entry ----------
+000000.375|so   |*|00|+++ Note that bootrom log times are in GMT +++
+000000.375|cfg  |*|00|Initial log entry. Current logging level 3
+000000.375|copy |*|00|Initial log entry. Current logging level 3
+000000.375|utilm|*|00|Initial log entry. Current logging level 4
+000000.375|hw   |*|00|Initial log entry. Current logging level 4
+000000.375|ethf |*|00|Initial log entry. Current logging level 4
+000000.375|dns  |*|00|Initial log entry. Current logging level 3
+000000.375|curl |*|00|Initial log entry. Current logging level 3
+000000.640|wdog |*|00|Initial log entry. Current logging level 4
+000000.640|lldp |*|00|Initial log entry. Current logging level 3
+000000.640|lldp |3|00|LLDP is DISABLED.
+000000.640|cdp  |*|00|Initial log entry. Current logging level 3
+000000.640|cdp  |3|00|CDP is DISABLED.
+000000.640|key  |*|00|Initial log entry. Current logging level 4
+000000.640|so   |3|00|Platform: Model=SoundPoint IP 550, Assembly=2345-12500-001 Rev=A
+000000.640|so   |3|00|Platform: Board=2345-12500-001 1
+000000.645|so   |3|00|Platform: MAC=0004f21e84d0, IP=Resolving, Subnet Mask=Resolving
+000000.645|so   |3|00|Platform: BootBlock=2.8.1 (12500_001) 02-May-08 14:08
+000000.645|so   |3|00|Application, main: Label=BOOT, Version=Muscovite 4.3.0.0246 04-Jun-10 16:52
+000000.645|so   |3|00|Application, main: P/N=3150-11069-430
+000000.645|app1 |*|00|Initial log entry. Current logging level 3
+000000.670|cfg  |*|00|Initial log entry. Current logging level 2
+000001.640|so   |3|00|Link status is Net up Speed 100 full Duplex, PC down.
+000012.265|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+000015.160|cdp  |3|00|CDP received a response from a switch. CDP enabled.
+000015.160|cdp  |*|00|Native VLAN Id is 20
+000015.160|cdp  |*|00|No Auxiliary VLAN found
+000015.160|cdp  |*|00|CDP power usage is 5900 milliWatts.
+000025.660|app1 |3|00|DNS resolver servers are '8.8.8.8' '8.8.4.4'
+000025.660|app1 |3|00|DNS resolver search domain is ''
+000025.680|app1 |3|00|Bootline: esw(3,0)bootHost:flash e=10.2.0.93:fffffe00:3f480:18 h=74.114.208.245 g=10.2.0.1 u=**** pw=**** f=0x40 tn=CircaIP
+000025.680|app1 |3|00|DHCP returned result 0x187 from server 10.2.0.1.
+000025.680|app1 |3|00|   Phone IP address is 10.2.0.93.
+000025.680|app1 |3|00|   Subnet mask is 255.255.254.0.
+000025.680|app1 |3|00|   Gateway address is 10.2.0.1.
+000025.680|app1 |3|00|   DNS server is 8.8.8.8.
+000025.680|app1 |3|00|   DNS alternate server is 8.8.4.4.
+000025.745|cfg  |*|00|Prov|Starting to update 2345-12500-001.bootrom.ld
+000025.800|dns  |3|00|DNS lookup for 'p.voxter.com'(74.114.208.245) TTL=16942
+000025.805|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12500-001.bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+1103065435|app1 |3|00|Time has been set from pool.ntp.org (199.167.128.130).
+1103065435|app1 |3|00|   1414997675: 2014-11-3, 6:54:35, DST off
+1103065435|cfg  |3|00|Image 2345-12500-001.bootrom.ld has not changed
+1103065435|copy |3|00|buffered_write: transfer terminated
+1103065435|copy |3|00|Download of '2345-12500-001.bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+1103065435|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/0004f21e84d0.cfg' from 'p.voxter.com(74.114.208.245)'
+1103065435|copy |3|00|Download of '0004f21e84d0.cfg' succeeded on attempt 1 (addr 1 of 1)
+1103065435|cfg  |*|00|Prov|Starting to update 2345-12500-001.sip.ld
+1103065435|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12500-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+1103065435|cfg  |3|00|New load header information:
+1103065435|cfg  |3|00|Code length:         0x0046D2E0
+1103065435|cfg  |3|00|Header check Sum:    0x075B88AB
+1103065435|cfg  |3|00|Code check Sum:      0x0714B4A7
+1103065435|cfg  |3|00|Options:             0x00000080
+1103065435|cfg  |5|00|Error: file does not contain a compatible image
+1103065435|cfg  |5|00|  Compatibility for image 0 is 0x400000
+1103065435|copy |3|00|buffered_write: transfer terminated
+1103065435|copy |3|00|Download of '2345-12500-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+1103065435|cfg  |4|00|Prov|File 2345-12500-001.sip.ld was not compatible with the phone
+1103065435|app1 |4|00|Image is not compatible with the phone.
+1103065435|cfg  |3|00|Prov|Provisioning succeeded
+1103065440|app1 |3|00|Application, load: Type=SIP, Version=3.2.0.0157 17-Aug-09 17:53
+1103065446|app1 |4|00|Loaded application sip.ld from local system successfully.
+1103065446|app1 |6|00|Uploading boot log, time is MON NOV 03 06:54:46 2014
+

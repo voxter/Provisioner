@@ -1,0 +1,325 @@
+000001.841|so   |*|00|---------- Initial log entry ----------
+000001.841|so   |*|00|+++ Note that bootrom log times are in GMT +++
+000001.841|cfg  |*|00|Initial log entry. Current logging level 3
+000001.842|copy |*|00|Initial log entry. Current logging level 3
+000001.842|utilm|*|00|Initial log entry. Current logging level 4
+000001.842|hw   |*|00|Initial log entry. Current logging level 4
+000001.842|ethf |*|00|Initial log entry. Current logging level 4
+000001.842|dns  |*|00|Initial log entry. Current logging level 3
+000001.842|curl |*|00|Initial log entry. Current logging level 3
+000002.160|wdog |*|00|Initial log entry. Current logging level 4
+000002.160|lldp |*|00|Initial log entry. Current logging level 3
+000002.160|lldp |3|00|LLDP is DISABLED.
+000002.160|cdp  |*|00|Initial log entry. Current logging level 3
+000002.160|cdp  |3|00|CDP is DISABLED.
+000002.160|key  |*|00|Initial log entry. Current logging level 4
+000002.163|so   |3|00|Platform: Model=SoundStation IP 7000, Assembly=3111-40000-001 Rev=J
+000002.163|so   |3|00|Platform: Board=3111-40000-001 1
+000002.163|so   |3|00|Platform: MAC=0004f2edeea1, IP=Resolving, Subnet Mask=Resolving
+000002.163|so   |3|00|Platform: BootBlock=3.0.2_40000-001.0024 30-Nov-10 15:04
+000002.163|so   |3|00|Platform: BootL0=Standalone.0002 15-Jan-07 15:05:00
+000002.163|so   |3|00|Application, main: Label=BOOT, Version=Muscovite 4.3.0.0616 27-Jan-11 15:34
+000002.163|so   |3|00|Application, main: P/N=3150-11069-430
+000002.163|app1 |*|00|Initial log entry. Current logging level 3
+000002.167|cfg  |*|00|Initial log entry. Current logging level 2
+000003.142|so   |3|00|Link status is Net up Speed 100 full Duplex.
+000011.321|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+000017.160|cdp  |3|00|CDP did not receive a response from a switch. Disabling CDP.
+000129.218|dns  |*|00|DNS resolver servers are '64.59.144.91' '64.59.150.137'
+000129.218|dns  |*|00|DNS resolver search domain is ''
+000129.218|app1 |5|00|Could not get an address for !
+000129.218|app1 |4|00|Could not load time from  (0.0.0.0).
+000129.218|app1 |3|00|DHCP returned result 0x187 from server 192.168.0.1.
+000129.218|app1 |3|00|   Phone IP address is 192.168.0.25.
+000129.218|app1 |3|00|   Subnet mask is 255.255.255.0.
+000129.218|app1 |3|00|   Gateway address is 192.168.0.1.
+000129.218|app1 |3|00|   DNS server is 64.59.144.91.
+000129.218|app1 |3|00|   DNS alternate server is 64.59.150.137.
+000130.185|cfg  |*|00|Prov|Starting to update 3111-40000-001.bootrom.ld
+000130.188|copy |4|00|ConfigRedun: problem with hostname strlen 0
+000130.188|cfg  |3|00|Could not get all 512 bytes of the header
+000130.192|app1 |4|00|Error downloading 3111-40000-001.bootrom.ld
+000130.193|cfg  |*|00|Prov|Starting to update bootrom.ld
+000130.195|copy |4|00|ConfigRedun: problem with hostname strlen 0
+000130.195|cfg  |3|00|Could not get all 512 bytes of the header
+000130.197|app1 |4|00|Error downloading bootrom.ld
+000130.377|copy |3|00|No default host to fetch files from
+000130.377|copy |4|00|Configuration of URL failed
+000130.377|copy |3|00|Update of '/ffs0/init.mac' failed, leaving local copy intact
+000130.378|copy |3|00|No default host to fetch files from
+000130.378|copy |4|00|Configuration of URL failed
+000130.378|copy |3|00|Update of '/ffs0/init.mac' failed, leaving local copy intact
+000130.476|cfg  |4|00|Prov|Download of master configuration file failed
+000130.476|cfg  |4|00|Prov|Trying to boot from existing configuration
+000130.479|cfg  |3|00|Prov|Provisioning succeeded
+000135.504|app1 |3|00|Application, load: Type=SIP, Version=3.3.1.0953 23-Feb-11 16:44
+000141.737|app1 |4|00|Loaded application sip.ld from local system successfully.
+000141.737|app1 |6|00|Uploading boot log, time is Mon Jan  1 00:01:39 2007
+
+000142.025|copy |3|00|No default host to fetch files from
+000142.025|copy |4|00|Configuration of URL failed
+000001.822|so   |*|00|---------- Initial log entry ----------
+000001.822|so   |*|00|+++ Note that bootrom log times are in GMT +++
+000001.822|cfg  |*|00|Initial log entry. Current logging level 3
+000001.822|copy |*|00|Initial log entry. Current logging level 3
+000001.822|utilm|*|00|Initial log entry. Current logging level 4
+000001.822|hw   |*|00|Initial log entry. Current logging level 4
+000001.822|ethf |*|00|Initial log entry. Current logging level 4
+000001.822|dns  |*|00|Initial log entry. Current logging level 3
+000001.822|curl |*|00|Initial log entry. Current logging level 3
+000002.140|wdog |*|00|Initial log entry. Current logging level 4
+000002.140|lldp |*|00|Initial log entry. Current logging level 3
+000002.140|lldp |3|00|LLDP is DISABLED.
+000002.140|cdp  |*|00|Initial log entry. Current logging level 3
+000002.140|cdp  |3|00|CDP is DISABLED.
+000002.140|key  |*|00|Initial log entry. Current logging level 4
+000002.143|so   |3|00|Platform: Model=SoundStation IP 7000, Assembly=3111-40000-001 Rev=J
+000002.143|so   |3|00|Platform: Board=3111-40000-001 1
+000002.143|so   |3|00|Platform: MAC=0004f2edeea1, IP=Resolving, Subnet Mask=Resolving
+000002.143|so   |3|00|Platform: BootBlock=3.0.2_40000-001.0024 30-Nov-10 15:04
+000002.143|so   |3|00|Platform: BootL0=Standalone.0002 15-Jan-07 15:05:00
+000002.143|so   |3|00|Application, main: Label=BOOT, Version=Muscovite 4.3.0.0616 27-Jan-11 15:34
+000002.143|so   |3|00|Application, main: P/N=3150-11069-430
+000002.144|app1 |*|00|Initial log entry. Current logging level 3
+000002.147|cfg  |*|00|Initial log entry. Current logging level 2
+000003.123|so   |3|00|Link status is Net up Speed 100 full Duplex.
+000011.301|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+000017.140|cdp  |3|00|CDP did not receive a response from a switch. Disabling CDP.
+000022.182|dns  |*|00|DNS resolver servers are '64.59.144.91' '64.59.150.137'
+000022.182|dns  |*|00|DNS resolver search domain is ''
+000022.194|dns  |3|00|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=86236
+000022.195|app1 |4|00|Could not load time from  (0.0.0.0).
+000022.195|app1 |3|00|DHCP returned result 0x187 from server 192.168.0.1.
+000022.195|app1 |3|00|   Phone IP address is 192.168.0.25.
+000022.195|app1 |3|00|   Subnet mask is 255.255.255.0.
+000022.195|app1 |3|00|   Gateway address is 192.168.0.1.
+000022.195|app1 |3|00|   DNS server is 64.59.144.91.
+000022.195|app1 |3|00|   DNS alternate server is 64.59.150.137.
+000023.166|cfg  |*|00|Prov|Starting to update 3111-40000-001.bootrom.ld
+000023.169|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/3111-40000-001.bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+000023.213|copy |3|00|Download of '3111-40000-001.bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+000023.213|cfg  |3|00|Could not get all 512 bytes of the header
+000023.216|app1 |4|00|Error downloading 3111-40000-001.bootrom.ld
+000023.216|cfg  |*|00|Prov|Starting to update bootrom.ld
+000023.219|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+000023.263|copy |3|00|Download of 'bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+000023.264|cfg  |3|00|Could not get all 512 bytes of the header
+000023.266|app1 |4|00|Error downloading bootrom.ld
+000023.529|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/0004f2edeea1.cfg' from 'p.voxter.com(74.114.208.245)'
+000023.896|copy |3|00|Download of '0004f2edeea1.cfg' succeeded on attempt 1 (addr 1 of 1)
+000023.980|cfg  |*|00|Prov|Starting to update 3111-40000-001.sip.ld
+000023.986|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/3111-40000-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+000024.029|copy |3|00|Download of '3111-40000-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+000024.029|cfg  |3|00|Could not get all 512 bytes of the header
+000024.034|app1 |4|00|Error downloading 3111-40000-001.sip.ld
+000024.035|cfg  |*|00|Prov|Starting to update sip.ld
+000024.037|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/sip.ld' from 'p.voxter.com(74.114.208.245)'
+000024.077|copy |3|00|Download of 'sip.ld' succeeded on attempt 1 (addr 1 of 1)
+000024.077|cfg  |3|00|Could not get all 512 bytes of the header
+000024.079|app1 |4|00|Error downloading sip.ld
+000024.080|cfg  |3|00|Prov|Provisioning succeeded
+000024.086|app1 |3|00|Application, load: Type=SIP, Version=3.3.1.0953 23-Feb-11 16:44
+000030.538|app1 |4|00|Loaded application sip.ld from local system successfully.
+000030.538|app1 |6|00|Uploading boot log, time is Mon Jan  1 00:00:28 2007
+
+000030.830|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/logs/0004f2edeea1-boot.log' to 'p.voxter.com(74.114.208.245)'
+000030.947|copy |3|00|Curl attempted to write at an unexpected time
+000030.948|copy |3|00|Upload of 'logs/0004f2edeea1-boot.log' succeeded on attempt 1 (addr 1 of 1)
+000001.821|so   |*|00|---------- Initial log entry ----------
+000001.821|so   |*|00|+++ Note that bootrom log times are in GMT +++
+000001.821|cfg  |*|00|Initial log entry. Current logging level 3
+000001.821|copy |*|00|Initial log entry. Current logging level 3
+000001.821|utilm|*|00|Initial log entry. Current logging level 4
+000001.821|hw   |*|00|Initial log entry. Current logging level 4
+000001.821|ethf |*|00|Initial log entry. Current logging level 4
+000001.821|dns  |*|00|Initial log entry. Current logging level 3
+000001.821|curl |*|00|Initial log entry. Current logging level 3
+000002.139|wdog |*|00|Initial log entry. Current logging level 4
+000002.140|lldp |*|00|Initial log entry. Current logging level 3
+000002.140|lldp |3|00|LLDP is DISABLED.
+000002.140|cdp  |*|00|Initial log entry. Current logging level 3
+000002.140|cdp  |3|00|CDP is DISABLED.
+000002.140|key  |*|00|Initial log entry. Current logging level 4
+000002.142|so   |3|00|Platform: Model=SoundStation IP 7000, Assembly=3111-40000-001 Rev=J
+000002.142|so   |3|00|Platform: Board=3111-40000-001 1
+000002.142|so   |3|00|Platform: MAC=0004f2edeea1, IP=Resolving, Subnet Mask=Resolving
+000002.143|so   |3|00|Platform: BootBlock=3.0.2_40000-001.0024 30-Nov-10 15:04
+000002.143|so   |3|00|Platform: BootL0=Standalone.0002 15-Jan-07 15:05:00
+000002.143|so   |3|00|Application, main: Label=BOOT, Version=Muscovite 4.3.0.0616 27-Jan-11 15:34
+000002.143|so   |3|00|Application, main: P/N=3150-11069-430
+000002.143|app1 |*|00|Initial log entry. Current logging level 3
+000002.147|cfg  |*|00|Initial log entry. Current logging level 2
+000003.123|so   |3|00|Link status is Net up Speed 100 full Duplex.
+000011.300|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+000017.139|cdp  |3|00|CDP did not receive a response from a switch. Disabling CDP.
+000022.182|dns  |*|00|DNS resolver servers are '64.59.144.91' '64.59.150.137'
+000022.182|dns  |*|00|DNS resolver search domain is ''
+000022.203|dns  |3|00|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=86400
+000022.203|app1 |4|00|Could not load time from  (0.0.0.0).
+000022.203|app1 |3|00|DHCP returned result 0x187 from server 192.168.0.1.
+000022.203|app1 |3|00|   Phone IP address is 192.168.0.25.
+000022.203|app1 |3|00|   Subnet mask is 255.255.255.0.
+000022.203|app1 |3|00|   Gateway address is 192.168.0.1.
+000022.203|app1 |3|00|   DNS server is 64.59.144.91.
+000022.203|app1 |3|00|   DNS alternate server is 64.59.150.137.
+000023.166|cfg  |*|00|Prov|Starting to update 3111-40000-001.bootrom.ld
+000023.169|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/3111-40000-001.bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+000023.404|copy |3|00|Download of '3111-40000-001.bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+000023.404|cfg  |3|00|Could not get all 512 bytes of the header
+000023.410|app1 |4|00|Error downloading 3111-40000-001.bootrom.ld
+000023.410|cfg  |*|00|Prov|Starting to update bootrom.ld
+000023.414|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+000023.504|copy |3|00|Download of 'bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+000023.504|cfg  |3|00|Could not get all 512 bytes of the header
+000023.506|app1 |4|00|Error downloading bootrom.ld
+000023.706|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/0004f2edeea1.cfg' from 'p.voxter.com(74.114.208.245)'
+000024.261|copy |3|00|Download of '0004f2edeea1.cfg' succeeded on attempt 1 (addr 1 of 1)
+000024.345|cfg  |*|00|Prov|Starting to update 3111-40000-001.sip.ld
+000024.351|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/3111-40000-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+000024.552|copy |3|00|Download of '3111-40000-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+000024.553|cfg  |3|00|Could not get all 512 bytes of the header
+000024.558|app1 |4|00|Error downloading 3111-40000-001.sip.ld
+000024.559|cfg  |*|00|Prov|Starting to update sip.ld
+000024.561|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/sip.ld' from 'p.voxter.com(74.114.208.245)'
+000024.664|copy |3|00|Download of 'sip.ld' succeeded on attempt 1 (addr 1 of 1)
+000024.664|cfg  |3|00|Could not get all 512 bytes of the header
+000024.666|app1 |4|00|Error downloading sip.ld
+000024.667|cfg  |3|00|Prov|Provisioning succeeded
+000024.684|app1 |3|00|Application, load: Type=SIP, Version=3.3.1.0953 23-Feb-11 16:44
+000031.131|app1 |4|00|Loaded application sip.ld from local system successfully.
+000031.131|app1 |6|00|Uploading boot log, time is Mon Jan  1 00:00:29 2007
+
+000031.423|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/logs/0004f2edeea1-boot.log' to 'p.voxter.com(74.114.208.245)'
+000031.535|copy |3|00|Upload of 'logs/0004f2edeea1-boot.log' succeeded on attempt 1 (addr 1 of 1)
+000001.822|so   |*|00|---------- Initial log entry ----------
+000001.822|so   |*|00|+++ Note that bootrom log times are in GMT +++
+000001.822|cfg  |*|00|Initial log entry. Current logging level 3
+000001.822|copy |*|00|Initial log entry. Current logging level 3
+000001.822|utilm|*|00|Initial log entry. Current logging level 4
+000001.822|hw   |*|00|Initial log entry. Current logging level 4
+000001.822|ethf |*|00|Initial log entry. Current logging level 4
+000001.822|dns  |*|00|Initial log entry. Current logging level 3
+000001.822|curl |*|00|Initial log entry. Current logging level 3
+000002.140|wdog |*|00|Initial log entry. Current logging level 4
+000002.141|lldp |*|00|Initial log entry. Current logging level 3
+000002.141|lldp |3|00|LLDP is DISABLED.
+000002.141|cdp  |*|00|Initial log entry. Current logging level 3
+000002.141|cdp  |3|00|CDP is DISABLED.
+000002.141|key  |*|00|Initial log entry. Current logging level 4
+000002.143|so   |3|00|Platform: Model=SoundStation IP 7000, Assembly=3111-40000-001 Rev=J
+000002.143|so   |3|00|Platform: Board=3111-40000-001 1
+000002.143|so   |3|00|Platform: MAC=0004f2edeea1, IP=Resolving, Subnet Mask=Resolving
+000002.144|so   |3|00|Platform: BootBlock=3.0.2_40000-001.0024 30-Nov-10 15:04
+000002.144|so   |3|00|Platform: BootL0=Standalone.0002 15-Jan-07 15:05:00
+000002.144|so   |3|00|Application, main: Label=BOOT, Version=Muscovite 4.3.0.0616 27-Jan-11 15:34
+000002.144|so   |3|00|Application, main: P/N=3150-11069-430
+000002.144|app1 |*|00|Initial log entry. Current logging level 3
+000002.148|cfg  |*|00|Initial log entry. Current logging level 2
+000003.123|so   |3|00|Link status is Net up Speed 100 full Duplex.
+000011.302|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+000017.141|cdp  |3|00|CDP did not receive a response from a switch. Disabling CDP.
+000022.182|dns  |*|00|DNS resolver servers are '64.59.144.91' '64.59.150.137'
+000022.182|dns  |*|00|DNS resolver search domain is ''
+000022.192|dns  |3|00|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=85368
+000022.192|app1 |4|00|Could not load time from  (0.0.0.0).
+000022.192|app1 |3|00|DHCP returned result 0x187 from server 192.168.0.1.
+000022.192|app1 |3|00|   Phone IP address is 192.168.0.25.
+000022.192|app1 |3|00|   Subnet mask is 255.255.255.0.
+000022.192|app1 |3|00|   Gateway address is 192.168.0.1.
+000022.192|app1 |3|00|   DNS server is 64.59.144.91.
+000022.192|app1 |3|00|   DNS alternate server is 64.59.150.137.
+000023.166|cfg  |*|00|Prov|Starting to update 3111-40000-001.bootrom.ld
+000023.169|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/3111-40000-001.bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+000023.214|copy |3|00|Download of '3111-40000-001.bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+000023.214|cfg  |3|00|Could not get all 512 bytes of the header
+000023.217|app1 |4|00|Error downloading 3111-40000-001.bootrom.ld
+000023.217|cfg  |*|00|Prov|Starting to update bootrom.ld
+000023.220|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+000023.266|copy |3|00|Download of 'bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+000023.266|cfg  |3|00|Could not get all 512 bytes of the header
+000023.268|app1 |4|00|Error downloading bootrom.ld
+000023.471|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/0004f2edeea1.cfg' from 'p.voxter.com(74.114.208.245)'
+000023.796|copy |3|00|Download of '0004f2edeea1.cfg' succeeded on attempt 1 (addr 1 of 1)
+000023.883|cfg  |*|00|Prov|Starting to update 3111-40000-001.sip.ld
+000023.888|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/3111-40000-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+000023.970|copy |3|00|Download of '3111-40000-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+000023.971|cfg  |3|00|Could not get all 512 bytes of the header
+000023.976|app1 |4|00|Error downloading 3111-40000-001.sip.ld
+000023.977|cfg  |*|00|Prov|Starting to update sip.ld
+000023.980|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/sip.ld' from 'p.voxter.com(74.114.208.245)'
+000024.058|copy |3|00|Download of 'sip.ld' succeeded on attempt 1 (addr 1 of 1)
+000024.058|cfg  |3|00|Could not get all 512 bytes of the header
+000024.060|app1 |4|00|Error downloading sip.ld
+000024.061|cfg  |3|00|Prov|Provisioning succeeded
+000024.077|app1 |3|00|Application, load: Type=SIP, Version=3.3.1.0953 23-Feb-11 16:44
+000030.526|app1 |4|00|Loaded application sip.ld from local system successfully.
+000030.526|app1 |6|00|Uploading boot log, time is Mon Jan  1 00:00:28 2007
+
+000030.819|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/logs/0004f2edeea1-boot.log' to 'p.voxter.com(74.114.208.245)'
+000030.958|copy |3|00|Upload of 'logs/0004f2edeea1-boot.log' succeeded on attempt 1 (addr 1 of 1)
+000001.822|so   |*|00|---------- Initial log entry ----------
+000001.822|so   |*|00|+++ Note that bootrom log times are in GMT +++
+000001.822|cfg  |*|00|Initial log entry. Current logging level 3
+000001.822|copy |*|00|Initial log entry. Current logging level 3
+000001.822|utilm|*|00|Initial log entry. Current logging level 4
+000001.822|hw   |*|00|Initial log entry. Current logging level 4
+000001.822|ethf |*|00|Initial log entry. Current logging level 4
+000001.822|dns  |*|00|Initial log entry. Current logging level 3
+000001.822|curl |*|00|Initial log entry. Current logging level 3
+000002.141|wdog |*|00|Initial log entry. Current logging level 4
+000002.141|lldp |*|00|Initial log entry. Current logging level 3
+000002.141|lldp |3|00|LLDP is DISABLED.
+000002.141|cdp  |*|00|Initial log entry. Current logging level 3
+000002.141|cdp  |3|00|CDP is DISABLED.
+000002.141|key  |*|00|Initial log entry. Current logging level 4
+000002.143|so   |3|00|Platform: Model=SoundStation IP 7000, Assembly=3111-40000-001 Rev=J
+000002.144|so   |3|00|Platform: Board=3111-40000-001 1
+000002.144|so   |3|00|Platform: MAC=0004f2edeea1, IP=Resolving, Subnet Mask=Resolving
+000002.144|so   |3|00|Platform: BootBlock=3.0.2_40000-001.0024 30-Nov-10 15:04
+000002.144|so   |3|00|Platform: BootL0=Standalone.0002 15-Jan-07 15:05:00
+000002.144|so   |3|00|Application, main: Label=BOOT, Version=Muscovite 4.3.0.0616 27-Jan-11 15:34
+000002.144|so   |3|00|Application, main: P/N=3150-11069-430
+000002.144|app1 |*|00|Initial log entry. Current logging level 3
+000002.148|cfg  |*|00|Initial log entry. Current logging level 2
+000003.123|so   |3|00|Link status is Net up Speed 100 full Duplex.
+000011.302|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+000017.141|cdp  |3|00|CDP did not receive a response from a switch. Disabling CDP.
+000022.182|dns  |*|00|DNS resolver servers are '64.59.144.91' '64.59.150.137'
+000022.182|dns  |*|00|DNS resolver search domain is ''
+000022.196|dns  |3|00|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=84932
+000022.196|app1 |4|00|Could not load time from  (0.0.0.0).
+000022.196|app1 |3|00|DHCP returned result 0x187 from server 192.168.0.1.
+000022.196|app1 |3|00|   Phone IP address is 192.168.0.25.
+000022.196|app1 |3|00|   Subnet mask is 255.255.255.0.
+000022.196|app1 |3|00|   Gateway address is 192.168.0.1.
+000022.196|app1 |3|00|   DNS server is 64.59.144.91.
+000022.196|app1 |3|00|   DNS alternate server is 64.59.150.137.
+000023.166|cfg  |*|00|Prov|Starting to update 3111-40000-001.bootrom.ld
+000023.169|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/3111-40000-001.bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+000023.220|copy |3|00|Download of '3111-40000-001.bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+000023.221|cfg  |3|00|Could not get all 512 bytes of the header
+000023.225|app1 |4|00|Error downloading 3111-40000-001.bootrom.ld
+000023.225|cfg  |*|00|Prov|Starting to update bootrom.ld
+000023.228|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+000023.294|copy |3|00|Download of 'bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+000023.294|cfg  |3|00|Could not get all 512 bytes of the header
+000023.296|app1 |4|00|Error downloading bootrom.ld
+000023.518|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/0004f2edeea1.cfg' from 'p.voxter.com(74.114.208.245)'
+000023.802|copy |3|00|Download of '0004f2edeea1.cfg' succeeded on attempt 1 (addr 1 of 1)
+000023.892|cfg  |*|00|Prov|Starting to update 3111-40000-001.sip.ld
+000023.898|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/3111-40000-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+000023.959|copy |3|00|Download of '3111-40000-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+000023.960|cfg  |3|00|Could not get all 512 bytes of the header
+000023.965|app1 |4|00|Error downloading 3111-40000-001.sip.ld
+000023.966|cfg  |*|00|Prov|Starting to update sip.ld
+000023.968|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/sip.ld' from 'p.voxter.com(74.114.208.245)'
+000024.040|copy |3|00|Download of 'sip.ld' succeeded on attempt 1 (addr 1 of 1)
+000024.041|cfg  |3|00|Could not get all 512 bytes of the header
+000024.044|app1 |4|00|Error downloading sip.ld
+000024.045|cfg  |3|00|Prov|Provisioning succeeded
+000024.059|app1 |3|00|Application, load: Type=SIP, Version=3.3.1.0953 23-Feb-11 16:44
+000030.509|app1 |4|00|Loaded application sip.ld from local system successfully.
+000030.509|app1 |6|00|Uploading boot log, time is Mon Jan  1 00:00:28 2007
+
+000030.813|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/logs/0004f2edeea1-boot.log' to 'p.voxter.com(74.114.208.245)'
+000030.922|copy |3|00|Upload of 'logs/0004f2edeea1-boot.log' succeeded on attempt 1 (addr 1 of 1)

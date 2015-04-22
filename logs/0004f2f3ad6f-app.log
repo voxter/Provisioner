@@ -1,0 +1,2 @@
+0207012819|log  |4|03|UtilLogC: Upload succeeded. (ConsecutiveFailures 1 Total 1 MsgSendErr 0)
+0207012829|utilm|4|03|sntpcTimeGet: server is out of sync [0xDC]

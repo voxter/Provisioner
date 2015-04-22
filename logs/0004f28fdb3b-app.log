@@ -1,0 +1,7 @@
+0420075331|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0420112449|app1 |4|00|DBS event contains a handle (0xf21878) that's invalid
+0420112519|clist|4|00|dbIO::processResult:copy error
+0420112519|clist|4|00|dbSet::mem2srv:transfer failed
+0420152239|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420152239|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420152722|app1 |4|00|DBS event contains a handle (0xf21878) that's invalid

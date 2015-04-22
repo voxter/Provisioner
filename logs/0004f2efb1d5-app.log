@@ -1,0 +1,57 @@
+0420065958|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420075958|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420085958|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420095958|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420105959|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420115959|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420130000|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420135700|app1 |*|03|Ctx [0] Registered [false]
+0420135700|app1 |*|03|Ctx [1] Registered [false]
+0420135747|app1 |*|03|Ctx [0] Registered [true]
+0420140147|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420150147|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420160147|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420161747|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420161747|sip  |4|03|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'thompsonbros.fullymanaged.sip.voxter.com' found no records
+0420170217|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420180217|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420185707|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0x31d0000
+0420185708|ares |4|03|aresDnsLookup: select time-out 1 on A lookup for 'pool.ntp.org' after 1 sec
+0420190616|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420200617|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420210617|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420211417|sip  |4|03|NAPTR query for host 'thompsonbros.fullymanaged.sip.voxter.com' returned no results
+0420220617|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420230617|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421000617|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421010618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421020618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421030618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421040618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421050618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421060618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421070618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421080618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421090619|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421100619|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421110619|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421120619|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421130620|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421140620|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421150620|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421160620|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421170620|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421180620|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421185706|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0x31f0000
+0421191018|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421193018|sip  |4|03|NAPTR query for host 'thompsonbros.fullymanaged.sip.voxter.com' returned no results
+0421201018|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421211019|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421221019|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421231019|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0422001019|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0422011019|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0422021019|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0422031019|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0422041019|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0422051019|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000

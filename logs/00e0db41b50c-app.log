@@ -1,0 +1,5 @@
+0418160336|ares |4|03|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
+0420102745|ares |4|03|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
+0420115545|ares |4|03|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.hyperwallet.voxter.sip.voxter.com' after 0 sec
+0420143925|ares |4|03|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
+0420153525|ares |4|03|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec

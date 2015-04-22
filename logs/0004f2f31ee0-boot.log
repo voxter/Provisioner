@@ -1,0 +1,1184 @@
+000000.315|so   |*|00|---------- Initial log entry ----------
+000000.315|so   |*|00|+++ Note that bootrom log times are in GMT +++
+000000.315|copy |*|00|Initial log entry. Current logging level 3
+000000.315|utilm|*|00|Initial log entry. Current logging level 4
+000000.315|hw   |*|00|Initial log entry. Current logging level 4
+000000.315|ethf |*|00|Initial log entry. Current logging level 4
+000000.315|dns  |*|00|Initial log entry. Current logging level 3
+000000.315|curl |*|00|Initial log entry. Current logging level 3
+000000.315|sec  |*|00|Initial log entry. Current logging level 4
+000000.470|wdog |*|00|Initial log entry. Current logging level 4
+000000.470|lldp |*|00|Initial log entry. Current logging level 3
+000000.470|lldp |3|00|LLDP is DISABLED.
+000000.470|cdp  |*|00|Initial log entry. Current logging level 3
+000000.470|cdp  |3|00|CDP is DISABLED.
+000000.470|key  |*|00|Initial log entry. Current logging level 4
+000000.485|so   |3|00|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.485|so   |3|00|Platform: Board=3111-30900-001 1 0
+000000.485|so   |3|00|Platform: MAC=0004f2f31ee0, IP=192.168.3.50, Subnet Mask=255.255.252.0
+000000.485|so   |3|00|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.485|so   |3|00|Application, main: Label=BOOT, Version=Muscovite 4.4.0.0080 26-Jul-11 13:56
+000000.485|so   |3|00|Application, main: P/N=3150-11069-440
+000000.485|app1 |*|00|Initial log entry. Current logging level 3
+000000.630|cfg  |*|00|Initial log entry. Current logging level 2
+000000.700|cfg  |3|00|Current BootBlock revision is '3.0.2 (30900-001).0024'
+000000.700|cfg  |*|00|Prov|Updating BootBlock
+000000.700|cfg  |3|00|Checking pre-compiled image 3111-30900-001.bootblock.ld
+000000.700|cfg  |3|00|New load header information:
+000000.700|cfg  |3|00|Code length:         0x0000F119
+000000.700|cfg  |3|00|Header check Sum:    0x0066D5C9
+000000.700|cfg  |3|00|Code check Sum:      0x0065E284
+000000.700|cfg  |3|00|Options:             0x00000020
+000000.700|cfg  |3|00|Recognized compatible bootBlock
+000000.710|cfg  |3|00|BootBlock is already present
+000000.710|cfg  |3|00|Image is already up to date
+000000.710|app1 |*|00|BootBlock is already up to date.
+000001.470|so   |3|00|Link status is Net up Speed 100 full Duplex.
+000012.260|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+000017.705|cdp  |3|00|CDP did not receive a response from a switch. Disabling CDP.
+000017.705|app1 |3|00|DNS resolver server is '8.8.8.8'
+000017.705|app1 |3|00|DNS resolver search domain is ''
+000028.355|app1 |3|00|Bootline: esw(3,0)bootHost:flash e=192.168.3.50:fffffc00 h=74.114.208.41 g=192.168.1.1 u=**** pw=**** tn=CircaIP
+000028.355|app1 |4|00|Could not load time from  (0.0.0.0).
+000029.060|dns  |3|00|DNS lookup for 'p.voxter.com'(74.114.208.41,74.114.208.40) TTL=3469
+000029.060|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/0004f2f31ee0.cfg' from 'p.voxter.com(74.114.208.41)'
+000029.205|copy |3|00|Download of '0004f2f31ee0.cfg' succeeded on attempt 1 (addr 1 of 2)
+000029.280|cfg  |*|00|Prov|Starting to update 3111-30900-001.sip.ld
+000029.395|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/3111-30900-001.sip.ld' from 'p.voxter.com(74.114.208.41)'
+000029.640|cfg  |3|00|New load header information:
+000029.640|cfg  |3|00|Code length:         0x004ADA84
+000029.640|cfg  |3|00|Header check Sum:    0x07545850
+000029.640|cfg  |3|00|Code check Sum:      0x07097CA8
+000029.640|cfg  |3|00|Options:             0x00000080
+000029.640|cfg  |3|00|Recognized container image
+000029.640|cfg  |3|00|New load header information:
+000029.640|cfg  |3|00|Code length:         0x003CB682
+000029.640|cfg  |3|00|Header check Sum:    0x2840B8BA
+000029.640|cfg  |3|00|Code check Sum:      0x1E3FBE23
+000029.640|cfg  |3|00|Options:             0x00000102
+000029.640|cfg  |3|00|Could not open application file for checking
+000029.640|cfg  |3|00|Application in container image 1 is different
+000029.640|cfg  |3|00|New load header information:
+000029.640|cfg  |3|00|Code length:         0x000E1B10
+000029.640|cfg  |3|00|Header check Sum:    0x3216FA02
+000029.640|cfg  |3|00|Code check Sum:      0x0708DCBE
+000029.640|cfg  |3|00|Options:             0x00000110
+000029.640|cfg  |3|00|BootROM header is different
+000029.640|cfg  |3|00|BootROM in container image 2 is different
+000029.640|cfg  |3|00|Using bootROM
+000054.305|cfg  |*|00|Prov|Updating BootROM
+000054.310|cfg  |3|00|Using compatible image 0
+000100.190|copy |3|00|Download of '3111-30900-001.sip.ld' succeeded on attempt 1 (addr 1 of 2)
+000100.500|sig  |*|00|Initial log entry. Current logging level 3
+000100.500|sig  |3|00|hwSigParseRemove: found key Sig_3.
+000100.735|cfg  |3|00|Good image signature
+000100.860|cfg  |4|00|Removing application...
+000101.095|cfg  |3|00|Programming BootROM from sector 19 to 36
+000128.600|cfg  |3|00|Programming to sector 19 complete
+000128.765|cfg  |3|00|Invalidated old image at sector 1, offset 20.
+000129.165|cfg  |*|00|Prov|Image has been changed
+000129.255|cfg  |*|00|Prov|Provisioning needs to reboot to upgrade image(s)
+000000.270|so   |*|01|---------- Initial log entry ----------
+000000.270|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.270|boot |*|01|Initial log entry. Current logging level 3
+000000.275|copy |*|01|Initial log entry. Current logging level 3
+000000.275|utilm|*|01|Initial log entry. Current logging level 4
+000000.275|hw   |*|01|Initial log entry. Current logging level 4
+000000.275|ethf |*|01|Initial log entry. Current logging level 4
+000000.275|dns  |*|01|Initial log entry. Current logging level 3
+000000.275|curl |*|01|Initial log entry. Current logging level 3
+000000.275|sec  |*|01|Initial log entry. Current logging level 4
+000000.430|wdog |*|01|Initial log entry. Current logging level 4
+000000.430|lldp |*|01|Initial log entry. Current logging level 3
+000000.430|cdp  |*|01|Initial log entry. Current logging level 3
+000000.430|key  |*|01|Initial log entry. Current logging level 4
+000000.430|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.430|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.430|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.430|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.430|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.430|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.435|log  |*|01|Install file upload callback for 'Updater'
+
+000000.435|app1 |*|01|Initial log entry. Current logging level 3
+000000.575|cfg  |*|01|Initial log entry. Current logging level 2
+000000.580|app1 |3|01|Application image is not present.
+000000.650|dot1x|*|01|Initial log entry. Current logging level 3
+000001.430|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000003.790|tls  |*|01|Initial log entry. Current logging level 4
+000012.830|lldp |3|01|LLDP did not receive a response from a switch. Disabling LLDP.
+000018.275|cdp  |3|01|CDP did not receive a response from a switch. Disabling CDP.
+000018.275|dns  |*|01|DNS resolver servers are '8.8.8.8' '0.0.0.0'
+000018.275|dns  |*|01|DNS resolver search domain is ''
+000018.275|app1 |3|01|DNS resolver server is '8.8.8.8'
+000018.275|app1 |3|01|DNS resolver search domain is ''
+000018.305|dns  |3|01|DNS lookup for (A) 'p.voxter.com'(74.114.208.41,74.114.208.40) TTL=3387
+000018.305|app1 |3|01|Bootline: esw(3,0)bootHost:flash e=192.168.3.50:fffffc00 h=74.114.208.41 g=192.168.1.1 u=**** pw=**** tn=CircaIP
+000018.305|app1 |4|01|Could not load time from  (0.0.0.0).
+000018.930|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f2f31ee0.cfg' from 'p.voxter.com(74.114.208.41)'
+000019.220|copy |3|01|Download of '0004f2f31ee0.cfg' succeeded on attempt 1 (addr 1 of 2)
+000019.335|cfg  |*|01|Prov|Starting to update 3111-30900-001.sip.ld
+000019.450|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/3111-30900-001.sip.ld' from 'p.voxter.com(74.114.208.41)'
+000019.740|cfg  |3|01|New load header information:
+000019.740|cfg  |3|01|Code length:         0x004ADA84
+000019.740|cfg  |3|01|Code Checksum:       0x07097CA8
+000019.740|cfg  |3|01|Options:             0x00000080
+000019.740|cfg  |3|01|Recognized container image
+000019.740|cfg  |3|01|New load header information:
+000019.740|cfg  |3|01|Code length:         0x003CB682
+000019.740|cfg  |3|01|Code Checksum:       0x1E3FBE23
+000019.740|cfg  |3|01|Options:             0x00000102
+000019.740|cfg  |3|01|Could not open application file for checking
+000019.740|cfg  |3|01|Application in container image 1 is different
+000019.740|cfg  |3|01|New load header information:
+000019.740|cfg  |3|01|Code length:         0x000E1B10
+000019.740|cfg  |3|01|Code Checksum:       0x0708DCBE
+000019.740|cfg  |3|01|Options:             0x00000110
+000019.745|cfg  |3|01|Updater is already present
+000019.745|cfg  |3|01|Updater in container image 2 is not different
+000019.745|cfg  |3|01|Using application
+000019.870|cfg  |*|01|Prov|Updating the Application
+000019.875|cfg  |3|01|Using compatible image 0
+000044.710|copy |3|01|buffered_write: transfer terminated
+000044.710|copy |3|01|Download of '3111-30900-001.sip.ld' succeeded on attempt 1 (addr 1 of 2)
+000045.190|sig  |*|01|Initial log entry. Current logging level 3
+000045.190|sig  |3|01|hwSigParseRemove: found key Sig_3.
+000046.180|cfg  |3|01|Good image signature
+000046.420|cfg  |3|01|Programming 3979450 bytes into tffs in 4K blocks
+000221.235|cfg  |*|01|Prov|Succeeded updating file 3111-30900-001.sip.ld
+000221.355|cfg  |*|01|Prov|Image has been changed
+000221.480|cfg  |3|01|Prov|Provisioning succeeded
+000221.550|app1 |3|01|Application, load: Type=SIP, Version=4.0.5.4853 06-Feb-14 16:49
+000221.555|boot |*|01|Using TFFS for flash load
+000221.555|boot |*|01|Code length:         0x003CB682
+000221.555|boot |*|01|Code checksum:       0x1E3FBE23
+000221.555|cfg  |*|01|Prov|Finished updating configuration
+000232.800|app1 |4|01|Loaded application sip.ld from local system successfully.
+000232.800|app1 |6|01|Uploading boot log, time is THU MAR 20 20:33:57 2014
+
+000233.050|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/logs/0004f2f31ee0-boot.log' to 'p.voxter.com(74.114.208.41)'
+000233.295|copy |3|01|Upload of 'logs/0004f2f31ee0-boot.log' succeeded on attempt 1 (addr 1 of 2)
+000233.485|cfg  |3|01|Prov|Shutting down
+000000.280|so   |*|01|---------- Initial log entry ----------
+000000.280|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.280|boot |*|01|Initial log entry. Current logging level 3
+000000.280|copy |*|01|Initial log entry. Current logging level 3
+000000.280|utilm|*|01|Initial log entry. Current logging level 4
+000000.280|hw   |*|01|Initial log entry. Current logging level 4
+000000.280|ethf |*|01|Initial log entry. Current logging level 4
+000000.280|dns  |*|01|Initial log entry. Current logging level 3
+000000.280|curl |*|01|Initial log entry. Current logging level 3
+000000.280|sec  |*|01|Initial log entry. Current logging level 4
+000000.440|wdog |*|01|Initial log entry. Current logging level 4
+000000.440|lldp |*|01|Initial log entry. Current logging level 3
+000000.440|cdp  |*|01|Initial log entry. Current logging level 3
+000000.440|key  |*|01|Initial log entry. Current logging level 4
+000000.440|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.440|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.440|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.440|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.440|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.440|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.590|cfg  |*|01|Initial log entry. Current logging level 2
+000000.670|app1 |3|01|Application, load: Type=SIP, Version=4.0.5.4853 06-Feb-14 16:49
+000000.685|boot |*|01|Using TFFS for flash load
+000000.695|boot |*|01|Code length:         0x003CB682
+000000.695|boot |*|01|Code checksum:       0x1E3FBE23
+000001.440|so   |3|01|Link status is Net down.
+000002.440|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.140|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.280|so   |*|01|---------- Initial log entry ----------
+000000.280|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.280|boot |*|01|Initial log entry. Current logging level 3
+000000.280|copy |*|01|Initial log entry. Current logging level 3
+000000.280|utilm|*|01|Initial log entry. Current logging level 4
+000000.280|hw   |*|01|Initial log entry. Current logging level 4
+000000.280|ethf |*|01|Initial log entry. Current logging level 4
+000000.280|dns  |*|01|Initial log entry. Current logging level 3
+000000.280|curl |*|01|Initial log entry. Current logging level 3
+000000.280|sec  |*|01|Initial log entry. Current logging level 4
+000000.440|wdog |*|01|Initial log entry. Current logging level 4
+000000.440|lldp |*|01|Initial log entry. Current logging level 3
+000000.440|cdp  |*|01|Initial log entry. Current logging level 3
+000000.440|key  |*|01|Initial log entry. Current logging level 4
+000000.440|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.440|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.440|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.440|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.440|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.440|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.440|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.585|cfg  |*|01|Initial log entry. Current logging level 2
+000000.655|dot1x|*|01|Initial log entry. Current logging level 3
+000000.655|app1 |3|01|Starting provisioning because of the start type.
+000001.440|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000004.845|tls  |*|01|Initial log entry. Current logging level 4
+000013.885|lldp |3|01|LLDP did not receive a response from a switch. Disabling LLDP.
+000019.135|cdp  |3|01|CDP did not receive a response from a switch. Disabling CDP.
+000019.135|dns  |*|01|DNS resolver servers are '8.8.8.8' '0.0.0.0'
+000019.135|dns  |*|01|DNS resolver search domain is ''
+000019.135|app1 |3|01|DNS resolver server is '8.8.8.8'
+000019.135|app1 |3|01|DNS resolver search domain is ''
+000019.165|dns  |3|01|DNS lookup for (A) 'p.voxter.com'(74.114.208.41,74.114.208.40) TTL=21599
+000019.170|app1 |3|01|Bootline: esw(3,0)bootHost:flash e=192.168.3.50:fffffc00 h=74.114.208.41 g=192.168.1.1 u=**** pw=**** tn=CircaIP
+000019.170|app1 |4|01|Could not load time from  (0.0.0.0).
+000019.850|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f2f31ee0.cfg' from 'p.voxter.com(74.114.208.41)'
+000020.185|copy |3|01|Download of '0004f2f31ee0.cfg' succeeded on attempt 1 (addr 1 of 2)
+000020.315|cfg  |*|01|Prov|Starting to update 3111-30900-001.sip.ld
+000020.435|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/3111-30900-001.sip.ld' from 'p.voxter.com(74.114.208.41)'
+000020.840|cfg  |3|01|New load header information:
+000020.840|cfg  |3|01|Code length:         0x004AF4B8
+000020.840|cfg  |3|01|Code Checksum:       0x07097CA8
+000020.840|cfg  |3|01|Options:             0x00000080
+000020.840|cfg  |3|01|Recognized container image
+000020.845|cfg  |3|01|New load header information:
+000020.845|cfg  |3|01|Code length:         0x003CD0B5
+000020.845|cfg  |3|01|Code Checksum:       0x1E4B19CF
+000020.845|cfg  |3|01|Options:             0x00000102
+000020.845|cfg  |3|01|Application header is different
+000020.845|cfg  |3|01|Application in container image 1 is different
+000020.845|cfg  |3|01|New load header information:
+000020.845|cfg  |3|01|Code length:         0x000E1B10
+000020.845|cfg  |3|01|Code Checksum:       0x0708DCBE
+000020.845|cfg  |3|01|Options:             0x00000110
+000020.845|cfg  |3|01|Updater is already present
+000020.845|cfg  |3|01|Updater in container image 2 is not different
+000020.845|cfg  |3|01|Using application
+000020.970|cfg  |*|01|Prov|Updating the Application
+000020.975|cfg  |3|01|Using compatible image 0
+000047.195|copy |3|01|buffered_write: transfer terminated
+000047.195|copy |3|01|Download of '3111-30900-001.sip.ld' succeeded on attempt 1 (addr 1 of 2)
+000047.675|sig  |*|01|Initial log entry. Current logging level 3
+000047.675|sig  |3|01|hwSigParseRemove: found key Sig_3.
+000048.665|cfg  |3|01|Good image signature
+000050.170|cfg  |3|01|Programming 3986157 bytes into tffs in 4K blocks
+000255.070|cfg  |*|01|Prov|Succeeded updating file 3111-30900-001.sip.ld
+000255.230|cfg  |*|01|Prov|Image has been changed
+000255.320|cfg  |3|01|Prov|Provisioning succeeded
+000255.390|app1 |3|01|Application, load: Type=SIP, Version=4.0.6.0711 26-Feb-14 08:43
+000255.395|boot |*|01|Using TFFS for flash load
+000255.395|boot |*|01|Code length:         0x003CD0B5
+000255.395|boot |*|01|Code checksum:       0x1E4B19CF
+000255.400|cfg  |*|01|Prov|Finished updating configuration
+000306.940|app1 |4|01|Loaded application sip.ld from local system successfully.
+000306.940|app1 |6|01|Uploading boot log, time is SUN JUN 22 00:21:02 2014
+
+000307.190|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/logs/0004f2f31ee0-boot.log' to 'p.voxter.com(74.114.208.41)'
+000307.500|copy |3|01|Upload of 'logs/0004f2f31ee0-boot.log' succeeded on attempt 1 (addr 1 of 2)
+000307.695|cfg  |3|01|Prov|Shutting down
+000000.290|so   |*|01|---------- Initial log entry ----------
+000000.290|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.290|boot |*|01|Initial log entry. Current logging level 3
+000000.290|copy |*|01|Initial log entry. Current logging level 3
+000000.290|utilm|*|01|Initial log entry. Current logging level 4
+000000.290|hw   |*|01|Initial log entry. Current logging level 4
+000000.290|ethf |*|01|Initial log entry. Current logging level 4
+000000.290|dns  |*|01|Initial log entry. Current logging level 3
+000000.290|curl |*|01|Initial log entry. Current logging level 3
+000000.290|sec  |*|01|Initial log entry. Current logging level 4
+000000.450|wdog |*|01|Initial log entry. Current logging level 4
+000000.450|lldp |*|01|Initial log entry. Current logging level 3
+000000.450|cdp  |*|01|Initial log entry. Current logging level 3
+000000.450|key  |*|01|Initial log entry. Current logging level 4
+000000.450|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.450|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.450|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.450|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.450|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.450|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.450|log  |*|01|Install file upload callback for 'Updater'
+
+000000.455|app1 |*|01|Initial log entry. Current logging level 3
+000000.600|cfg  |*|01|Initial log entry. Current logging level 2
+000000.680|app1 |3|01|Application, load: Type=SIP, Version=4.0.6.0711 26-Feb-14 08:43
+000000.695|boot |*|01|Using TFFS for flash load
+000000.705|boot |*|01|Code length:         0x003CD0B5
+000000.705|boot |*|01|Code checksum:       0x1E4B19CF
+000001.450|so   |3|01|Link status is Net down.
+000002.450|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.140|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.280|so   |*|01|---------- Initial log entry ----------
+000000.280|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.440|wdog |*|01|Initial log entry. Current logging level 4
+000000.440|lldp |*|01|Initial log entry. Current logging level 3
+000000.445|cdp  |*|01|Initial log entry. Current logging level 3
+000000.445|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.445|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.590|cfg  |*|01|Initial log entry. Current logging level 2
+000000.670|app1 |3|01|Application, load: Type=SIP, Version=4.0.6.0711 26-Feb-14 08:43
+000000.685|boot |*|01|Using TFFS for flash load
+000000.695|boot |*|01|Code length:         0x003CD0B5
+000000.695|boot |*|01|Code checksum:       0x1E4B19CF
+000001.440|so   |3|01|Link status is Net down.
+000002.440|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.665|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.290|so   |*|01|---------- Initial log entry ----------
+000000.290|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.290|boot |*|01|Initial log entry. Current logging level 3
+000000.290|copy |*|01|Initial log entry. Current logging level 3
+000000.290|utilm|*|01|Initial log entry. Current logging level 4
+000000.290|hw   |*|01|Initial log entry. Current logging level 4
+000000.290|ethf |*|01|Initial log entry. Current logging level 4
+000000.290|dns  |*|01|Initial log entry. Current logging level 3
+000000.290|curl |*|01|Initial log entry. Current logging level 3
+000000.290|sec  |*|01|Initial log entry. Current logging level 4
+000000.450|wdog |*|01|Initial log entry. Current logging level 4
+000000.450|lldp |*|01|Initial log entry. Current logging level 3
+000000.450|cdp  |*|01|Initial log entry. Current logging level 3
+000000.450|key  |*|01|Initial log entry. Current logging level 4
+000000.450|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.450|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.450|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.450|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.450|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.450|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.450|log  |*|01|Install file upload callback for 'Updater'
+
+000000.455|app1 |*|01|Initial log entry. Current logging level 3
+000000.600|cfg  |*|01|Initial log entry. Current logging level 2
+000000.680|app1 |3|01|Application, load: Type=SIP, Version=4.0.6.0711 26-Feb-14 08:43
+000000.695|boot |*|01|Using TFFS for flash load
+000000.705|boot |*|01|Code length:         0x003CD0B5
+000000.705|boot |*|01|Code checksum:       0x1E4B19CF
+000001.450|so   |3|01|Link status is Net down.
+000002.450|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.130|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.295|so   |*|01|---------- Initial log entry ----------
+000000.295|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.295|boot |*|01|Initial log entry. Current logging level 3
+000000.295|copy |*|01|Initial log entry. Current logging level 3
+000000.295|utilm|*|01|Initial log entry. Current logging level 4
+000000.295|hw   |*|01|Initial log entry. Current logging level 4
+000000.295|ethf |*|01|Initial log entry. Current logging level 4
+000000.295|dns  |*|01|Initial log entry. Current logging level 3
+000000.295|curl |*|01|Initial log entry. Current logging level 3
+000000.295|sec  |*|01|Initial log entry. Current logging level 4
+000000.450|wdog |*|01|Initial log entry. Current logging level 4
+000000.455|lldp |*|01|Initial log entry. Current logging level 3
+000000.455|cdp  |*|01|Initial log entry. Current logging level 3
+000000.455|key  |*|01|Initial log entry. Current logging level 4
+000000.455|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.455|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.455|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.455|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.455|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.455|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.455|log  |*|01|Install file upload callback for 'Updater'
+
+000000.455|app1 |*|01|Initial log entry. Current logging level 3
+000000.600|cfg  |*|01|Initial log entry. Current logging level 2
+000000.680|app1 |3|01|Application, load: Type=SIP, Version=4.0.6.0711 26-Feb-14 08:43
+000000.695|boot |*|01|Using TFFS for flash load
+000000.705|boot |*|01|Code length:         0x003CD0B5
+000000.705|boot |*|01|Code checksum:       0x1E4B19CF
+000001.450|so   |3|01|Link status is Net down.
+000002.450|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.130|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.290|so   |*|01|---------- Initial log entry ----------
+000000.290|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.290|boot |*|01|Initial log entry. Current logging level 3
+000000.290|copy |*|01|Initial log entry. Current logging level 3
+000000.290|utilm|*|01|Initial log entry. Current logging level 4
+000000.290|hw   |*|01|Initial log entry. Current logging level 4
+000000.290|ethf |*|01|Initial log entry. Current logging level 4
+000000.290|dns  |*|01|Initial log entry. Current logging level 3
+000000.290|curl |*|01|Initial log entry. Current logging level 3
+000000.290|sec  |*|01|Initial log entry. Current logging level 4
+000000.450|wdog |*|01|Initial log entry. Current logging level 4
+000000.450|lldp |*|01|Initial log entry. Current logging level 3
+000000.450|cdp  |*|01|Initial log entry. Current logging level 3
+000000.450|key  |*|01|Initial log entry. Current logging level 4
+000000.450|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.450|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.450|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.455|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.455|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.455|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.455|log  |*|01|Install file upload callback for 'Updater'
+
+000000.455|app1 |*|01|Initial log entry. Current logging level 3
+000000.600|cfg  |*|01|Initial log entry. Current logging level 2
+000000.680|app1 |3|01|Application, load: Type=SIP, Version=4.0.6.0711 26-Feb-14 08:43
+000000.695|boot |*|01|Using TFFS for flash load
+000000.710|boot |*|01|Code length:         0x003CD0B5
+000000.710|boot |*|01|Code checksum:       0x1E4B19CF
+000001.450|so   |3|01|Link status is Net down.
+000002.450|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.130|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.440|wdog |*|01|Initial log entry. Current logging level 4
+000000.440|lldp |*|01|Initial log entry. Current logging level 3
+000000.440|cdp  |*|01|Initial log entry. Current logging level 3
+000000.440|key  |*|01|Initial log entry. Current logging level 4
+000000.440|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.440|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.445|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.585|cfg  |*|01|Initial log entry. Current logging level 2
+000000.665|app1 |3|01|Application, load: Type=SIP, Version=4.0.6.0711 26-Feb-14 08:43
+000000.675|boot |*|01|Using TFFS for flash load
+000000.690|boot |*|01|Code length:         0x003CD0B5
+000000.690|boot |*|01|Code checksum:       0x1E4B19CF
+000001.440|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.115|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.280|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.440|wdog |*|01|Initial log entry. Current logging level 4
+000000.440|lldp |*|01|Initial log entry. Current logging level 3
+000000.440|cdp  |*|01|Initial log entry. Current logging level 3
+000000.440|key  |*|01|Initial log entry. Current logging level 4
+000000.440|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.440|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.440|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.440|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.445|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.585|cfg  |*|01|Initial log entry. Current logging level 2
+000000.665|app1 |3|01|Application, load: Type=SIP, Version=4.0.6.0711 26-Feb-14 08:43
+000000.675|boot |*|01|Using TFFS for flash load
+000000.695|boot |*|01|Code length:         0x003CD0B5
+000000.695|boot |*|01|Code checksum:       0x1E4B19CF
+000001.440|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.115|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.445|wdog |*|01|Initial log entry. Current logging level 4
+000000.445|lldp |*|01|Initial log entry. Current logging level 3
+000000.445|cdp  |*|01|Initial log entry. Current logging level 3
+000000.445|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.445|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.590|cfg  |*|01|Initial log entry. Current logging level 2
+000000.670|app1 |3|01|Application, load: Type=SIP, Version=4.0.6.0711 26-Feb-14 08:43
+000000.685|boot |*|01|Using TFFS for flash load
+000000.695|boot |*|01|Code length:         0x003CD0B5
+000000.695|boot |*|01|Code checksum:       0x1E4B19CF
+000001.440|so   |3|01|Link status is Net down.
+000002.440|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.120|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.440|wdog |*|01|Initial log entry. Current logging level 4
+000000.440|lldp |*|01|Initial log entry. Current logging level 3
+000000.440|cdp  |*|01|Initial log entry. Current logging level 3
+000000.440|key  |*|01|Initial log entry. Current logging level 4
+000000.440|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.445|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.585|cfg  |*|01|Initial log entry. Current logging level 2
+000000.655|dot1x|*|01|Initial log entry. Current logging level 3
+000000.655|app1 |3|01|Starting provisioning because of the start type.
+000001.440|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000006.515|tls  |*|01|Initial log entry. Current logging level 4
+000015.555|lldp |3|01|LLDP did not receive a response from a switch. Disabling LLDP.
+000020.670|cdp  |3|01|CDP did not receive a response from a switch. Disabling CDP.
+000032.170|dns  |*|01|DNS resolver servers are '208.201.224.11' '208.201.224.33'
+000032.170|dns  |*|01|DNS resolver search domain is 'cumulusnetworks.com'
+000032.170|app1 |3|01|DNS resolver servers are '208.201.224.11' '208.201.224.33'
+000032.170|app1 |3|01|DNS resolver search domain is 'cumulusnetworks.com'
+000032.180|dns  |3|01|DNS lookup for (A) 'p.voxter.com'(74.114.208.41,74.114.208.40) TTL=86346
+000032.180|app1 |3|01|Bootline: esw(3,0)bootHost:flash e=172.16.1.57:ffffff00:15180:1e h=74.114.208.41 g=172.16.1.1 u=**** pw=**** f=0x40 tn=CircaIP
+000032.180|app1 |3|01|DHCP returned result 0x387 from server 172.16.1.1.
+000032.180|app1 |3|01|   Phone IP address is 172.16.1.57.
+000032.180|app1 |3|01|   Subnet mask is 255.255.255.0.
+000032.180|app1 |3|01|   Gateway address is 172.16.1.1.
+000032.180|app1 |3|01|   DNS server is 208.201.224.11.
+0830052504|app1 |3|01|   DNS alternate server is 208.201.224.33.
+0830052504|app1 |3|01|   DNS domain is cumulusnetworks.com.
+0830052504|dns  |3|01|DNS lookup for (A) 'pool.ntp.org'(66.7.96.1,66.228.35.252,207.5.137.133) TTL=64
+0830052522|app1 |3|01|Time has been set from pool.ntp.org (66.7.96.1).
+0830052522|app1 |3|01|   1409376322: 2014-8-30, 5:25:22, DST off
+0830052522|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f2f31ee0.cfg' from 'p.voxter.com(74.114.208.41)'
+0830052522|copy |3|01|Download of '0004f2f31ee0.cfg' succeeded on attempt 1 (addr 1 of 2)
+0830052522|cfg  |*|01|Prov|Starting to update 3111-30900-001.sip.ld
+0830052523|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/3111-30900-001.sip.ld' from 'p.voxter.com(74.114.208.41)'
+0830052523|cfg  |3|01|New load header information:
+0830052523|cfg  |3|01|Code length:         0x004B0500
+0830052523|cfg  |3|01|Code Checksum:       0x070CC771
+0830052523|cfg  |3|01|Options:             0x00000080
+0830052523|cfg  |3|01|Recognized container image
+0830052523|cfg  |3|01|New load header information:
+0830052523|cfg  |3|01|Code length:         0x003CD570
+0830052523|cfg  |3|01|Code Checksum:       0x1E4C97B9
+0830052523|cfg  |3|01|Options:             0x00000102
+0830052523|cfg  |3|01|Application header is different
+0830052523|cfg  |3|01|Application in container image 1 is different
+0830052523|cfg  |3|01|New load header information:
+0830052523|cfg  |3|01|Code length:         0x000E26A0
+0830052523|cfg  |3|01|Code Checksum:       0x070C2795
+0830052523|cfg  |3|01|Options:             0x00000110
+0830052523|cfg  |3|01|Updater header is different
+0830052523|cfg  |3|01|Updater in container image 2 is different
+0830052523|cfg  |3|01|Using Updater
+0830052544|cfg  |*|01|Prov|Updating the Updater
+0830052544|cfg  |3|01|Using compatible image 0
+0830052549|copy |3|01|Download of '3111-30900-001.sip.ld' succeeded on attempt 1 (addr 1 of 2)
+0830052549|sig  |*|01|Initial log entry. Current logging level 3
+0830052549|sig  |3|01|hwSigParseRemove: found key Sig_3.
+0830052550|cfg  |3|01|Good image signature
+0830052550|cfg  |4|01|Removing application...
+0830052551|cfg  |3|01|Programming Updater from sector 1 to 18
+0830052619|cfg  |3|01|Programming to sector 1 complete
+0830052619|cfg  |3|01|Invalidated old image at sector 19, offset 20.
+0830052619|cfg  |*|01|Prov|Image has been changed
+0830052619|cfg  |*|01|Prov|Provisioning needs to reboot to upgrade image(s)
+000000.280|so   |*|01|---------- Initial log entry ----------
+000000.280|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.280|boot |*|01|Initial log entry. Current logging level 3
+000000.280|copy |*|01|Initial log entry. Current logging level 3
+000000.280|utilm|*|01|Initial log entry. Current logging level 4
+000000.280|hw   |*|01|Initial log entry. Current logging level 4
+000000.280|ethf |*|01|Initial log entry. Current logging level 4
+000000.280|dns  |*|01|Initial log entry. Current logging level 3
+000000.280|curl |*|01|Initial log entry. Current logging level 3
+000000.280|sec  |*|01|Initial log entry. Current logging level 4
+000000.440|wdog |*|01|Initial log entry. Current logging level 4
+000000.440|lldp |*|01|Initial log entry. Current logging level 3
+000000.440|cdp  |*|01|Initial log entry. Current logging level 3
+000000.440|key  |*|01|Initial log entry. Current logging level 4
+000000.440|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.440|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.440|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.440|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.440|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.440|so   |3|01|Application, main: P/N=3150-11069-507
+000000.440|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.585|cfg  |*|01|Initial log entry. Current logging level 2
+000000.655|dot1x|*|01|Initial log entry. Current logging level 3
+000000.655|app1 |3|01|Starting provisioning because of the start type.
+000001.440|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000003.975|tls  |*|01|Initial log entry. Current logging level 4
+000013.010|lldp |3|01|LLDP did not receive a response from a switch. Disabling LLDP.
+000018.935|cdp  |3|01|CDP did not receive a response from a switch. Disabling CDP.
+000030.435|dns  |*|01|DNS resolver servers are '208.201.224.11' '208.201.224.33'
+000030.435|dns  |*|01|DNS resolver search domain is 'cumulusnetworks.com'
+000030.435|app1 |3|01|DNS resolver servers are '208.201.224.11' '208.201.224.33'
+000030.435|app1 |3|01|DNS resolver search domain is 'cumulusnetworks.com'
+000030.450|dns  |3|01|DNS lookup for (A) 'p.voxter.com'(74.114.208.41,74.114.208.40) TTL=86253
+000030.450|app1 |3|01|Bootline: esw(3,0)bootHost:flash e=172.16.1.57:ffffff00:15180:1b h=74.114.208.41 g=172.16.1.1 u=**** pw=**** f=0x40 tn=CircaIP
+000030.450|app1 |3|01|DHCP returned result 0x387 from server 172.16.1.1.
+000030.450|app1 |3|01|   Phone IP address is 172.16.1.57.
+000030.450|app1 |3|01|   Subnet mask is 255.255.255.0.
+0830052552|app1 |3|01|   Gateway address is 172.16.1.1.
+0830052552|app1 |3|01|   DNS server is 208.201.224.11.
+0830052552|app1 |3|01|   DNS alternate server is 208.201.224.33.
+0830052552|app1 |3|01|   DNS domain is cumulusnetworks.com.
+0830052552|dns  |3|01|DNS lookup for (A) 'pool.ntp.org'(208.75.88.4,66.228.59.187,198.199.100.22) TTL=122
+0830052655|app1 |3|01|Time has been set from pool.ntp.org (208.75.88.4).
+0830052655|app1 |3|01|   1409376415: 2014-8-30, 5:26:55, DST off
+0830052655|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f2f31ee0.cfg' from 'p.voxter.com(74.114.208.41)'
+0830052655|copy |3|01|Download of '0004f2f31ee0.cfg' succeeded on attempt 1 (addr 1 of 2)
+0830052655|cfg  |*|01|Prov|Starting to update 3111-30900-001.sip.ld
+0830052655|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/3111-30900-001.sip.ld' from 'p.voxter.com(74.114.208.41)'
+0830052655|cfg  |3|01|New load header information:
+0830052655|cfg  |3|01|Code length:         0x004B0500
+0830052655|cfg  |3|01|Code Checksum:       0x070CC771
+0830052655|cfg  |3|01|Options:             0x00000080
+0830052655|cfg  |3|01|Recognized container image
+0830052655|cfg  |3|01|New load header information:
+0830052655|cfg  |3|01|Code length:         0x003CD570
+0830052655|cfg  |3|01|Code Checksum:       0x1E4C97B9
+0830052655|cfg  |3|01|Options:             0x00000102
+0830052655|cfg  |3|01|Could not open application file for checking
+0830052655|cfg  |3|01|Application in container image 1 is different
+0830052655|cfg  |3|01|New load header information:
+0830052655|cfg  |3|01|Code length:         0x000E26A0
+0830052655|cfg  |3|01|Code Checksum:       0x070C2795
+0830052655|cfg  |3|01|Options:             0x00000110
+0830052655|cfg  |3|01|Updater is already present
+0830052655|cfg  |3|01|Updater in container image 2 is not different
+0830052655|cfg  |3|01|Using application
+0830052655|cfg  |*|01|Prov|Updating the Application
+0830052655|cfg  |3|01|Using compatible image 0
+0830052716|copy |3|01|buffered_write: transfer terminated
+0830052716|copy |3|01|Download of '3111-30900-001.sip.ld' succeeded on attempt 1 (addr 1 of 2)
+0830052717|sig  |*|01|Initial log entry. Current logging level 3
+0830052717|sig  |3|01|hwSigParseRemove: found key Sig_3.
+0830052718|cfg  |3|01|Good image signature
+0830052718|cfg  |3|01|Programming 3987368 bytes into tffs in 4K blocks
+0830052922|cfg  |*|01|Prov|Succeeded updating file 3111-30900-001.sip.ld
+0830052922|cfg  |*|01|Prov|Image has been changed
+0830052922|cfg  |3|01|Prov|Provisioning succeeded
+0830052922|app1 |3|01|Application, load: Type=SIP, Version=4.0.7.2514 13-Jul-14 22:13
+0830052922|boot |*|01|Using TFFS for flash load
+0830052922|boot |*|01|Code length:         0x003CD570
+0830052922|boot |*|01|Code checksum:       0x1E4C97B9
+0830052922|cfg  |*|01|Prov|Finished updating configuration
+0830052934|app1 |4|01|Loaded application sip.ld from local system successfully.
+0830052934|app1 |6|01|Uploading boot log, time is SAT AUG 30 05:29:35 2014
+
+0830052934|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/logs/0004f2f31ee0-boot.log' to 'p.voxter.com(74.114.208.41)'
+0830052934|copy |3|01|Upload of 'logs/0004f2f31ee0-boot.log' succeeded on attempt 1 (addr 1 of 2)
+0830052934|cfg  |3|01|Prov|Shutting down
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.445|wdog |*|01|Initial log entry. Current logging level 4
+000000.445|lldp |*|01|Initial log entry. Current logging level 3
+000000.445|cdp  |*|01|Initial log entry. Current logging level 3
+000000.445|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.445|so   |3|01|Application, main: P/N=3150-11069-507
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.450|app1 |*|01|Initial log entry. Current logging level 3
+000000.595|cfg  |*|01|Initial log entry. Current logging level 2
+000000.675|app1 |3|01|Application, load: Type=SIP, Version=4.0.7.2514 13-Jul-14 22:13
+000000.690|boot |*|01|Using TFFS for flash load
+000000.715|boot |*|01|Code length:         0x003CD570
+000000.715|boot |*|01|Code checksum:       0x1E4C97B9
+000001.445|so   |3|01|Link status is Net down.
+000002.445|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.135|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.440|wdog |*|01|Initial log entry. Current logging level 4
+000000.440|lldp |*|01|Initial log entry. Current logging level 3
+000000.440|cdp  |*|01|Initial log entry. Current logging level 3
+000000.440|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.7.1284 07-Jul-14 16:25
+000000.445|so   |3|01|Application, main: P/N=3150-11069-507
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.585|cfg  |*|01|Initial log entry. Current logging level 2
+000000.660|dot1x|*|01|Initial log entry. Current logging level 3
+000000.660|app1 |3|01|Starting provisioning because of the start type.
+000001.440|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000004.000|tls  |*|01|Initial log entry. Current logging level 4
+000013.035|lldp |3|01|LLDP did not receive a response from a switch. Disabling LLDP.
+000018.470|cdp  |3|01|CDP did not receive a response from a switch. Disabling CDP.
+000028.970|dns  |*|01|DNS resolver servers are '208.201.224.11' '208.201.224.33'
+000028.970|dns  |*|01|DNS resolver search domain is 'cumulusnetworks.com'
+000028.970|app1 |3|01|DNS resolver servers are '208.201.224.11' '208.201.224.33'
+000028.970|app1 |3|01|DNS resolver search domain is 'cumulusnetworks.com'
+000028.980|dns  |3|01|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=86352
+000028.980|app1 |3|01|Bootline: esw(3,0)bootHost:flash e=172.16.1.57:ffffff00:15180:1b h=74.114.208.245 g=172.16.1.1 u=**** pw=**** f=0x40 tn=CircaIP
+000028.980|app1 |3|01|DHCP returned result 0x387 from server 172.16.1.1.
+000028.980|app1 |3|01|   Phone IP address is 172.16.1.57.
+000028.980|app1 |3|01|   Subnet mask is 255.255.255.0.
+0219120211|app1 |3|01|   Gateway address is 172.16.1.1.
+0219120211|app1 |3|01|   DNS server is 208.201.224.11.
+0219120211|app1 |3|01|   DNS alternate server is 208.201.224.33.
+0219120211|app1 |3|01|   DNS domain is cumulusnetworks.com.
+0219120211|dns  |3|01|DNS lookup for (A) 'pool.ntp.org'(198.55.111.5,199.199.208.25,209.118.204.201) TTL=145
+0219120231|app1 |3|01|Time has been set from pool.ntp.org (198.55.111.5).
+0219120231|app1 |3|01|   1424347351: 2015-2-19, 12:2:31, DST off
+0219120231|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f2f31ee0.cfg' from 'p.voxter.com(74.114.208.245)'
+0219120231|copy |3|01|Download of '0004f2f31ee0.cfg' succeeded on attempt 1 (addr 1 of 1)
+0219120231|cfg  |*|01|Prov|Starting to update 3111-30900-001.sip.ld
+0219120231|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/3111-30900-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+0219120232|cfg  |3|01|New load header information:
+0219120232|cfg  |3|01|Code length:         0x004AF4B8
+0219120232|cfg  |3|01|Code Checksum:       0x07097CA8
+0219120232|cfg  |3|01|Options:             0x00000080
+0219120232|cfg  |3|01|Recognized container image
+0219120232|cfg  |3|01|New load header information:
+0219120232|cfg  |3|01|Code length:         0x003CD0B5
+0219120232|cfg  |3|01|Code Checksum:       0x1E4B19CF
+0219120232|cfg  |3|01|Options:             0x00000102
+0219120232|cfg  |3|01|Application header is different
+0219120232|cfg  |3|01|Application in container image 1 is different
+0219120232|cfg  |3|01|New load header information:
+0219120232|cfg  |3|01|Code length:         0x000E1B10
+0219120232|cfg  |3|01|Code Checksum:       0x0708DCBE
+0219120232|cfg  |3|01|Options:             0x00000110
+0219120232|cfg  |3|01|Updater header is different
+0219120232|cfg  |3|01|Updater in container image 2 is different
+0219120232|cfg  |3|01|Using Updater
+0219120253|cfg  |*|01|Prov|Updating the Updater
+0219120253|cfg  |3|01|Using compatible image 0
+0219120258|copy |3|01|Download of '3111-30900-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+0219120259|sig  |*|01|Initial log entry. Current logging level 3
+0219120259|sig  |3|01|hwSigParseRemove: found key Sig_3.
+0219120259|cfg  |3|01|Good image signature
+0219120259|cfg  |4|01|Removing application...
+0219120300|cfg  |3|01|Programming Updater from sector 19 to 36
+0219120330|cfg  |3|01|Programming to sector 19 complete
+0219120331|cfg  |3|01|Invalidated old image at sector 1, offset 20.
+0219120331|cfg  |*|01|Prov|Image has been changed
+0219120331|cfg  |*|01|Prov|Provisioning needs to reboot to upgrade image(s)
+000000.280|so   |*|01|---------- Initial log entry ----------
+000000.280|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.280|boot |*|01|Initial log entry. Current logging level 3
+000000.280|copy |*|01|Initial log entry. Current logging level 3
+000000.280|utilm|*|01|Initial log entry. Current logging level 4
+000000.280|hw   |*|01|Initial log entry. Current logging level 4
+000000.280|ethf |*|01|Initial log entry. Current logging level 4
+000000.280|dns  |*|01|Initial log entry. Current logging level 3
+000000.280|curl |*|01|Initial log entry. Current logging level 3
+000000.280|sec  |*|01|Initial log entry. Current logging level 4
+000000.440|wdog |*|01|Initial log entry. Current logging level 4
+000000.440|lldp |*|01|Initial log entry. Current logging level 3
+000000.440|cdp  |*|01|Initial log entry. Current logging level 3
+000000.440|key  |*|01|Initial log entry. Current logging level 4
+000000.440|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.440|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.440|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.440|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.440|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.440|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.440|log  |*|01|Install file upload callback for 'Updater'
+
+000000.440|app1 |*|01|Initial log entry. Current logging level 3
+000000.585|cfg  |*|01|Initial log entry. Current logging level 2
+000000.655|dot1x|*|01|Initial log entry. Current logging level 3
+000000.655|app1 |3|01|Starting provisioning because of the start type.
+000001.440|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000004.395|tls  |*|01|Initial log entry. Current logging level 4
+000013.430|lldp |3|01|LLDP did not receive a response from a switch. Disabling LLDP.
+000018.480|cdp  |3|01|CDP did not receive a response from a switch. Disabling CDP.
+000029.980|dns  |*|01|DNS resolver servers are '208.201.224.11' '208.201.224.33'
+000029.980|dns  |*|01|DNS resolver search domain is 'cumulusnetworks.com'
+000029.980|app1 |3|01|DNS resolver servers are '208.201.224.11' '208.201.224.33'
+000029.980|app1 |3|01|DNS resolver search domain is 'cumulusnetworks.com'
+000029.990|dns  |3|01|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=86257
+000029.990|app1 |3|01|Bootline: esw(3,0)bootHost:flash e=172.16.1.57:ffffff00:15180:1b h=74.114.208.245 g=172.16.1.1 u=**** pw=**** f=0x40 tn=CircaIP
+000029.990|app1 |3|01|DHCP returned result 0x387 from server 172.16.1.1.
+000029.990|app1 |3|01|   Phone IP address is 172.16.1.57.
+000029.990|app1 |3|01|   Subnet mask is 255.255.255.0.
+000029.990|app1 |3|01|   Gateway address is 172.16.1.1.
+000029.990|app1 |3|01|   DNS server is 208.201.224.11.
+000029.990|app1 |3|01|   DNS alternate server is 208.201.224.33.
+000029.990|app1 |3|01|   DNS domain is cumulusnetworks.com.
+000029.995|dns  |3|01|DNS lookup for (A) 'pool.ntp.org'(138.236.128.36,198.55.111.5,199.199.208.25) TTL=49
+0219120407|app1 |3|01|Time has been set from pool.ntp.org (138.236.128.36).
+0219120407|app1 |3|01|   1424347447: 2015-2-19, 12:4:7, DST off
+0219120407|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f2f31ee0.cfg' from 'p.voxter.com(74.114.208.245)'
+0219120407|copy |3|01|Download of '0004f2f31ee0.cfg' succeeded on attempt 1 (addr 1 of 1)
+0219120407|cfg  |*|01|Prov|Starting to update 3111-30900-001.sip.ld
+0219120408|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/3111-30900-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+0219120408|cfg  |3|01|New load header information:
+0219120408|cfg  |3|01|Code length:         0x004AF4B8
+0219120408|cfg  |3|01|Code Checksum:       0x07097CA8
+0219120408|cfg  |3|01|Options:             0x00000080
+0219120408|cfg  |3|01|Recognized container image
+0219120408|cfg  |3|01|New load header information:
+0219120408|cfg  |3|01|Code length:         0x003CD0B5
+0219120408|cfg  |3|01|Code Checksum:       0x1E4B19CF
+0219120408|cfg  |3|01|Options:             0x00000102
+0219120408|cfg  |3|01|Could not open application file for checking
+0219120408|cfg  |3|01|Application in container image 1 is different
+0219120408|cfg  |3|01|New load header information:
+0219120408|cfg  |3|01|Code length:         0x000E1B10
+0219120408|cfg  |3|01|Code Checksum:       0x0708DCBE
+0219120408|cfg  |3|01|Options:             0x00000110
+0219120408|cfg  |3|01|Updater is already present
+0219120408|cfg  |3|01|Updater in container image 2 is not different
+0219120408|cfg  |3|01|Using application
+0219120408|cfg  |*|01|Prov|Updating the Application
+0219120408|cfg  |3|01|Using compatible image 0
+0219120429|copy |3|01|buffered_write: transfer terminated
+0219120429|copy |3|01|Download of '3111-30900-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+0219120430|sig  |*|01|Initial log entry. Current logging level 3
+0219120430|sig  |3|01|hwSigParseRemove: found key Sig_3.
+0219120431|cfg  |3|01|Good image signature
+0219120431|cfg  |3|01|Programming 3986157 bytes into tffs in 4K blocks
+0219120636|cfg  |*|01|Prov|Succeeded updating file 3111-30900-001.sip.ld
+0219120636|cfg  |*|01|Prov|Image has been changed
+0219120636|cfg  |3|01|Prov|Provisioning succeeded
+0219120636|app1 |3|01|Application, load: Type=SIP, Version=4.0.6.0711 26-Feb-14 08:43
+0219120636|boot |*|01|Using TFFS for flash load
+0219120636|boot |*|01|Code length:         0x003CD0B5
+0219120636|boot |*|01|Code checksum:       0x1E4B19CF
+0219120636|cfg  |*|01|Prov|Finished updating configuration
+0219120647|app1 |4|01|Loaded application sip.ld from local system successfully.
+0219120647|app1 |6|01|Uploading boot log, time is THU FEB 19 12:06:48 2015
+
+0219120648|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/logs/0004f2f31ee0-boot.log' to 'p.voxter.com(74.114.208.245)'
+0219120648|copy |3|01|Upload of 'logs/0004f2f31ee0-boot.log' succeeded on attempt 1 (addr 1 of 1)
+0219120648|cfg  |3|01|Prov|Shutting down
+000000.295|so   |*|01|---------- Initial log entry ----------
+000000.295|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.295|boot |*|01|Initial log entry. Current logging level 3
+000000.295|copy |*|01|Initial log entry. Current logging level 3
+000000.295|utilm|*|01|Initial log entry. Current logging level 4
+000000.295|hw   |*|01|Initial log entry. Current logging level 4
+000000.295|ethf |*|01|Initial log entry. Current logging level 4
+000000.295|dns  |*|01|Initial log entry. Current logging level 3
+000000.295|curl |*|01|Initial log entry. Current logging level 3
+000000.295|sec  |*|01|Initial log entry. Current logging level 4
+000000.455|wdog |*|01|Initial log entry. Current logging level 4
+000000.455|lldp |*|01|Initial log entry. Current logging level 3
+000000.455|cdp  |*|01|Initial log entry. Current logging level 3
+000000.455|key  |*|01|Initial log entry. Current logging level 4
+000000.455|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.455|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.455|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.455|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.455|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.455|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.455|log  |*|01|Install file upload callback for 'Updater'
+
+000000.455|app1 |*|01|Initial log entry. Current logging level 3
+000000.605|cfg  |*|01|Initial log entry. Current logging level 2
+000000.685|app1 |3|01|Application, load: Type=SIP, Version=4.0.6.0711 26-Feb-14 08:43
+000000.700|boot |*|01|Using TFFS for flash load
+000000.715|boot |*|01|Code length:         0x003CD0B5
+000000.715|boot |*|01|Code checksum:       0x1E4B19CF
+000001.455|so   |3|01|Link status is Net down.
+000002.455|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.145|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.295|so   |*|01|---------- Initial log entry ----------
+000000.295|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.295|boot |*|01|Initial log entry. Current logging level 3
+000000.295|copy |*|01|Initial log entry. Current logging level 3
+000000.295|utilm|*|01|Initial log entry. Current logging level 4
+000000.295|hw   |*|01|Initial log entry. Current logging level 4
+000000.295|ethf |*|01|Initial log entry. Current logging level 4
+000000.295|dns  |*|01|Initial log entry. Current logging level 3
+000000.295|curl |*|01|Initial log entry. Current logging level 3
+000000.295|sec  |*|01|Initial log entry. Current logging level 4
+000000.455|wdog |*|01|Initial log entry. Current logging level 4
+000000.455|lldp |*|01|Initial log entry. Current logging level 3
+000000.455|cdp  |*|01|Initial log entry. Current logging level 3
+000000.455|key  |*|01|Initial log entry. Current logging level 4
+000000.455|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.455|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.455|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.455|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.455|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.455|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.455|log  |*|01|Install file upload callback for 'Updater'
+
+000000.455|app1 |*|01|Initial log entry. Current logging level 3
+000000.605|cfg  |*|01|Initial log entry. Current logging level 2
+000000.680|app1 |3|01|Application, load: Type=SIP, Version=4.0.6.0711 26-Feb-14 08:43
+000000.700|boot |*|01|Using TFFS for flash load
+000000.710|boot |*|01|Code length:         0x003CD0B5
+000000.710|boot |*|01|Code checksum:       0x1E4B19CF
+000001.450|so   |3|01|Link status is Net down.
+000002.450|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.130|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.440|wdog |*|01|Initial log entry. Current logging level 4
+000000.445|lldp |*|01|Initial log entry. Current logging level 3
+000000.445|cdp  |*|01|Initial log entry. Current logging level 3
+000000.445|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.445|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.590|cfg  |*|01|Initial log entry. Current logging level 2
+000000.670|app1 |3|01|Application, load: Type=SIP, Version=4.0.6.0711 26-Feb-14 08:43
+000000.685|boot |*|01|Using TFFS for flash load
+000000.705|boot |*|01|Code length:         0x003CD0B5
+000000.705|boot |*|01|Code checksum:       0x1E4B19CF
+000001.440|so   |3|01|Link status is Net down.
+000002.440|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.120|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.440|wdog |*|01|Initial log entry. Current logging level 4
+000000.445|lldp |*|01|Initial log entry. Current logging level 3
+000000.445|cdp  |*|01|Initial log entry. Current logging level 3
+000000.445|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.445|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.590|cfg  |*|01|Initial log entry. Current logging level 2
+000000.670|app1 |3|01|Application, load: Type=SIP, Version=4.0.6.0711 26-Feb-14 08:43
+000000.685|boot |*|01|Using TFFS for flash load
+000000.700|boot |*|01|Code length:         0x003CD0B5
+000000.700|boot |*|01|Code checksum:       0x1E4B19CF
+000001.440|so   |3|01|Link status is Net down.
+000002.440|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000012.120|app1 |4|01|Loaded application sip.ld from local system successfully.
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.440|wdog |*|01|Initial log entry. Current logging level 4
+000000.440|lldp |*|01|Initial log entry. Current logging level 3
+000000.440|cdp  |*|01|Initial log entry. Current logging level 3
+000000.440|key  |*|01|Initial log entry. Current logging level 4
+000000.440|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.440|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.440|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.440|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.440|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.5.2324 09-Dec-13 16:11
+000000.445|so   |3|01|Application, main: P/N=YYYY-YYYYY-YYY
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.585|cfg  |*|01|Initial log entry. Current logging level 2
+000000.655|dot1x|*|01|Initial log entry. Current logging level 3
+000000.655|app1 |3|01|Starting provisioning because of the start type.
+000001.440|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000004.795|tls  |*|01|Initial log entry. Current logging level 4
+000013.835|lldp |3|01|LLDP did not receive a response from a switch. Disabling LLDP.
+000019.625|cdp  |3|01|CDP did not receive a response from a switch. Disabling CDP.
+000030.680|dns  |*|01|DNS resolver servers are '10.40.30.1' '0.0.0.0'
+0415042042|dns  |*|01|DNS resolver search domain is 'cumulusnetworks.com'
+0415042042|app1 |3|01|DNS resolver server is '10.40.30.1'
+0415042042|app1 |3|01|DNS resolver search domain is 'cumulusnetworks.com'
+0415042042|dns  |3|01|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=74394
+0415042042|app1 |3|01|Bootline: esw(3,0)bootHost:flash e=10.40.30.163:ffffff00:a8c0:1c h=74.114.208.245 g=10.40.30.1 u=**** pw=**** f=0x40 tn=CircaIP
+0415042042|app1 |3|01|DHCP returned result 0x2E7 from server 10.40.30.1.
+0415042042|app1 |3|01|   Phone IP address is 10.40.30.163.
+0415042042|app1 |3|01|   Subnet mask is 255.255.255.0.
+0415042042|app1 |3|01|   Gateway address is 10.40.30.1.
+0415042042|app1 |3|01|   Time server is 10.40.30.1.
+0415042042|app1 |3|01|   GMT offset is 0 seconds.
+0415042042|app1 |3|01|   DNS server is 10.40.30.1.
+0415042042|app1 |3|01|   DNS domain is cumulusnetworks.com.
+0415042100|app1 |3|01|Time has been set from 10.40.30.1 (10.40.30.1).
+0415042100|app1 |3|01|   1429071660: 2015-4-15, 4:21:0, DST off
+0415042100|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f2f31ee0.cfg' from 'p.voxter.com(74.114.208.245)'
+0415042100|copy |3|01|Download of '0004f2f31ee0.cfg' succeeded on attempt 1 (addr 1 of 1)
+0415042100|cfg  |*|01|Prov|Starting to update 3111-30900-001.sip.ld
+0415042101|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/3111-30900-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+0415042101|cfg  |3|01|New load header information:
+0415042101|cfg  |3|01|Code length:         0x004B3678
+0415042101|cfg  |3|01|Code Checksum:       0x0712E909
+0415042101|cfg  |3|01|Options:             0x00000080
+0415042101|cfg  |3|01|Recognized container image
+0415042101|cfg  |3|01|New load header information:
+0415042101|cfg  |3|01|Code length:         0x003CFAB5
+0415042101|cfg  |3|01|Code Checksum:       0x1E5A457E
+0415042101|cfg  |3|01|Options:             0x00000102
+0415042101|cfg  |3|01|Application header is different
+0415042101|cfg  |3|01|Application in container image 1 is different
+0415042101|cfg  |3|01|New load header information:
+0415042101|cfg  |3|01|Code length:         0x000E32D0
+0415042101|cfg  |3|01|Code Checksum:       0x071247D1
+0415042101|cfg  |3|01|Options:             0x00000110
+0415042101|cfg  |3|01|Updater header is different
+0415042101|cfg  |3|01|Updater in container image 2 is different
+0415042101|cfg  |3|01|Using Updater
+0415042122|cfg  |*|01|Prov|Updating the Updater
+0415042122|cfg  |3|01|Using compatible image 0
+0415042127|copy |3|01|Download of '3111-30900-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+0415042127|sig  |*|01|Initial log entry. Current logging level 3
+0415042127|sig  |3|01|hwSigParseRemove: found key Sig_3.
+0415042127|cfg  |3|01|Good image signature
+0415042128|cfg  |4|01|Removing application...
+0415042129|cfg  |3|01|Programming Updater from sector 1 to 18
+0415042158|cfg  |3|01|Programming to sector 1 complete
+0415042158|cfg  |3|01|Invalidated old image at sector 19, offset 20.
+0415042158|cfg  |*|01|Prov|Image has been changed
+0415042158|cfg  |*|01|Prov|Provisioning needs to reboot to upgrade image(s)
+000000.285|so   |*|01|---------- Initial log entry ----------
+000000.285|so   |*|01|+++ Note that Updater log times are in GMT +++
+000000.285|boot |*|01|Initial log entry. Current logging level 3
+000000.285|copy |*|01|Initial log entry. Current logging level 3
+000000.285|utilm|*|01|Initial log entry. Current logging level 4
+000000.285|hw   |*|01|Initial log entry. Current logging level 4
+000000.285|ethf |*|01|Initial log entry. Current logging level 4
+000000.285|dns  |*|01|Initial log entry. Current logging level 3
+000000.285|curl |*|01|Initial log entry. Current logging level 3
+000000.285|sec  |*|01|Initial log entry. Current logging level 4
+000000.445|wdog |*|01|Initial log entry. Current logging level 4
+000000.445|lldp |*|01|Initial log entry. Current logging level 3
+000000.445|cdp  |*|01|Initial log entry. Current logging level 3
+000000.445|key  |*|01|Initial log entry. Current logging level 4
+000000.445|so   |3|01|Platform: Model=SoundStation IP 5000, Assembly=3111-30900-001 Rev=G Region=0
+000000.445|so   |3|01|Platform: Board=3111-30900-001 1 0
+000000.445|so   |3|01|Platform: MAC=0004f2f31ee0
+000000.445|so   |3|01|Platform: BootBlock=3.0.2.0024 (30900-001) 30-Nov-10 15:06
+000000.445|so   |3|01|Application, main: Label=Updater, Version=Azurite 5.0.8.0935 14-Jan-15 20:29
+000000.445|so   |3|01|Application, main: P/N=3150-11069-508
+000000.445|log  |*|01|Install file upload callback for 'Updater'
+
+000000.445|app1 |*|01|Initial log entry. Current logging level 3
+000000.590|cfg  |*|01|Initial log entry. Current logging level 2
+000000.660|dot1x|*|01|Initial log entry. Current logging level 3
+000000.660|app1 |3|01|Starting provisioning because of the start type.
+000001.440|so   |3|01|Link status is Net up Speed 100 full Duplex.
+000004.155|tls  |*|01|Initial log entry. Current logging level 4
+000013.190|lldp |3|01|LLDP did not receive a response from a switch. Disabling LLDP.
+000018.515|cdp  |3|01|CDP did not receive a response from a switch. Disabling CDP.
+000029.265|dns  |*|01|DNS resolver servers are '10.40.30.1' '0.0.0.0'
+0415042128|dns  |*|01|DNS resolver search domain is 'cumulusnetworks.com'
+0415042128|app1 |3|01|DNS resolver server is '10.40.30.1'
+0415042128|app1 |3|01|DNS resolver search domain is 'cumulusnetworks.com'
+0415042128|dns  |3|01|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=74301
+0415042128|app1 |3|01|Bootline: esw(3,0)bootHost:flash e=10.40.30.163:ffffff00:a8c0:1b h=74.114.208.245 g=10.40.30.1 u=**** pw=**** f=0x40 tn=CircaIP
+0415042128|app1 |3|01|DHCP returned result 0x2E7 from server 10.40.30.1.
+0415042128|app1 |3|01|   Phone IP address is 10.40.30.163.
+0415042128|app1 |3|01|   Subnet mask is 255.255.255.0.
+0415042128|app1 |3|01|   Gateway address is 10.40.30.1.
+0415042128|app1 |3|01|   Time server is 10.40.30.1.
+0415042128|app1 |3|01|   GMT offset is 0 seconds.
+0415042128|app1 |3|01|   DNS server is 10.40.30.1.
+0415042128|app1 |3|01|   DNS domain is cumulusnetworks.com.
+0415042233|app1 |3|01|Time has been set from 10.40.30.1 (10.40.30.1).
+0415042233|app1 |3|01|   1429071753: 2015-4-15, 4:22:33, DST off
+0415042233|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f2f31ee0.cfg' from 'p.voxter.com(74.114.208.245)'
+0415042233|copy |3|01|Download of '0004f2f31ee0.cfg' succeeded on attempt 1 (addr 1 of 1)
+0415042234|cfg  |*|01|Prov|Starting to update 3111-30900-001.sip.ld
+0415042234|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/3111-30900-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+0415042234|cfg  |3|01|New load header information:
+0415042234|cfg  |3|01|Code length:         0x004B3678
+0415042234|cfg  |3|01|Code Checksum:       0x0712E909
+0415042234|cfg  |3|01|Options:             0x00000080
+0415042234|cfg  |3|01|Recognized container image
+0415042234|cfg  |3|01|New load header information:
+0415042234|cfg  |3|01|Code length:         0x003CFAB5
+0415042234|cfg  |3|01|Code Checksum:       0x1E5A457E
+0415042234|cfg  |3|01|Options:             0x00000102
+0415042234|cfg  |3|01|Could not open application file for checking
+0415042234|cfg  |3|01|Application in container image 1 is different
+0415042234|cfg  |3|01|New load header information:
+0415042234|cfg  |3|01|Code length:         0x000E32D0
+0415042234|cfg  |3|01|Code Checksum:       0x071247D1
+0415042234|cfg  |3|01|Options:             0x00000110
+0415042234|cfg  |3|01|Updater is already present
+0415042234|cfg  |3|01|Updater in container image 2 is not different
+0415042234|cfg  |3|01|Using application
+0415042234|cfg  |*|01|Prov|Updating the Application
+0415042234|cfg  |3|01|Using compatible image 0
+0415042255|copy |3|01|buffered_write: transfer terminated
+0415042255|copy |3|01|Download of '3111-30900-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+0415042256|sig  |*|01|Initial log entry. Current logging level 3
+0415042256|sig  |3|01|hwSigParseRemove: found key Sig_3.
+0415042257|cfg  |3|01|Good image signature
+0415042257|cfg  |3|01|Programming 3996909 bytes into tffs in 4K blocks
+0415042504|cfg  |*|01|Prov|Succeeded updating file 3111-30900-001.sip.ld
+0415042504|cfg  |*|01|Prov|Image has been changed
+0415042504|cfg  |3|01|Prov|Provisioning succeeded
+0415042504|app1 |3|01|Application, load: Type=SIP, Version=4.0.8.1608 07-Feb-15 11:08
+0415042504|boot |*|01|Using TFFS for flash load
+0415042504|boot |*|01|Code length:         0x003CFAB5
+0415042504|boot |*|01|Code checksum:       0x1E5A457E
+0415042504|cfg  |*|01|Prov|Finished updating configuration
+0415042516|app1 |4|01|Loaded application sip.ld from local system successfully.
+0415042516|app1 |6|01|Uploading boot log, time is WED APR 15 04:25:16 2015
+
+0415042516|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/logs/0004f2f31ee0-boot.log' to 'p.voxter.com(74.114.208.245)'
+0415042517|copy |3|01|Upload of 'logs/0004f2f31ee0-boot.log' succeeded on attempt 1 (addr 1 of 1)
+0415042517|cfg  |3|01|Prov|Shutting down

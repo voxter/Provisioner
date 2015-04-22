@@ -20,6 +20,7 @@ class adapter_2600hz_adapter {
     private $account_id = null;
     private $needs_manual_provisioning = false;
     private $mac_address = null;
+    private $tftp_request = false;
 
     public function get_config_manager($uri, $ua, $http_host, $settings) {
         // Logger
@@ -46,7 +47,20 @@ class adapter_2600hz_adapter {
             // http://cdn.memegenerator.net/instances/250x250/30687023.jpg
             return false;
         }
-        $log->logDebug("Mac address found: $this->mac_address");   
+
+        if ($this->mac_address == 'tftp') {
+            $log->logInfo('This is a TFTP request, process static files');
+            $this->tftp_request = true;
+
+            // Hard code the phone brand/model for now
+            $phone_doc = array(
+                'brand' => 'cisco',
+                'model' => '7940',
+                'family' => 'sip79xx'
+            );
+        }
+        else
+            $log->logDebug("Mac address found: $this->mac_address");
 
         // Load the config manager
         $config_manager = new system_configfile();
@@ -60,34 +74,35 @@ class adapter_2600hz_adapter {
         // This is retrieve from a view, it is NOT the full doc
         $provider_view = $db->get_provider($provider_domain);
         if (!$provider_view) {
-            $log->logFatal("Could not load the provider information - EXIT");
-            return false;
-        }
-            
-        $log->logInfo('Looking for the account_id...');
-        // Getting the account_id from the URI
-        $this->account_id = helper_utils::get_account_id($uri);
-        // If not found, let's try with the mac_lookup
-        if (!$this->account_id) {
-            $log->logNotice("Did not find the account_id in the url. let's look in the mac_lookup...");
-            $this->account_id = $db->get_account_id($this->mac_address);
+          $log->logFatal("Could not load the provider information - EXIT");
+          return false;
         }
 
-        if (!$this->account_id) {
-            $log->logFatal('Still did not find the account_id... Going to use the default account_id');
-            $this->account_id = $provider_view['default_account_id'];
+        if (!$this->tftp_request) {
+            $log->logInfo('Looking for the account_id...');
+            // Getting the account_id from the URI
+            $this->account_id = helper_utils::get_account_id($uri);
+            // If not found, let's try with the mac_lookup
+            if (!$this->account_id) {
+              $log->logNotice("Did not find the account_id in the url. let's look in the mac_lookup...");
+              $this->account_id = $db->get_account_id($this->mac_address);
+            }
 
-            // If we still don't get an account_id then we need a manual provisioning
-            if (!$this->account_id)
+            if (!$this->account_id) {
+              $log->logFatal('Still did not find the account_id... Going to use the default account_id');
+              $this->account_id = $provider_view['default_account_id'];
+
+              // If we still don't get an account_id then we need a manual provisioning
+              if (!$this->account_id)
                 $this->needs_manual_provisioning = true;
-            else
+              else
                 $account_db = helper_utils::get_account_db($this->account_id);
-        } else {
-            $log->logDebug("Current account_id: $this->account_id");
-            $account_db = helper_utils::get_account_db($this->account_id);
-            $log->logDebug("Current account database name (without the prefix): $account_db");
+            } else {
+              $log->logDebug("Current account_id: $this->account_id");
+              $account_db = helper_utils::get_account_db($this->account_id);
+              $log->logDebug("Current account database name (without the prefix): $account_db");
+            }
         }
-            
 
         // Manual provisioning
         if ($this->needs_manual_provisioning) {
@@ -97,11 +112,13 @@ class adapter_2600hz_adapter {
             // For now at least
             return $config_manager;
         } else {
-            $log->logInfo('Will now gather all the information from the database / finish the config_manager building...');
+            if (!$this->tftp_request) {
+                $log->logInfo('Will now gather all the information from the database / finish the config_manager building...');
 
-            $log->logInfo('Looking for the device information...');
-            // This is the full doc
-            $phone_doc = $db->load_settings($account_db, $this->mac_address, false);
+                $log->logInfo('Looking for the device information...');
+                // This is the full doc
+                $phone_doc = $db->load_settings($account_db, $this->mac_address, false);
+            }
 
             // If we have the doc for this phone but there are no brand or no family
             if (!$phone_doc['brand'] or !$phone_doc['family'] or !$phone_doc['model']) {
@@ -159,50 +176,52 @@ class adapter_2600hz_adapter {
                 $log->logInfo('Importing provider settings...');
                 $config_manager->import_settings($provider_view['settings']);
             }
+
+            if (!$this->tftp_request) {
+                $log->logInfo('Importing account settings...');
+                $config_manager->import_settings($db->load_settings($account_db, $this->account_id));
+
+                // See above...
+                if (isset($phone_doc['settings'])) {
+                    $log->logInfo('Importing device settings');
+                    $config_manager->import_settings($phone_doc['settings']);
+                }
+
+                $log->logInfo('Retrieving a first version of the merge setting object...');
+                // Retrieve the settings (meaning a first merged object)
+                $merged_settings = $config_manager->get_merged_config_objects();
+
+                $log->logInfo('Loading Twig...');
+                $loader = new Twig_Loader_Filesystem(PROVISIONER_BASE . 'adapter/2600hz/');
+                $objTwig = new Twig_Environment($loader);
+                $log->logInfo('Twig loaded!');
+
+                $log->logInfo('Building lines settings...');
+
+                // Yeah, let's choose the right template
+                if (file_exists(PROVISIONER_BASE . 'adapter/2600hz/' . $brand_doc_name))
+                    $master_template = $model_template;
+                elseif(file_exists(PROVISIONER_BASE . 'adapter/2600hz/' . $family_doc_name))
+                    $master_template = $family_template;
+                elseif(file_exists(PROVISIONER_BASE . 'adapter/2600hz/' . $model_doc_mame))
+                    $master_template = $model_doc_mame;
+                else
+                    $master_template = 'master.json';
+
+                // Building lines settings
+                $line_settings = json_decode($objTwig->render($master_template, $merged_settings), true);
+                if (!$line_settings) {
+                    $log->logWarn('Line settings NULL!');
+                    return false;
+                }
+
+                $log->logInfo('Remerging everything...');
+                // Remerge everything
+                $merged_settings = array_merge($merged_settings, $line_settings);
                 
-            $log->logInfo('Importing account settings...');
-            $config_manager->import_settings($db->load_settings($account_db, $this->account_id));
-
-            // See above...
-            if (isset($phone_doc['settings'])) {
-                $log->logInfo('Importing device settings');
-                $config_manager->import_settings($phone_doc['settings']);
+                $log->logInfo('Reassigning merge object into the config manager...');
+                $config_manager->set_settings($merged_settings);
             }
-
-            $log->logInfo('Retrieving a first version of the merge setting object...');
-            // Retrieve the settings (meaning a first merged object)
-            $merged_settings = $config_manager->get_merged_config_objects();
-
-            $log->logInfo('Loading Twig...');
-            $loader = new Twig_Loader_Filesystem(PROVISIONER_BASE . 'adapter/2600hz/');
-            $objTwig = new Twig_Environment($loader);
-            $log->logInfo('Twig loaded!');
-
-            $log->logInfo('Building lines settings...');
-
-            // Yeah, let's choose the right template
-            if (file_exists(PROVISIONER_BASE . 'adapter/2600hz/' . $brand_doc_name))
-                $master_template = $model_template;
-            elseif(file_exists(PROVISIONER_BASE . 'adapter/2600hz/' . $family_doc_name))
-                $master_template = $family_template;
-            elseif(file_exists(PROVISIONER_BASE . 'adapter/2600hz/' . $model_doc_mame))
-                $master_template = $model_doc_mame;
-            else
-                $master_template = 'master.json';
-
-            // Building lines settings
-            $line_settings = json_decode($objTwig->render($master_template, $merged_settings), true);
-            if (!$line_settings) {
-                $log->logWarn('Line settings NULL!');
-                return false;
-            }
-
-            $log->logInfo('Remerging everything...');
-            // Remerge everything
-            $merged_settings = array_merge($merged_settings, $line_settings);
-            
-            $log->logInfo('Reassigning merge object into the config manager...');
-            $config_manager->set_settings($merged_settings);
 
             // Set the targeted config file
             $log->logInfo('Will now select the file to generate...');
@@ -226,6 +245,8 @@ class adapter_2600hz_adapter {
 
                     $log->logInfo("Found the correct file: $current_file");
                     $log->logDebug('SUCCESS! return the config manager...');
+		    //Header("Content-Type: application/xml");
+			// Maybe when it determines its returning a polycom .cfg file, set the content type to application/xml?
                     return $config_manager;
                 }
             }

@@ -1,0 +1,19 @@
+0420234959|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421004959|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421015000|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421024744|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0421025000|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421035000|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421045000|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421055001|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421064744|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0421065001|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421075001|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421085001|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421091501|sip  |4|03|NAPTR query for host 'slack.voxter.sip.voxter.com' returned no results
+0421095001|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421104744|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0421105001|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421115001|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421125001|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0421135001|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys

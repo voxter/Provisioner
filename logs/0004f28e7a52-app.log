@@ -1,0 +1,72 @@
+0419182729|ares |4|00|aresDnsLookup: select time-out 4 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0419182729|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'p.voxter.com' after 0 sec
+0420083241|clist|4|00|dbIO::processResult:copy error
+0420083241|clist|4|00|dbSet::mem2srv:transfer failed
+0420095029|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420095029|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420095139|clist|4|00|dbIO::processResult:copy error
+0420095139|clist|4|00|dbSet::mem2srv:transfer failed
+0420100730|sip  |4|00|NAPTR query for host 'fmoffice.fullymanaged.sip.voxter.com' returned no results
+0420103839|clist|4|00|dbIO::processResult:copy error
+0420103839|clist|4|00|dbSet::mem2srv:transfer failed
+0420125552|sip  |4|00|Registration failed User: 8242, Error Code:401 Unauthorized
+0420125632|sip  |4|00|Registration failed User: 8242, Error Code:480 Temporarily not available
+0420141501|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141502|ares |4|00|aresDnsLookup: select time-out 2 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141503|ares |4|00|aresDnsLookup: select time-out 3 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141504|ares |4|00|aresDnsLookup: select time-out 4 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141506|ares |4|00|aresDnsLookup: select time-out 5 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141508|ares |4|00|aresDnsLookup: select time-out 6 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141508|dns  |4|00|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0420141508|sip  |4|00|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'fmoffice.fullymanaged.sip.voxter.com' found no records. 
+0420141530|dns  |4|00|DNS(SRV) query now allowed after unresponsive for 22 (of 10) sec
+0420141531|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141532|ares |4|00|aresDnsLookup: select time-out 2 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141533|ares |4|00|aresDnsLookup: select time-out 3 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141534|ares |4|00|aresDnsLookup: select time-out 4 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141536|ares |4|00|aresDnsLookup: select time-out 5 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141538|ares |4|00|aresDnsLookup: select time-out 6 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141538|dns  |4|00|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0420141538|sip  |4|00|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'fmoffice.fullymanaged.sip.voxter.com' found no records. 
+0420141545|sip  |4|00|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'fmoffice.fullymanaged.sip.voxter.com' found no records. 
+0420141553|dns  |4|00|DNS(SRV) query now allowed after unresponsive for 14 (of 10) sec
+0420150139|clist|4|00|dbIO::processResult:copy error
+0420150139|clist|4|00|dbSet::mem2srv:transfer failed
+0420150239|clist|4|00|dbIO::processResult:copy error
+0420150239|clist|4|00|dbSet::mem2srv:transfer failed
+0420150754|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420150755|ares |4|00|aresDnsLookup: select time-out 2 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420150756|ares |4|00|aresDnsLookup: select time-out 3 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420150757|ares |4|00|aresDnsLookup: select time-out 4 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420150759|ares |4|00|aresDnsLookup: select time-out 5 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420150801|ares |4|00|aresDnsLookup: select time-out 6 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420150801|dns  |4|00|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0420150801|sip  |4|00|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'fmoffice.fullymanaged.sip.voxter.com' found no records. 
+0420150823|dns  |4|00|DNS(SRV) query now allowed after unresponsive for 22 (of 10) sec
+0420165224|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165225|ares |4|00|aresDnsLookup: select time-out 2 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165226|ares |4|00|aresDnsLookup: select time-out 3 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165227|ares |4|00|aresDnsLookup: select time-out 4 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165229|ares |4|00|aresDnsLookup: select time-out 5 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165231|ares |4|00|aresDnsLookup: select time-out 6 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165231|dns  |4|00|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0420165231|sip  |4|00|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'fmoffice.fullymanaged.sip.voxter.com' found no records. 
+0420165253|dns  |4|00|DNS(SRV) query now allowed after unresponsive for 22 (of 10) sec
+0420165254|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165255|ares |4|00|aresDnsLookup: select time-out 2 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165256|ares |4|00|aresDnsLookup: select time-out 3 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165257|ares |4|00|aresDnsLookup: select time-out 4 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165259|ares |4|00|aresDnsLookup: select time-out 5 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165301|ares |4|00|aresDnsLookup: select time-out 6 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165301|dns  |4|00|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0420165301|sip  |4|00|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'fmoffice.fullymanaged.sip.voxter.com' found no records. 
+0420165308|sip  |4|00|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'fmoffice.fullymanaged.sip.voxter.com' found no records. 
+0420165315|dns  |4|00|DNS(SRV) query now allowed after unresponsive for 14 (of 10) sec
+0420165316|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165317|ares |4|00|aresDnsLookup: select time-out 2 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165318|ares |4|00|aresDnsLookup: select time-out 3 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165319|ares |4|00|aresDnsLookup: select time-out 4 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165321|ares |4|00|aresDnsLookup: select time-out 5 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165323|ares |4|00|aresDnsLookup: select time-out 6 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165323|dns  |4|00|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0420165323|sip  |4|00|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'fmoffice.fullymanaged.sip.voxter.com' found no records. 

@@ -1,0 +1,169 @@
+000012.265|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+000018.115|cdp  |3|00|CDP did not receive a response from a switch. Disabling CDP.
+000023.615|app1 |3|00|DNS resolver server is '172.17.2.1'
+000023.615|app1 |3|00|DNS resolver search domain is ''
+000023.620|app1 |3|00|Bootline: esw(3,0)bootHost:flash e=172.17.2.111:ffffff00:258:16 h=74.114.208.245 g=172.17.2.1 u=**** pw=**** f=0x40 tn=CircaIP
+000023.620|app1 |3|00|DHCP returned result 0xE7 from server 172.17.2.1.
+000023.620|app1 |3|00|   Phone IP address is 172.17.2.111.
+000023.620|app1 |3|00|   Subnet mask is 255.255.255.0.
+000023.620|app1 |3|00|   Gateway address is 172.17.2.1.
+000023.620|app1 |3|00|   Time server is 74.114.208.100.
+000023.620|app1 |3|00|   GMT offset is 0 seconds.
+000023.620|app1 |3|00|   DNS server is 172.17.2.1.
+000023.945|cfg  |*|00|Prov|Starting to update 2345-12500-001.bootrom.ld
+000023.990|dns  |3|00|DNS lookup for 'p.voxter.com'(74.114.208.245) TTL=83516
+000023.990|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12500-001.bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+000024.380|cfg  |3|00|Image 2345-12500-001.bootrom.ld has not changed
+000024.385|copy |3|00|buffered_write: transfer Terminated on entry. Return 0
+000024.385|copy |3|00|Download of '2345-12500-001.bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+000024.685|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/0004f21ef49e.cfg' from 'p.voxter.com(74.114.208.245)'
+000025.070|copy |3|00|Download of '0004f21ef49e.cfg' succeeded on attempt 1 (addr 1 of 1)
+000025.280|cfg  |*|00|Prov|Starting to update 2345-12500-001.sip.ld
+000025.320|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12500-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+000025.675|cfg  |3|00|New load header information:
+000025.675|cfg  |3|00|Code length:         0x0046D2E0
+000025.675|cfg  |3|00|Header check Sum:    0x075B88AB
+000025.675|cfg  |3|00|Code check Sum:      0x0714B4A7
+000025.675|cfg  |3|00|Options:             0x00000080
+000025.800|cfg  |5|00|Error: file does not contain a compatible image
+000025.800|cfg  |5|00|  Compatibility for image 0 is 0x400000
+000025.800|copy |3|00|buffered_write: transfer terminated
+000025.800|copy |3|00|Download of '2345-12500-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+000025.800|cfg  |4|00|Prov|File 2345-12500-001.sip.ld was not compatible with the phone
+000025.835|app1 |4|00|Image is not compatible with the phone.
+000025.850|cfg  |3|00|Prov|Provisioning succeeded
+000030.855|app1 |3|00|Application, load: Type=SIP, Version=3.2.0.0157 17-Aug-09 17:53
+000031.820|app1 |4|00|Could not load time from 74.114.208.100 (74.114.208.100).
+000035.965|app1 |4|00|Loaded application sip.ld from local system successfully.
+000035.965|app1 |6|00|Uploading boot log, time is THU MAY 15 22:01:34 2014
+
+000036.270|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/logs/0004f21ef49e-boot.log' to 'p.voxter.com(74.114.208.245)'
+000036.375|copy |3|00|Upload of 'logs/0004f21ef49e-boot.log' succeeded on attempt 1 (addr 1 of 1)
+000000.375|so   |*|00|---------- Initial log entry ----------
+000000.375|so   |*|00|+++ Note that bootrom log times are in GMT +++
+000000.375|cfg  |*|00|Initial log entry. Current logging level 3
+000000.375|copy |*|00|Initial log entry. Current logging level 3
+000000.375|utilm|*|00|Initial log entry. Current logging level 4
+000000.375|hw   |*|00|Initial log entry. Current logging level 4
+000000.375|ethf |*|00|Initial log entry. Current logging level 4
+000000.375|dns  |*|00|Initial log entry. Current logging level 3
+000000.375|curl |*|00|Initial log entry. Current logging level 3
+000000.640|wdog |*|00|Initial log entry. Current logging level 4
+000000.640|lldp |*|00|Initial log entry. Current logging level 3
+000000.640|lldp |3|00|LLDP is DISABLED.
+000000.640|cdp  |*|00|Initial log entry. Current logging level 3
+000000.640|cdp  |3|00|CDP is DISABLED.
+000000.640|key  |*|00|Initial log entry. Current logging level 4
+000000.640|so   |3|00|Platform: Model=SoundPoint IP 550, Assembly=2345-12500-001 Rev=A
+000000.640|so   |3|00|Platform: Board=2345-12500-001 1
+000000.640|so   |3|00|Platform: MAC=0004f21ef49e, IP=Resolving, Subnet Mask=Resolving
+000000.640|so   |3|00|Platform: BootBlock=2.8.1 (12500_001) 02-May-08 14:08
+000000.640|so   |3|00|Application, main: Label=BOOT, Version=Muscovite 4.3.0.0246 04-Jun-10 16:52
+000000.640|so   |3|00|Application, main: P/N=3150-11069-430
+000000.640|app1 |*|00|Initial log entry. Current logging level 3
+000000.665|cfg  |*|00|Initial log entry. Current logging level 2
+000001.635|so   |3|00|Link status is Net up Speed 100 full Duplex, PC down.
+000012.265|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+000018.215|cdp  |3|00|CDP did not receive a response from a switch. Disabling CDP.
+000023.715|app1 |3|00|DNS resolver server is '172.17.2.1'
+000023.715|app1 |3|00|DNS resolver search domain is ''
+000023.720|app1 |3|00|Bootline: esw(3,0)bootHost:flash e=172.17.2.111:ffffff00:258:16 h=74.114.208.245 g=172.17.2.1 u=**** pw=**** f=0x40 tn=CircaIP
+000023.720|app1 |3|00|DHCP returned result 0xE7 from server 172.17.2.1.
+000023.720|app1 |3|00|   Phone IP address is 172.17.2.111.
+000023.720|app1 |3|00|   Subnet mask is 255.255.255.0.
+000023.720|app1 |3|00|   Gateway address is 172.17.2.1.
+000023.720|app1 |3|00|   Time server is 74.114.208.100.
+000023.720|app1 |3|00|   GMT offset is 0 seconds.
+000023.720|app1 |3|00|   DNS server is 172.17.2.1.
+000024.745|cfg  |*|00|Prov|Starting to update 2345-12500-001.bootrom.ld
+000024.790|dns  |3|00|DNS lookup for 'p.voxter.com'(74.114.208.245) TTL=83403
+000024.790|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12500-001.bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+000025.165|cfg  |3|00|Image 2345-12500-001.bootrom.ld has not changed
+000025.165|copy |3|00|buffered_write: transfer Terminated on entry. Return 0
+000025.165|copy |3|00|Download of '2345-12500-001.bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+000025.470|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/0004f21ef49e.cfg' from 'p.voxter.com(74.114.208.245)'
+000025.770|copy |3|00|Download of '0004f21ef49e.cfg' succeeded on attempt 1 (addr 1 of 1)
+000026.040|cfg  |*|00|Prov|Starting to update 2345-12500-001.sip.ld
+000026.080|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12500-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+000026.415|cfg  |3|00|New load header information:
+000026.415|cfg  |3|00|Code length:         0x0046D2E0
+000026.415|cfg  |3|00|Header check Sum:    0x075B88AB
+000026.415|cfg  |3|00|Code check Sum:      0x0714B4A7
+000026.415|cfg  |3|00|Options:             0x00000080
+000026.540|cfg  |5|00|Error: file does not contain a compatible image
+000026.540|cfg  |5|00|  Compatibility for image 0 is 0x400000
+000026.540|copy |3|00|buffered_write: transfer terminated
+000026.540|copy |3|00|Download of '2345-12500-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+000026.540|cfg  |4|00|Prov|File 2345-12500-001.sip.ld was not compatible with the phone
+000026.575|app1 |4|00|Image is not compatible with the phone.
+000026.585|cfg  |3|00|Prov|Provisioning succeeded
+000031.595|app1 |3|00|Application, load: Type=SIP, Version=3.2.0.0157 17-Aug-09 17:53
+000031.920|app1 |4|00|Could not load time from 74.114.208.100 (74.114.208.100).
+000036.680|app1 |4|00|Loaded application sip.ld from local system successfully.
+000036.680|app1 |6|00|Uploading boot log, time is THU MAY 15 22:02:34 2014
+
+000036.975|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/logs/0004f21ef49e-boot.log' to 'p.voxter.com(74.114.208.245)'
+000037.210|copy |3|00|Upload of 'logs/0004f21ef49e-boot.log' succeeded on attempt 1 (addr 1 of 1)
+000000.375|so   |*|00|---------- Initial log entry ----------
+000000.375|so   |*|00|+++ Note that bootrom log times are in GMT +++
+000000.375|cfg  |*|00|Initial log entry. Current logging level 3
+000000.375|copy |*|00|Initial log entry. Current logging level 3
+000000.375|utilm|*|00|Initial log entry. Current logging level 4
+000000.375|hw   |*|00|Initial log entry. Current logging level 4
+000000.375|ethf |*|00|Initial log entry. Current logging level 4
+000000.375|dns  |*|00|Initial log entry. Current logging level 3
+000000.375|curl |*|00|Initial log entry. Current logging level 3
+000000.640|wdog |*|00|Initial log entry. Current logging level 4
+000000.640|lldp |*|00|Initial log entry. Current logging level 3
+000000.640|lldp |3|00|LLDP is DISABLED.
+000000.640|cdp  |*|00|Initial log entry. Current logging level 3
+000000.640|cdp  |3|00|CDP is DISABLED.
+000000.640|key  |*|00|Initial log entry. Current logging level 4
+000000.640|so   |3|00|Platform: Model=SoundPoint IP 550, Assembly=2345-12500-001 Rev=A
+000000.640|so   |3|00|Platform: Board=2345-12500-001 1
+000000.640|so   |3|00|Platform: MAC=0004f21ef49e, IP=Resolving, Subnet Mask=Resolving
+000000.640|so   |3|00|Platform: BootBlock=2.8.1 (12500_001) 02-May-08 14:08
+000000.640|so   |3|00|Application, main: Label=BOOT, Version=Muscovite 4.3.0.0246 04-Jun-10 16:52
+000000.640|so   |3|00|Application, main: P/N=3150-11069-430
+000000.645|app1 |*|00|Initial log entry. Current logging level 3
+000000.670|cfg  |*|00|Initial log entry. Current logging level 2
+000001.640|so   |3|00|Link status is Net up Speed 100 full Duplex, PC down.
+000012.265|lldp |3|00|LLDP did not receive a response from a switch. Disabling LLDP.
+000017.935|cdp  |3|00|CDP did not receive a response from a switch. Disabling CDP.
+000021.435|app1 |3|00|DNS resolver server is '172.17.2.1'
+000021.435|app1 |3|00|DNS resolver search domain is ''
+000021.440|app1 |3|00|Bootline: esw(3,0)bootHost:flash e=172.17.2.111:ffffff00:258:13 h=74.114.208.245 g=172.17.2.1 u=**** pw=**** f=0x40 tn=CircaIP
+000021.440|app1 |3|00|DHCP returned result 0xE7 from server 172.17.2.1.
+000021.440|app1 |3|00|   Phone IP address is 172.17.2.111.
+000021.440|app1 |3|00|   Subnet mask is 255.255.255.0.
+000021.440|app1 |3|00|   Gateway address is 172.17.2.1.
+000021.440|app1 |3|00|   Time server is 74.114.208.100.
+000021.440|app1 |3|00|   GMT offset is 0 seconds.
+000021.440|app1 |3|00|   DNS server is 172.17.2.1.
+000021.760|cfg  |*|00|Prov|Starting to update 2345-12500-001.bootrom.ld
+000021.805|dns  |3|00|DNS lookup for 'p.voxter.com'(74.114.208.245) TTL=83295
+000021.805|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12500-001.bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+000022.155|cfg  |3|00|Image 2345-12500-001.bootrom.ld has not changed
+000022.155|copy |3|00|buffered_write: transfer Terminated on entry. Return 0
+000022.155|copy |3|00|Download of '2345-12500-001.bootrom.ld' succeeded on attempt 1 (addr 1 of 1)
+000022.445|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/0004f21ef49e.cfg' from 'p.voxter.com(74.114.208.245)'
+000022.740|copy |3|00|Download of '0004f21ef49e.cfg' succeeded on attempt 1 (addr 1 of 1)
+000023.130|cfg  |*|00|Prov|Starting to update 2345-12500-001.sip.ld
+000023.170|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12500-001.sip.ld' from 'p.voxter.com(74.114.208.245)'
+000023.525|cfg  |3|00|New load header information:
+000023.525|cfg  |3|00|Code length:         0x0046D2E0
+000023.525|cfg  |3|00|Header check Sum:    0x075B88AB
+000023.525|cfg  |3|00|Code check Sum:      0x0714B4A7
+000023.525|cfg  |3|00|Options:             0x00000080
+000023.655|cfg  |5|00|Error: file does not contain a compatible image
+000023.655|cfg  |5|00|  Compatibility for image 0 is 0x400000
+000023.655|copy |3|00|buffered_write: transfer terminated
+000023.655|copy |3|00|Download of '2345-12500-001.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+000023.655|cfg  |4|00|Prov|File 2345-12500-001.sip.ld was not compatible with the phone
+000023.690|app1 |4|00|Image is not compatible with the phone.
+000023.700|cfg  |3|00|Prov|Provisioning succeeded
+000028.710|app1 |3|00|Application, load: Type=SIP, Version=3.2.0.0157 17-Aug-09 17:53
+000029.640|app1 |4|00|Could not load time from 74.114.208.100 (74.114.208.100).
+000033.800|app1 |4|00|Loaded application sip.ld from local system successfully.
+000033.800|app1 |6|00|Uploading boot log, time is THU MAY 15 22:03:28 2014
+

@@ -1,0 +1,18 @@
+0419143414|dns  |4|00|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0419143414|sip  |4|00|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'fmoffice.fullymanaged.sip.voxter.com' found no records. 
+0419143414|sip  |4|00|Registration failed User: user_baqjlx, Error Code:480 Temporarily not available
+0419143436|dns  |4|00|DNS(SRV) query now allowed after unresponsive for 22 (of 10) sec
+0419173936|sip  |4|00|NAPTR query for host 'fmoffice.fullymanaged.sip.voxter.com' returned no results
+0419221441|sip  |4|00|Registration failed User: user_baqjlx, Error Code:401 Unauthorized
+0420125631|sip  |4|00|Registration failed User: user_baqjlx, Error Code:480 Temporarily not available
+0420125731|sip  |4|00|Registration failed User: user_baqjlx, Error Code:401 Unauthorized
+0420145824|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
+0420152325|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165326|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
+0420171828|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420171829|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
+0420171830|ares |4|00|aresDnsLookup: select time-out 2 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
+0420171831|ares |4|00|aresDnsLookup: select time-out 3 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
+0420174332|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
+0420174333|ares |4|00|aresDnsLookup: select time-out 2 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
+0420202836|sip  |4|00|NAPTR query for host 'fmoffice.fullymanaged.sip.voxter.com' returned no results

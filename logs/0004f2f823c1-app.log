@@ -1,0 +1,45 @@
+0420135209|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0420145210|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0420155211|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0420165610|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0420175610|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0420185610|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0420195610|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0420205611|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0420215611|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0420225611|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0420235611|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421004811|sip  |4|03|NAPTR query for host 'hyperwallet.voxter.sip.voxter.com' returned no results
+0421005611|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421015611|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421025611|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421035611|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421045611|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421055611|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421065611|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421065612|ares |4|03|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 1 sec
+0421075613|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421085614|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421095615|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421105615|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421115616|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421125617|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421135617|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421145617|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421155618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421165618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421175618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421185618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421195618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421205618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421215618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421225618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0421230418|sip  |4|03|NAPTR query for host 'hyperwallet.voxter.sip.voxter.com' returned no results
+0421235618|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0422005619|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0422015619|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0422025619|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0422035619|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0422045619|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0422055619|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xed0000
+0422064420|ares |4|03|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 1 sec

@@ -1,0 +1,660 @@
+000008.650|so   |*|01|---------- Initial log entry ----------
+000008.650|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.650|boot |*|01|Initial log entry. Current logging level 3
+000008.650|copy |*|01|Initial log entry. Current logging level 3
+000008.650|utilm|*|01|Initial log entry. Current logging level 4
+000008.650|hw   |*|01|Initial log entry. Current logging level 4
+000008.650|ethf |*|01|Initial log entry. Current logging level 4
+000008.650|dns  |*|01|Initial log entry. Current logging level 3
+000008.651|curl |*|01|Initial log entry. Current logging level 3
+000008.651|sec  |*|01|Initial log entry. Current logging level 4
+000008.664|wdog |*|01|Initial log entry. Current logging level 4
+000008.664|lldp |*|01|Initial log entry. Current logging level 3
+000008.664|cdp  |*|01|Initial log entry. Current logging level 3
+000008.664|key  |*|01|Initial log entry. Current logging level 4
+000008.692|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.692|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.692|so   |3|01|Platform: MAC=0004f281ec90
+000008.693|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.694|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.694|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.694|so   |3|01|Application, main: P/N=3150-11069-514
+000008.694|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.694|log  |*|01|Install file upload callback for 'Updater'
+
+000008.696|app1 |*|01|Initial log entry. Current logging level 3
+000008.710|cfg  |*|01|Initial log entry. Current logging level 2
+000009.662|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.705|so   |*|01|---------- Initial log entry ----------
+000008.705|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.705|boot |*|01|Initial log entry. Current logging level 3
+000008.705|copy |*|01|Initial log entry. Current logging level 3
+000008.705|utilm|*|01|Initial log entry. Current logging level 4
+000008.705|hw   |*|01|Initial log entry. Current logging level 4
+000008.705|ethf |*|01|Initial log entry. Current logging level 4
+000008.705|dns  |*|01|Initial log entry. Current logging level 3
+000008.706|curl |*|01|Initial log entry. Current logging level 3
+000008.706|sec  |*|01|Initial log entry. Current logging level 4
+000008.720|wdog |*|01|Initial log entry. Current logging level 4
+000008.721|lldp |*|01|Initial log entry. Current logging level 3
+000008.721|cdp  |*|01|Initial log entry. Current logging level 3
+000008.721|key  |*|01|Initial log entry. Current logging level 4
+000008.762|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.762|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.762|so   |3|01|Platform: MAC=0004f281ec90
+000008.763|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.764|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.764|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.764|so   |3|01|Application, main: P/N=3150-11069-514
+000008.764|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.764|log  |*|01|Install file upload callback for 'Updater'
+
+000008.765|app1 |*|01|Initial log entry. Current logging level 3
+000008.780|cfg  |*|01|Initial log entry. Current logging level 2
+000009.713|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000009.043|so   |*|01|---------- Initial log entry ----------
+000009.043|so   |*|01|+++ Note that Updater log times are in GMT +++
+000009.043|boot |*|01|Initial log entry. Current logging level 3
+000009.043|copy |*|01|Initial log entry. Current logging level 3
+000009.043|utilm|*|01|Initial log entry. Current logging level 4
+000009.044|hw   |*|01|Initial log entry. Current logging level 4
+000009.044|ethf |*|01|Initial log entry. Current logging level 4
+000009.044|dns  |*|01|Initial log entry. Current logging level 3
+000009.044|curl |*|01|Initial log entry. Current logging level 3
+000009.044|sec  |*|01|Initial log entry. Current logging level 4
+000009.059|wdog |*|01|Initial log entry. Current logging level 4
+000009.059|lldp |*|01|Initial log entry. Current logging level 3
+000009.059|cdp  |*|01|Initial log entry. Current logging level 3
+000009.059|key  |*|01|Initial log entry. Current logging level 4
+000009.083|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000009.083|so   |3|01|Platform: Board=3111-46135-002 1 0
+000009.083|so   |3|01|Platform: MAC=0004f281ec90
+000009.084|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000009.085|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000009.085|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000009.085|so   |3|01|Application, main: P/N=3150-11069-514
+000009.085|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000009.085|log  |*|01|Install file upload callback for 'Updater'
+
+000009.086|app1 |*|01|Initial log entry. Current logging level 3
+000009.101|cfg  |*|01|Initial log entry. Current logging level 2
+000010.049|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.751|so   |*|01|---------- Initial log entry ----------
+000008.751|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.751|boot |*|01|Initial log entry. Current logging level 3
+000008.751|copy |*|01|Initial log entry. Current logging level 3
+000008.752|utilm|*|01|Initial log entry. Current logging level 4
+000008.752|hw   |*|01|Initial log entry. Current logging level 4
+000008.752|ethf |*|01|Initial log entry. Current logging level 4
+000008.752|dns  |*|01|Initial log entry. Current logging level 3
+000008.752|curl |*|01|Initial log entry. Current logging level 3
+000008.752|sec  |*|01|Initial log entry. Current logging level 4
+000008.766|wdog |*|01|Initial log entry. Current logging level 4
+000008.767|lldp |*|01|Initial log entry. Current logging level 3
+000008.767|cdp  |*|01|Initial log entry. Current logging level 3
+000008.767|key  |*|01|Initial log entry. Current logging level 4
+000008.791|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.791|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.792|so   |3|01|Platform: MAC=0004f281ec90
+000008.793|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.794|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.794|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.794|so   |3|01|Application, main: P/N=3150-11069-514
+000008.794|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.794|log  |*|01|Install file upload callback for 'Updater'
+
+000008.796|app1 |*|01|Initial log entry. Current logging level 3
+000008.810|cfg  |*|01|Initial log entry. Current logging level 2
+000009.757|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.742|so   |*|01|---------- Initial log entry ----------
+000008.742|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.742|boot |*|01|Initial log entry. Current logging level 3
+000008.742|copy |*|01|Initial log entry. Current logging level 3
+000008.742|utilm|*|01|Initial log entry. Current logging level 4
+000008.742|hw   |*|01|Initial log entry. Current logging level 4
+000008.742|ethf |*|01|Initial log entry. Current logging level 4
+000008.742|dns  |*|01|Initial log entry. Current logging level 3
+000008.742|curl |*|01|Initial log entry. Current logging level 3
+000008.743|sec  |*|01|Initial log entry. Current logging level 4
+000008.757|wdog |*|01|Initial log entry. Current logging level 4
+000008.757|lldp |*|01|Initial log entry. Current logging level 3
+000008.757|cdp  |*|01|Initial log entry. Current logging level 3
+000008.757|key  |*|01|Initial log entry. Current logging level 4
+000008.781|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.781|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.782|so   |3|01|Platform: MAC=0004f281ec90
+000008.783|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.784|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.784|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.784|so   |3|01|Application, main: P/N=3150-11069-514
+000008.784|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.784|log  |*|01|Install file upload callback for 'Updater'
+
+000008.785|app1 |*|01|Initial log entry. Current logging level 3
+000008.800|cfg  |*|01|Initial log entry. Current logging level 2
+000009.747|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000009.473|so   |*|01|---------- Initial log entry ----------
+000009.473|so   |*|01|+++ Note that Updater log times are in GMT +++
+000009.473|boot |*|01|Initial log entry. Current logging level 3
+000009.473|copy |*|01|Initial log entry. Current logging level 3
+000009.474|utilm|*|01|Initial log entry. Current logging level 4
+000009.474|hw   |*|01|Initial log entry. Current logging level 4
+000009.474|ethf |*|01|Initial log entry. Current logging level 4
+000009.474|dns  |*|01|Initial log entry. Current logging level 3
+000009.474|curl |*|01|Initial log entry. Current logging level 3
+000009.474|sec  |*|01|Initial log entry. Current logging level 4
+000009.488|wdog |*|01|Initial log entry. Current logging level 4
+000009.489|lldp |*|01|Initial log entry. Current logging level 3
+000009.489|cdp  |*|01|Initial log entry. Current logging level 3
+000009.489|key  |*|01|Initial log entry. Current logging level 4
+000009.512|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000009.512|so   |3|01|Platform: Board=3111-46135-002 1 0
+000009.513|so   |3|01|Platform: MAC=0004f281ec90
+000009.514|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000009.515|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000009.515|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000009.515|so   |3|01|Application, main: P/N=3150-11069-514
+000009.515|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000009.515|log  |*|01|Install file upload callback for 'Updater'
+
+000009.516|app1 |*|01|Initial log entry. Current logging level 3
+000009.531|cfg  |*|01|Initial log entry. Current logging level 2
+000010.479|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.661|so   |*|01|---------- Initial log entry ----------
+000008.661|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.661|boot |*|01|Initial log entry. Current logging level 3
+000008.662|copy |*|01|Initial log entry. Current logging level 3
+000008.662|utilm|*|01|Initial log entry. Current logging level 4
+000008.662|hw   |*|01|Initial log entry. Current logging level 4
+000008.662|ethf |*|01|Initial log entry. Current logging level 4
+000008.662|dns  |*|01|Initial log entry. Current logging level 3
+000008.662|curl |*|01|Initial log entry. Current logging level 3
+000008.662|sec  |*|01|Initial log entry. Current logging level 4
+000008.677|wdog |*|01|Initial log entry. Current logging level 4
+000008.677|lldp |*|01|Initial log entry. Current logging level 3
+000008.677|cdp  |*|01|Initial log entry. Current logging level 3
+000008.677|key  |*|01|Initial log entry. Current logging level 4
+000008.701|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.701|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.702|so   |3|01|Platform: MAC=0004f281ec90
+000008.703|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.704|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.704|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.704|so   |3|01|Application, main: P/N=3150-11069-514
+000008.704|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.704|log  |*|01|Install file upload callback for 'Updater'
+
+000008.705|app1 |*|01|Initial log entry. Current logging level 3
+000008.720|cfg  |*|01|Initial log entry. Current logging level 2
+000009.676|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.703|so   |*|01|---------- Initial log entry ----------
+000008.703|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.703|boot |*|01|Initial log entry. Current logging level 3
+000008.704|copy |*|01|Initial log entry. Current logging level 3
+000008.704|utilm|*|01|Initial log entry. Current logging level 4
+000008.704|hw   |*|01|Initial log entry. Current logging level 4
+000008.704|ethf |*|01|Initial log entry. Current logging level 4
+000008.704|dns  |*|01|Initial log entry. Current logging level 3
+000008.704|curl |*|01|Initial log entry. Current logging level 3
+000008.704|sec  |*|01|Initial log entry. Current logging level 4
+000008.718|wdog |*|01|Initial log entry. Current logging level 4
+000008.719|lldp |*|01|Initial log entry. Current logging level 3
+000008.719|cdp  |*|01|Initial log entry. Current logging level 3
+000008.719|key  |*|01|Initial log entry. Current logging level 4
+000008.741|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.742|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.742|so   |3|01|Platform: MAC=0004f281ec90
+000008.743|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.744|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.744|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.744|so   |3|01|Application, main: P/N=3150-11069-514
+000008.744|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.744|log  |*|01|Install file upload callback for 'Updater'
+
+000008.745|app1 |*|01|Initial log entry. Current logging level 3
+000008.760|cfg  |*|01|Initial log entry. Current logging level 2
+000009.718|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.602|so   |*|01|---------- Initial log entry ----------
+000008.602|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.602|boot |*|01|Initial log entry. Current logging level 3
+000008.602|copy |*|01|Initial log entry. Current logging level 3
+000008.602|utilm|*|01|Initial log entry. Current logging level 4
+000008.602|hw   |*|01|Initial log entry. Current logging level 4
+000008.602|ethf |*|01|Initial log entry. Current logging level 4
+000008.602|dns  |*|01|Initial log entry. Current logging level 3
+000008.602|curl |*|01|Initial log entry. Current logging level 3
+000008.603|sec  |*|01|Initial log entry. Current logging level 4
+000008.617|wdog |*|01|Initial log entry. Current logging level 4
+000008.617|lldp |*|01|Initial log entry. Current logging level 3
+000008.617|cdp  |*|01|Initial log entry. Current logging level 3
+000008.618|key  |*|01|Initial log entry. Current logging level 4
+000008.641|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.641|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.642|so   |3|01|Platform: MAC=0004f281ec90
+000008.643|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.644|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.644|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.644|so   |3|01|Application, main: P/N=3150-11069-514
+000008.644|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.644|log  |*|01|Install file upload callback for 'Updater'
+
+000008.645|app1 |*|01|Initial log entry. Current logging level 3
+000008.660|cfg  |*|01|Initial log entry. Current logging level 2
+000008.663|dot1x|*|01|Initial log entry. Current logging level 3
+000008.870|tls  |*|01|Initial log entry. Current logging level 4
+000009.616|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000017.953|lldp |3|01|LLDP did not receive a response from a switch. Disabling LLDP.
+000023.134|cdp  |3|01|CDP did not receive a response from a switch. Disabling CDP.
+000023.160|dhcpc|*|01|Initial log entry. Current logging level 4
+000027.730|dns  |*|01|DNS resolver servers are '192.168.88.1' '0.0.0.0'
+000027.731|dns  |*|01|DNS resolver search domain is ''
+000027.731|app1 |3|01|DNS resolver server is '192.168.88.1'
+000027.731|app1 |3|01|DNS resolver search domain is ''
+000027.742|dns  |3|01|DNS lookup for (A) 'p.voxter.com'(74.114.208.41,74.114.208.40) TTL=2223
+000027.744|app1 |3|01|DHCP returned result 0x87 from server 192.168.88.1.
+000027.744|app1 |3|01|   Phone IP address is 192.168.88.249.
+000027.744|app1 |3|01|   Subnet mask is 255.255.255.0.
+000027.744|app1 |3|01|   Gateway address is 192.168.88.1.
+000027.744|app1 |3|01|   DNS server is 192.168.88.1.
+000027.745|dns  |3|01|DNS lookup for (A) 'pool.ntp.org'(216.113.208.81) TTL=133
+000028.676|cfg  |*|01|Core|Found core file core.587, uploading to the server
+000035.940|app1 |4|01|Could not load time from pool.ntp.org (216.113.208.81).
+000418.335|cfg  |4|01|Core|Error reading Configuration Paramter, trying to upload to the default directory
+000418.339|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90-5.1.4.0844-core.587.tar.gz' to 'p.voxter.com(74.114.208.41)'
+000435.340|copy |3|01|Upload of '0004f281ec90-5.1.4.0844-core.587.tar.gz' FAILED on attempt 1 (addr 1 of 2)
+000435.341|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+000435.342|copy |3|01|Making further upload attempts for '0004f281ec90-5.1.4.0844-core.587.tar.gz'
+000435.342|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90-5.1.4.0844-core.587.tar.gz' to 'p.voxter.com(74.114.208.40)'
+000435.343|copy |3|01|interIpAddressConfig : IP is not reachable, Nothing to be Cleaned Up
+000452.340|copy |3|01|Upload of '0004f281ec90-5.1.4.0844-core.587.tar.gz' FAILED on attempt 1 (addr 2 of 2)
+000452.341|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+000452.341|copy |3|01|Making further upload attempts for '0004f281ec90-5.1.4.0844-core.587.tar.gz'
+000452.342|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90-5.1.4.0844-core.587.tar.gz' to 'p.voxter.com(74.114.208.41)'
+000528.340|copy |3|01|Upload of '0004f281ec90-5.1.4.0844-core.587.tar.gz' FAILED on attempt 2 (addr 1 of 2)
+000528.341|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+000528.341|copy |3|01|Making further upload attempts for '0004f281ec90-5.1.4.0844-core.587.tar.gz'
+000528.342|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90-5.1.4.0844-core.587.tar.gz' to 'p.voxter.com(74.114.208.40)'
+000528.342|copy |3|01|interIpAddressConfig : IP is not reachable, Nothing to be Cleaned Up
+000604.340|copy |3|01|Upload of '0004f281ec90-5.1.4.0844-core.587.tar.gz' FAILED on attempt 2 (addr 2 of 2)
+000604.341|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+000604.341|copy |3|01|Making further upload attempts for '0004f281ec90-5.1.4.0844-core.587.tar.gz'
+000604.342|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90-5.1.4.0844-core.587.tar.gz' to 'p.voxter.com(74.114.208.41)'
+000752.340|copy |3|01|Upload of '0004f281ec90-5.1.4.0844-core.587.tar.gz' FAILED on attempt 3 (addr 1 of 2)
+000752.341|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+000752.341|copy |3|01|Making further upload attempts for '0004f281ec90-5.1.4.0844-core.587.tar.gz'
+000752.342|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90-5.1.4.0844-core.587.tar.gz' to 'p.voxter.com(74.114.208.40)'
+000752.342|copy |3|01|interIpAddressConfig : IP is not reachable, Nothing to be Cleaned Up
+000940.340|copy |3|01|Upload of '0004f281ec90-5.1.4.0844-core.587.tar.gz' FAILED on attempt 3 (addr 2 of 2)
+000940.341|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+000940.342|cfg  |4|01|Core|no sub-directory  ("0004f281ec90-5.1.4.0844-core.587.tar.gz")  found, trying to upload to the default directory
+000940.345|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90-5.1.4.0844-core.587.tar.gz' to 'p.voxter.com(74.114.208.41)'
+000957.340|copy |3|01|Upload of '0004f281ec90-5.1.4.0844-core.587.tar.gz' FAILED on attempt 1 (addr 1 of 2)
+000957.341|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+000957.341|copy |3|01|Making further upload attempts for '0004f281ec90-5.1.4.0844-core.587.tar.gz'
+000957.342|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90-5.1.4.0844-core.587.tar.gz' to 'p.voxter.com(74.114.208.40)'
+000957.342|copy |3|01|interIpAddressConfig : IP is not reachable, Nothing to be Cleaned Up
+001014.340|copy |3|01|Upload of '0004f281ec90-5.1.4.0844-core.587.tar.gz' FAILED on attempt 1 (addr 2 of 2)
+001014.341|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+001014.341|copy |3|01|Making further upload attempts for '0004f281ec90-5.1.4.0844-core.587.tar.gz'
+001014.342|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90-5.1.4.0844-core.587.tar.gz' to 'p.voxter.com(74.114.208.41)'
+001050.340|copy |3|01|Upload of '0004f281ec90-5.1.4.0844-core.587.tar.gz' FAILED on attempt 2 (addr 1 of 2)
+001050.341|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+001050.341|copy |3|01|Making further upload attempts for '0004f281ec90-5.1.4.0844-core.587.tar.gz'
+001050.342|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90-5.1.4.0844-core.587.tar.gz' to 'p.voxter.com(74.114.208.40)'
+001050.342|copy |3|01|interIpAddressConfig : IP is not reachable, Nothing to be Cleaned Up
+001126.340|copy |3|01|Upload of '0004f281ec90-5.1.4.0844-core.587.tar.gz' FAILED on attempt 2 (addr 2 of 2)
+001126.341|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+001126.341|copy |3|01|Making further upload attempts for '0004f281ec90-5.1.4.0844-core.587.tar.gz'
+001126.342|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90-5.1.4.0844-core.587.tar.gz' to 'p.voxter.com(74.114.208.41)'
+001314.340|copy |3|01|Upload of '0004f281ec90-5.1.4.0844-core.587.tar.gz' FAILED on attempt 3 (addr 1 of 2)
+001314.341|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+001314.341|copy |3|01|Making further upload attempts for '0004f281ec90-5.1.4.0844-core.587.tar.gz'
+001314.342|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90-5.1.4.0844-core.587.tar.gz' to 'p.voxter.com(74.114.208.40)'
+001314.342|copy |3|01|interIpAddressConfig : IP is not reachable, Nothing to be Cleaned Up
+001502.340|copy |3|01|Upload of '0004f281ec90-5.1.4.0844-core.587.tar.gz' FAILED on attempt 3 (addr 2 of 2)
+001502.341|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+001502.342|cfg  |4|01|Core|Problem uploading core file ("/ffs0/0004f281ec90-5.1.4.0844-core.587.tar.gz", "0004f281ec90-5.1.4.0844-core.587.tar.gz") to the server, result=10
+001502.419|cfg  |*|01|Core|Upload failed. Removing the core file core.657
+001502.442|cfg  |*|01|Core|Upload failed. Removing the core file core.658
+001502.468|cfg  |*|01|Core|Upload failed. Removing the core file core.659
+001502.517|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90.cfg' from 'p.voxter.com(74.114.208.41)'
+001519.510|copy |3|01|Download of '0004f281ec90.cfg' FAILED on attempt 1 (addr 1 of 2)
+001519.510|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+001519.510|copy |3|01|Making further download attempts for '0004f281ec90.cfg'
+001519.510|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90.cfg' from 'p.voxter.com(74.114.208.40)'
+001519.511|copy |3|01|interIpAddressConfig : IP is not reachable, Nothing to be Cleaned Up
+001536.510|copy |3|01|Download of '0004f281ec90.cfg' FAILED on attempt 1 (addr 2 of 2)
+001536.510|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+001536.510|copy |3|01|Making further download attempts for '0004f281ec90.cfg'
+001536.510|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90.cfg' from 'p.voxter.com(74.114.208.41)'
+001612.510|copy |3|01|Download of '0004f281ec90.cfg' FAILED on attempt 2 (addr 1 of 2)
+001612.510|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+001612.510|copy |3|01|Making further download attempts for '0004f281ec90.cfg'
+001612.510|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90.cfg' from 'p.voxter.com(74.114.208.40)'
+001612.511|copy |3|01|interIpAddressConfig : IP is not reachable, Nothing to be Cleaned Up
+001648.510|copy |3|01|Download of '0004f281ec90.cfg' FAILED on attempt 2 (addr 2 of 2)
+001648.510|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+001648.510|copy |3|01|Making further download attempts for '0004f281ec90.cfg'
+001648.510|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90.cfg' from 'p.voxter.com(74.114.208.41)'
+001836.510|copy |3|01|Download of '0004f281ec90.cfg' FAILED on attempt 3 (addr 1 of 2)
+001836.510|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+001836.510|copy |3|01|Making further download attempts for '0004f281ec90.cfg'
+001836.510|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90.cfg' from 'p.voxter.com(74.114.208.40)'
+001836.511|copy |3|01|interIpAddressConfig : IP is not reachable, Nothing to be Cleaned Up
+002024.510|copy |3|01|Download of '0004f281ec90.cfg' FAILED on attempt 3 (addr 2 of 2)
+002024.510|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+002024.510|copy |3|01|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+002024.511|cfg  |4|01|Prov|Server did not respond to request for file 0004f281ec90.cfg
+002024.511|cfg  |4|01|Prov|Server 'p.voxter.com' is unresponsive
+002024.511|cfg  |4|01|Prov|Download of master configuration file failed
+002024.511|cfg  |4|01|Prov|Trying to boot from existing configuration
+002024.527|cfg  |3|01|Prov|Provisioning succeeded
+002024.527|cfg  |*|01|Prov|Finished updating configuration
+002029.529|app1 |3|01|Application, load: Type=SIP, Version=4.1.4.7430 20-Mar-13 14:23
+002029.531|boot |*|01|Using TFFS for flash load
+002029.532|boot |*|01|Code length:         0x02A7A000
+002029.532|boot |*|01|Code checksum:       0x65750AB5
+002029.768|app1 |4|01|Loaded application sip.ld from local system successfully.
+002029.769|app1 |6|01|Uploading boot log, time is Sun Mar 23 18:36:19 2014
+
+002030.023|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/logs/0004f281ec90-boot.log' to 'p.voxter.com(74.114.208.41)'
+002041.020|copy |3|01|Upload of 'logs/0004f281ec90-boot.log' FAILED on attempt 1 (addr 1 of 2)
+002041.020|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+002041.020|copy |3|01|Making further upload attempts for 'logs/0004f281ec90-boot.log'
+002041.020|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/logs/0004f281ec90-boot.log' to 'p.voxter.com(74.114.208.40)'
+002041.021|copy |3|01|interIpAddressConfig : IP is not reachable, Nothing to be Cleaned Up
+002052.020|copy |3|01|Upload of 'logs/0004f281ec90-boot.log' FAILED on attempt 1 (addr 2 of 2)
+002052.020|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+002052.020|log  |4|01|UtilLogC::uploadFifoLog: upload error. protocol 0 result = 10
+002552.755|app1 |3|01|Timed out launching application.
+000008.682|so   |*|01|---------- Initial log entry ----------
+000008.683|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.683|boot |*|01|Initial log entry. Current logging level 3
+000008.683|copy |*|01|Initial log entry. Current logging level 3
+000008.683|utilm|*|01|Initial log entry. Current logging level 4
+000008.683|hw   |*|01|Initial log entry. Current logging level 4
+000008.683|ethf |*|01|Initial log entry. Current logging level 4
+000008.683|dns  |*|01|Initial log entry. Current logging level 3
+000008.683|curl |*|01|Initial log entry. Current logging level 3
+000008.683|sec  |*|01|Initial log entry. Current logging level 4
+000008.698|wdog |*|01|Initial log entry. Current logging level 4
+000008.698|lldp |*|01|Initial log entry. Current logging level 3
+000008.698|cdp  |*|01|Initial log entry. Current logging level 3
+000008.699|key  |*|01|Initial log entry. Current logging level 4
+000008.721|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.721|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.722|so   |3|01|Platform: MAC=0004f281ec90
+000008.723|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.724|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.724|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.724|so   |3|01|Application, main: P/N=3150-11069-514
+000008.724|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.724|log  |*|01|Install file upload callback for 'Updater'
+
+000008.726|app1 |*|01|Initial log entry. Current logging level 3
+000008.740|cfg  |*|01|Initial log entry. Current logging level 2
+000008.744|dot1x|*|01|Initial log entry. Current logging level 3
+000008.948|tls  |*|01|Initial log entry. Current logging level 4
+000009.697|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000018.043|lldp |3|01|LLDP did not receive a response from a switch. Disabling LLDP.
+000023.744|cdp  |3|01|CDP did not receive a response from a switch. Disabling CDP.
+000023.770|dhcpc|*|01|Initial log entry. Current logging level 4
+000027.810|dns  |*|01|DNS resolver servers are '192.168.88.1' '0.0.0.0'
+000027.811|dns  |*|01|DNS resolver search domain is ''
+000027.811|app1 |3|01|DNS resolver server is '192.168.88.1'
+000027.811|app1 |3|01|DNS resolver search domain is ''
+000027.822|dns  |3|01|DNS lookup for (A) 'p.voxter.com'(74.114.208.40,74.114.208.41) TTL=657
+000027.824|app1 |3|01|DHCP returned result 0x87 from server 192.168.88.1.
+000027.824|app1 |3|01|   Phone IP address is 192.168.88.249.
+000027.824|app1 |3|01|   Subnet mask is 255.255.255.0.
+000027.824|app1 |3|01|   Gateway address is 192.168.88.1.
+000027.824|app1 |3|01|   DNS server is 192.168.88.1.
+000027.826|dns  |3|01|DNS lookup for (A) 'pool.ntp.org'(216.113.208.81) TTL=178
+000028.770|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90.cfg' from 'p.voxter.com(74.114.208.40)'
+000036.020|app1 |4|01|Could not load time from pool.ntp.org (216.113.208.81).
+000045.770|copy |3|01|Download of '0004f281ec90.cfg' FAILED on attempt 1 (addr 1 of 2)
+000045.770|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+000045.770|copy |3|01|Making further download attempts for '0004f281ec90.cfg'
+000045.770|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90.cfg' from 'p.voxter.com(74.114.208.41)'
+000045.771|copy |3|01|interIpAddressConfig : IP is not reachable, Nothing to be Cleaned Up
+000102.770|copy |3|01|Download of '0004f281ec90.cfg' FAILED on attempt 1 (addr 2 of 2)
+000102.770|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+000102.770|copy |3|01|Making further download attempts for '0004f281ec90.cfg'
+000102.770|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90.cfg' from 'p.voxter.com(74.114.208.40)'
+000138.770|copy |3|01|Download of '0004f281ec90.cfg' FAILED on attempt 2 (addr 1 of 2)
+000138.770|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+000138.770|copy |3|01|Making further download attempts for '0004f281ec90.cfg'
+000138.770|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90.cfg' from 'p.voxter.com(74.114.208.41)'
+000138.771|copy |3|01|interIpAddressConfig : IP is not reachable, Nothing to be Cleaned Up
+000214.770|copy |3|01|Download of '0004f281ec90.cfg' FAILED on attempt 2 (addr 2 of 2)
+000214.770|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+000214.770|copy |3|01|Making further download attempts for '0004f281ec90.cfg'
+000214.770|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90.cfg' from 'p.voxter.com(74.114.208.40)'
+000402.770|copy |3|01|Download of '0004f281ec90.cfg' FAILED on attempt 3 (addr 1 of 2)
+000402.770|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+000402.770|copy |3|01|Making further download attempts for '0004f281ec90.cfg'
+000402.770|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90.cfg' from 'p.voxter.com(74.114.208.41)'
+000402.771|copy |3|01|interIpAddressConfig : IP is not reachable, Nothing to be Cleaned Up
+000550.770|copy |3|01|Download of '0004f281ec90.cfg' FAILED on attempt 3 (addr 2 of 2)
+000550.770|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+000550.770|copy |3|01|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+000550.771|cfg  |4|01|Prov|Server did not respond to request for file 0004f281ec90.cfg
+000550.771|cfg  |4|01|Prov|Server 'p.voxter.com' is unresponsive
+000550.771|cfg  |4|01|Prov|Download of master configuration file failed
+000550.771|cfg  |4|01|Prov|Trying to boot from existing configuration
+000550.789|cfg  |3|01|Prov|Provisioning succeeded
+000550.789|cfg  |*|01|Prov|Finished updating configuration
+000555.789|app1 |3|01|Application, load: Type=SIP, Version=4.1.4.7430 20-Mar-13 14:23
+000555.791|boot |*|01|Using TFFS for flash load
+000555.791|boot |*|01|Code length:         0x02A7A000
+000555.792|boot |*|01|Code checksum:       0x65750AB5
+000556.029|app1 |4|01|Loaded application sip.ld from local system successfully.
+000556.029|app1 |6|01|Uploading boot log, time is Sun Mar 23 18:42:05 2014
+
+000556.283|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/logs/0004f281ec90-boot.log' to 'p.voxter.com(74.114.208.40)'
+000607.280|copy |3|01|Upload of 'logs/0004f281ec90-boot.log' FAILED on attempt 1 (addr 1 of 2)
+000607.280|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+000607.280|copy |3|01|Making further upload attempts for 'logs/0004f281ec90-boot.log'
+000607.280|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/logs/0004f281ec90-boot.log' to 'p.voxter.com(74.114.208.41)'
+000607.281|copy |3|01|interIpAddressConfig : IP is not reachable, Nothing to be Cleaned Up
+000618.280|copy |3|01|Upload of 'logs/0004f281ec90-boot.log' FAILED on attempt 1 (addr 2 of 2)
+000618.280|copy |3|01|transport res: 28 respCode 0. transport error: Timeout was reached. transport error buffer: connect() timed out!.
+000618.280|log  |4|01|UtilLogC::uploadFifoLog: upload error. protocol 0 result = 10
+001119.015|app1 |3|01|Timed out launching application.
+000008.596|so   |*|01|---------- Initial log entry ----------
+000008.596|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.596|boot |*|01|Initial log entry. Current logging level 3
+000008.596|copy |*|01|Initial log entry. Current logging level 3
+000008.596|utilm|*|01|Initial log entry. Current logging level 4
+000008.597|hw   |*|01|Initial log entry. Current logging level 4
+000008.597|ethf |*|01|Initial log entry. Current logging level 4
+000008.597|dns  |*|01|Initial log entry. Current logging level 3
+000008.597|curl |*|01|Initial log entry. Current logging level 3
+000008.597|sec  |*|01|Initial log entry. Current logging level 4
+000008.612|wdog |*|01|Initial log entry. Current logging level 4
+000008.612|lldp |*|01|Initial log entry. Current logging level 3
+000008.612|cdp  |*|01|Initial log entry. Current logging level 3
+000008.612|key  |*|01|Initial log entry. Current logging level 4
+000008.641|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.641|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.642|so   |3|01|Platform: MAC=0004f281ec90
+000008.643|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.644|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.644|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.644|so   |3|01|Application, main: P/N=3150-11069-514
+000008.644|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.644|log  |*|01|Install file upload callback for 'Updater'
+
+000008.645|app1 |*|01|Initial log entry. Current logging level 3
+000008.660|cfg  |*|01|Initial log entry. Current logging level 2
+000008.663|dot1x|*|01|Initial log entry. Current logging level 3
+000008.866|tls  |*|01|Initial log entry. Current logging level 4
+000009.611|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000017.963|lldp |3|01|LLDP did not receive a response from a switch. Disabling LLDP.
+000023.934|cdp  |3|01|CDP did not receive a response from a switch. Disabling CDP.
+000023.960|dhcpc|*|01|Initial log entry. Current logging level 4
+000026.730|dns  |*|01|DNS resolver servers are '192.168.88.1' '0.0.0.0'
+000026.731|dns  |*|01|DNS resolver search domain is ''
+000026.731|app1 |3|01|DNS resolver server is '192.168.88.1'
+000026.731|app1 |3|01|DNS resolver search domain is ''
+000026.742|dns  |3|01|DNS lookup for (A) 'p.voxter.com'(216.113.208.81) TTL=174
+000026.743|app1 |3|01|DHCP returned result 0x87 from server 192.168.88.1.
+000026.744|app1 |3|01|   Phone IP address is 192.168.88.249.
+000026.744|app1 |3|01|   Subnet mask is 255.255.255.0.
+000026.744|app1 |3|01|   Gateway address is 192.168.88.1.
+000026.744|app1 |3|01|   DNS server is 192.168.88.1.
+000026.745|dns  |3|01|DNS lookup for (A) 'pool.ntp.org'(216.113.208.81) TTL=28
+000027.683|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90.cfg' from 'p.voxter.com(216.113.208.81)'
+000027.764|copy |3|01|Download of '0004f281ec90.cfg' succeeded on attempt 1 (addr 1 of 1)
+000027.785|cfg  |5|01|Prov|Could not get application name
+000027.788|cfg  |3|01|Prov|Provisioning succeeded
+000027.794|app1 |3|01|Application, load: Type=SIP, Version=4.1.4.7430 20-Mar-13 14:23
+000027.794|cfg  |*|01|Prov|Finished updating configuration
+000027.799|boot |*|01|Using TFFS for flash load
+000027.799|boot |*|01|Code length:         0x02A7A000
+000027.799|boot |*|01|Code checksum:       0x65750AB5
+000028.033|app1 |4|01|Loaded application unknown from local system successfully.
+000028.034|app1 |6|01|Uploading boot log, time is Sun Mar 23 18:42:24 2014
+
+000028.290|copy |3|01|'http://PlcmSpIp:****@p.voxter.com/0004f281ec90-boot.log' to 'p.voxter.com(216.113.208.81)'
+000028.807|copy |3|01|Curl attempted to write at an unexpected time
+000028.809|copy |3|01|Curl attempted to write at an unexpected time
+000028.810|copy |3|01|Curl attempted to write at an unexpected time
+000028.810|copy |3|01|Upload of '0004f281ec90-boot.log' succeeded on attempt 1 (addr 1 of 1)
+000034.940|app1 |4|01|Could not load time from pool.ntp.org (216.113.208.81).
+000100.173|cfg  |3|01|Prov|Shutting down
+000008.670|so   |*|01|---------- Initial log entry ----------
+000008.671|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.671|boot |*|01|Initial log entry. Current logging level 3
+000008.671|copy |*|01|Initial log entry. Current logging level 3
+000008.671|utilm|*|01|Initial log entry. Current logging level 4
+000008.671|hw   |*|01|Initial log entry. Current logging level 4
+000008.671|ethf |*|01|Initial log entry. Current logging level 4
+000008.671|dns  |*|01|Initial log entry. Current logging level 3
+000008.671|curl |*|01|Initial log entry. Current logging level 3
+000008.671|sec  |*|01|Initial log entry. Current logging level 4
+000008.686|wdog |*|01|Initial log entry. Current logging level 4
+000008.687|lldp |*|01|Initial log entry. Current logging level 3
+000008.687|cdp  |*|01|Initial log entry. Current logging level 3
+000008.687|key  |*|01|Initial log entry. Current logging level 4
+000008.711|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.711|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.712|so   |3|01|Platform: MAC=0004f281ec90
+000008.713|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.714|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.714|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.714|so   |3|01|Application, main: P/N=3150-11069-514
+000008.714|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.714|log  |*|01|Install file upload callback for 'Updater'
+
+000008.715|app1 |*|01|Initial log entry. Current logging level 3
+000008.730|cfg  |*|01|Initial log entry. Current logging level 2
+000009.686|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.755|so   |*|01|---------- Initial log entry ----------
+000008.755|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.755|boot |*|01|Initial log entry. Current logging level 3
+000008.755|copy |*|01|Initial log entry. Current logging level 3
+000008.755|utilm|*|01|Initial log entry. Current logging level 4
+000008.755|hw   |*|01|Initial log entry. Current logging level 4
+000008.755|ethf |*|01|Initial log entry. Current logging level 4
+000008.755|dns  |*|01|Initial log entry. Current logging level 3
+000008.755|curl |*|01|Initial log entry. Current logging level 3
+000008.756|sec  |*|01|Initial log entry. Current logging level 4
+000008.770|wdog |*|01|Initial log entry. Current logging level 4
+000008.770|lldp |*|01|Initial log entry. Current logging level 3
+000008.771|cdp  |*|01|Initial log entry. Current logging level 3
+000008.771|key  |*|01|Initial log entry. Current logging level 4
+000008.811|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.811|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.812|so   |3|01|Platform: MAC=0004f281ec90
+000008.813|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.814|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.814|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.814|so   |3|01|Application, main: P/N=3150-11069-514
+000008.814|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.814|log  |*|01|Install file upload callback for 'Updater'
+
+000008.815|app1 |*|01|Initial log entry. Current logging level 3
+000008.830|cfg  |*|01|Initial log entry. Current logging level 2
+000009.769|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.580|so   |*|01|---------- Initial log entry ----------
+000008.580|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.580|boot |*|01|Initial log entry. Current logging level 3
+000008.580|copy |*|01|Initial log entry. Current logging level 3
+000008.580|utilm|*|01|Initial log entry. Current logging level 4
+000008.580|hw   |*|01|Initial log entry. Current logging level 4
+000008.580|ethf |*|01|Initial log entry. Current logging level 4
+000008.581|dns  |*|01|Initial log entry. Current logging level 3
+000008.581|curl |*|01|Initial log entry. Current logging level 3
+000008.581|sec  |*|01|Initial log entry. Current logging level 4
+000008.595|wdog |*|01|Initial log entry. Current logging level 4
+000008.596|lldp |*|01|Initial log entry. Current logging level 3
+000008.596|cdp  |*|01|Initial log entry. Current logging level 3
+000008.596|key  |*|01|Initial log entry. Current logging level 4
+000008.621|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.621|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.622|so   |3|01|Platform: MAC=0004f281ec90
+000008.623|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.624|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.624|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.624|so   |3|01|Application, main: P/N=3150-11069-514
+000008.624|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.624|log  |*|01|Install file upload callback for 'Updater'
+
+000008.625|app1 |*|01|Initial log entry. Current logging level 3
+000008.640|cfg  |*|01|Initial log entry. Current logging level 2
+000009.594|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.679|so   |*|01|---------- Initial log entry ----------
+000008.679|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.680|boot |*|01|Initial log entry. Current logging level 3
+000008.680|copy |*|01|Initial log entry. Current logging level 3
+000008.680|utilm|*|01|Initial log entry. Current logging level 4
+000008.680|hw   |*|01|Initial log entry. Current logging level 4
+000008.680|ethf |*|01|Initial log entry. Current logging level 4
+000008.680|dns  |*|01|Initial log entry. Current logging level 3
+000008.680|curl |*|01|Initial log entry. Current logging level 3
+000008.680|sec  |*|01|Initial log entry. Current logging level 4
+000008.695|wdog |*|01|Initial log entry. Current logging level 4
+000008.695|lldp |*|01|Initial log entry. Current logging level 3
+000008.695|cdp  |*|01|Initial log entry. Current logging level 3
+000008.695|key  |*|01|Initial log entry. Current logging level 4
+000008.721|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.721|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.722|so   |3|01|Platform: MAC=0004f281ec90
+000008.723|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.724|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.724|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.724|so   |3|01|Application, main: P/N=3150-11069-514
+000008.724|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.724|log  |*|01|Install file upload callback for 'Updater'
+
+000008.725|app1 |*|01|Initial log entry. Current logging level 3
+000008.740|cfg  |*|01|Initial log entry. Current logging level 2
+000009.693|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.787|so   |*|01|---------- Initial log entry ----------
+000008.787|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.787|boot |*|01|Initial log entry. Current logging level 3
+000008.787|copy |*|01|Initial log entry. Current logging level 3
+000008.787|utilm|*|01|Initial log entry. Current logging level 4
+000008.787|hw   |*|01|Initial log entry. Current logging level 4
+000008.787|ethf |*|01|Initial log entry. Current logging level 4
+000008.787|dns  |*|01|Initial log entry. Current logging level 3
+000008.787|curl |*|01|Initial log entry. Current logging level 3
+000008.788|sec  |*|01|Initial log entry. Current logging level 4
+000008.802|wdog |*|01|Initial log entry. Current logging level 4
+000008.802|lldp |*|01|Initial log entry. Current logging level 3
+000008.802|cdp  |*|01|Initial log entry. Current logging level 3
+000008.803|key  |*|01|Initial log entry. Current logging level 4
+000008.831|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.831|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.832|so   |3|01|Platform: MAC=0004f281ec90
+000008.833|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.834|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.834|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.834|so   |3|01|Application, main: P/N=3150-11069-514
+000008.834|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.835|log  |*|01|Install file upload callback for 'Updater'
+
+000008.836|app1 |*|01|Initial log entry. Current logging level 3
+000008.850|cfg  |*|01|Initial log entry. Current logging level 2
+000009.801|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.

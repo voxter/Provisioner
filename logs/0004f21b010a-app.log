@@ -1,0 +1,30 @@
+0218231516|res  |4|03|[ResFinderC]: checkTruncate - Failed to open file /rfs0/Mountain.jpg, errno 0x380003.
+0218231516|app1 |4|03|Background processing failed: (Mountain.jpg): (pResult->m_result != ResFinderFound): 2.
+0218231516|log  |4|03|UtilLogC: Upload succeeded. (ConsecutiveFailures 1 Total 1 MsgSendErr 0)
+0218232513|ib   |4|03| Server sent text/html content type. Expected application/xhtml+xml
+0218233513|ib   |4|03| Server sent text/html content type. Expected application/xhtml+xml
+0218234514|ib   |4|03| Server sent text/html content type. Expected application/xhtml+xml
+0218235514|ib   |4|03| Received another text/html content type. Suspending logging this error.
+0219001515|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219011518|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219021521|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219031525|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219041528|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219051531|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219061534|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219071538|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219081541|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219091544|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219101547|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219111551|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219121554|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219131557|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219141600|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219151603|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219161606|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219171609|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219181612|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219191616|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219201619|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219211622|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache
+0219221625|dns  |4|03|doDnsLookupForList: given NULL hostname in task tIdleCache

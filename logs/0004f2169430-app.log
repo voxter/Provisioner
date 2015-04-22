@@ -1,0 +1,5 @@
+1030185443|log  |4|03|UtilLogC: Upload succeeded. (ConsecutiveFailures 1 Total 1 MsgSendErr 0)
+1030185445|cfg  |4|03|Prov|Some configuration files could not be obtained, reverting to previous config
+1030185447|lic  |4|03|cfgCfsKeysUpdateLicenseParse: error parsing reply
+1030185447|lic  |4|03|cfgCfsKeysUpdateLicenseParse: error parsing reply
+1030185447|cfg  |*|03|Prov|Finished updating configuration

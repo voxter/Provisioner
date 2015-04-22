@@ -1,0 +1,334 @@
+000008.745|so   |*|01|---------- Initial log entry ----------
+000008.745|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.746|boot |*|01|Initial log entry. Current logging level 3
+000008.746|copy |*|01|Initial log entry. Current logging level 3
+000008.746|utilm|*|01|Initial log entry. Current logging level 4
+000008.746|hw   |*|01|Initial log entry. Current logging level 4
+000008.746|ethf |*|01|Initial log entry. Current logging level 4
+000008.746|dns  |*|01|Initial log entry. Current logging level 3
+000008.746|curl |*|01|Initial log entry. Current logging level 3
+000008.746|sec  |*|01|Initial log entry. Current logging level 4
+000008.760|wdog |*|01|Initial log entry. Current logging level 4
+000008.760|lldp |*|01|Initial log entry. Current logging level 3
+000008.760|cdp  |*|01|Initial log entry. Current logging level 3
+000008.760|key  |*|01|Initial log entry. Current logging level 4
+000008.791|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.791|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.792|so   |3|01|Platform: MAC=0004f28e781a
+000008.793|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.794|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.794|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.794|so   |3|01|Application, main: P/N=3150-11069-514
+000008.794|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.794|log  |*|01|Install file upload callback for 'Updater'
+
+000008.795|app1 |*|01|Initial log entry. Current logging level 3
+000008.810|cfg  |*|01|Initial log entry. Current logging level 2
+000009.758|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.045|so   |*|00|---------- Initial log entry ----------
+000008.045|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.045|boot |*|00|Initial log entry. Current logging level 3
+000008.046|copy |*|00|Initial log entry. Current logging level 3
+000008.046|utilm|*|00|Initial log entry. Current logging level 4
+000008.046|hw   |*|00|Initial log entry. Current logging level 4
+000008.046|ethf |*|00|Initial log entry. Current logging level 4
+000008.046|dns  |*|00|Initial log entry. Current logging level 3
+000008.046|curl |*|00|Initial log entry. Current logging level 3
+000008.046|sec  |*|00|Initial log entry. Current logging level 4
+000008.059|wdog |*|00|Initial log entry. Current logging level 4
+000008.059|lldp |*|00|Initial log entry. Current logging level 3
+000008.059|cdp  |*|00|Initial log entry. Current logging level 3
+000008.059|key  |*|00|Initial log entry. Current logging level 4
+000008.091|so   |3|00|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.091|so   |3|00|Platform: Board=3111-46135-002 1 0
+000008.092|so   |3|00|Platform: MAC=0004f28e781a
+000008.093|so   |3|00|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.094|so   |*|00|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.094|so   |3|00|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.094|so   |3|00|Application, main: P/N=3150-11069-514
+000008.094|so   |5|00|Platform: Both images are incorrect, will use Primary Image.
+000008.094|log  |*|00|Install file upload callback for 'Updater'
+
+000008.095|app1 |*|00|Initial log entry. Current logging level 3
+000008.110|cfg  |*|00|Initial log entry. Current logging level 2
+000009.055|so   |3|00|Link status is Net up Speed 100 full Duplex, PC down.
+000008.128|so   |*|00|---------- Initial log entry ----------
+000008.128|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.129|boot |*|00|Initial log entry. Current logging level 3
+000008.129|copy |*|00|Initial log entry. Current logging level 3
+000008.129|utilm|*|00|Initial log entry. Current logging level 4
+000008.129|hw   |*|00|Initial log entry. Current logging level 4
+000008.129|ethf |*|00|Initial log entry. Current logging level 4
+000008.129|dns  |*|00|Initial log entry. Current logging level 3
+000008.129|curl |*|00|Initial log entry. Current logging level 3
+000008.129|sec  |*|00|Initial log entry. Current logging level 4
+000008.142|wdog |*|00|Initial log entry. Current logging level 4
+000008.142|lldp |*|00|Initial log entry. Current logging level 3
+000008.143|cdp  |*|00|Initial log entry. Current logging level 3
+000008.143|key  |*|00|Initial log entry. Current logging level 4
+000008.171|so   |3|00|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.171|so   |3|00|Platform: Board=3111-46135-002 1 0
+000008.172|so   |3|00|Platform: MAC=0004f28e781a
+000008.173|so   |3|00|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.174|so   |*|00|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.174|so   |3|00|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.174|so   |3|00|Application, main: P/N=3150-11069-514
+000008.174|so   |5|00|Platform: Both images are incorrect, will use Primary Image.
+000008.174|log  |*|00|Install file upload callback for 'Updater'
+
+000008.175|app1 |*|00|Initial log entry. Current logging level 3
+000008.189|cfg  |*|00|Initial log entry. Current logging level 2
+000009.136|so   |3|00|Link status is Net up Speed 100 full Duplex, PC down.
+000008.022|so   |*|00|---------- Initial log entry ----------
+000008.022|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.022|boot |*|00|Initial log entry. Current logging level 3
+000008.023|copy |*|00|Initial log entry. Current logging level 3
+000008.023|utilm|*|00|Initial log entry. Current logging level 4
+000008.023|hw   |*|00|Initial log entry. Current logging level 4
+000008.023|ethf |*|00|Initial log entry. Current logging level 4
+000008.023|dns  |*|00|Initial log entry. Current logging level 3
+000008.023|curl |*|00|Initial log entry. Current logging level 3
+000008.023|sec  |*|00|Initial log entry. Current logging level 4
+000008.036|wdog |*|00|Initial log entry. Current logging level 4
+000008.036|lldp |*|00|Initial log entry. Current logging level 3
+000008.036|cdp  |*|00|Initial log entry. Current logging level 3
+000008.036|key  |*|00|Initial log entry. Current logging level 4
+000008.061|so   |3|00|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.062|so   |3|00|Platform: Board=3111-46135-002 1 0
+000008.062|so   |3|00|Platform: MAC=0004f28e781a
+000008.063|so   |3|00|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.064|so   |*|00|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.064|so   |3|00|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.064|so   |3|00|Application, main: P/N=3150-11069-514
+000008.064|so   |5|00|Platform: Both images are incorrect, will use Primary Image.
+000008.064|log  |*|00|Install file upload callback for 'Updater'
+
+000008.065|app1 |*|00|Initial log entry. Current logging level 3
+000008.079|cfg  |*|00|Initial log entry. Current logging level 2
+000008.083|dot1x|*|00|Initial log entry. Current logging level 3
+000008.083|app1 |3|00|Starting provisioning because of the start type.
+000008.284|tls  |*|00|Initial log entry. Current logging level 4
+000009.031|so   |3|00|Link status is Net up Speed 100 full Duplex, PC down.
+000014.364|lldp |3|00|LLDP received a response from a switch. LLDP enabled.
+000014.420|dhcpc|*|00|Initial log entry. Current logging level 4
+000018.171|dns  |*|00|DNS resolver servers are '10.75.3.210' '10.75.3.204'
+000018.171|dns  |*|00|DNS resolver search domain is 'van.cdot.ca'
+000018.171|app1 |3|00|DNS resolver servers are '10.75.3.210' '10.75.3.204'
+000018.171|app1 |3|00|DNS resolver search domain is 'van.cdot.ca'
+0422005922|dns  |3|00|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=50543
+0422005922|app1 |3|00|DHCP returned result 0x3E7 from server 10.75.3.210.
+0422005922|app1 |3|00|   Phone IP address is 10.75.1.116.
+0422005922|app1 |3|00|   Subnet mask is 255.255.255.0.
+0422005922|app1 |3|00|   Gateway address is 10.75.1.1.
+0422005922|app1 |3|00|   Time server is 10.75.3.210.
+0422005922|app1 |3|00|   GMT offset is -28800 seconds.
+0422005922|app1 |3|00|   DNS server is 10.75.3.210.
+0422005922|app1 |3|00|   DNS alternate server is 10.75.3.204.
+0422005922|app1 |3|00|   DNS domain is van.cdot.ca.
+0422010024|app1 |3|00|Time has been set from 10.75.3.210 (10.75.3.210).
+0422010024|app1 |3|00|   1429664424: 2015-4-22, 1:0:24, DST off
+0422010024|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/0004f28e781a.cfg' from 'p.voxter.com(74.114.208.245)'
+0422010024|copy |3|00|Download of '0004f28e781a.cfg' succeeded on attempt 1 (addr 1 of 1)
+0422010024|cfg  |*|00|Prov|Starting to update 3111-46135-002.sip.ld
+0422010024|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/3111-46135-002.sip.ld' from 'p.voxter.com(74.114.208.245)'
+0422010024|cfg  |3|00|New load header information:
+0422010024|cfg  |3|00|Code length:         0x027559F0
+0422010024|cfg  |3|00|Code Checksum:       0x38A3BFD9
+0422010024|cfg  |3|00|Options:             0x00000080
+0422010024|cfg  |3|00|Recognized container image
+0422010024|cfg  |3|00|New load header information:
+0422010024|cfg  |3|00|Code length:         0x020760FC
+0422010024|cfg  |3|00|Code Checksum:       0x02B7DAEB
+0422010024|cfg  |3|00|Options:             0x00000002
+0422010024|cfg  |3|00|Application header is different
+0422010024|cfg  |3|00|Application in container image 1 is different
+0422010024|cfg  |3|00|New load header information:
+0422010024|cfg  |3|00|Code length:         0x006DEFE4
+0422010024|cfg  |3|00|Code Checksum:       0x38A32210
+0422010024|cfg  |3|00|Options:             0x00000010
+0422010024|cfg  |3|00|Updater header is different
+0422010024|cfg  |3|00|Updater in container image 2 is different
+0422010024|cfg  |3|00|Using Updater
+0422010117|cfg  |*|00|Prov|Updating the Updater
+0422010117|cfg  |3|00|Using compatible image 0
+0422010128|copy |3|00|Download of '3111-46135-002.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+0422010128|sig  |*|00|Initial log entry. Current logging level 3
+0422010128|sig  |3|00|hwSigParseRemove: found key Sig_3.
+0422010129|cfg  |3|00|Good image signature
+0422010129|cfg  |4|00|Removing application...
+0422010134|cfg  |3|00|Programming Updater from sector 320 to 575
+0422010140|cfg  |3|00|Programming to sector 320 complete
+0422010142|cfg  |*|00|Prov|Image has been changed
+0422010142|cfg  |*|00|Prov|Provisioning needs to reboot to upgrade image(s)
+000008.555|so   |*|00|---------- Initial log entry ----------
+000008.556|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.556|boot |*|00|Initial log entry. Current logging level 3
+000008.556|copy |*|00|Initial log entry. Current logging level 3
+000008.556|utilm|*|00|Initial log entry. Current logging level 4
+000008.556|hw   |*|00|Initial log entry. Current logging level 4
+000008.556|ethf |*|00|Initial log entry. Current logging level 4
+000008.556|dns  |*|00|Initial log entry. Current logging level 3
+000008.556|curl |*|00|Initial log entry. Current logging level 3
+000008.556|sec  |*|00|Initial log entry. Current logging level 4
+000008.804|wdog |*|00|Initial log entry. Current logging level 4
+000008.804|lldp |*|00|Initial log entry. Current logging level 3
+000008.804|cdp  |*|00|Initial log entry. Current logging level 3
+000008.805|key  |*|00|Initial log entry. Current logging level 4
+000008.805|so   |3|00|SoKeyC::keyboardSetup(): Assigning virtual key: hwId 45 soKeyConcordVirtualTab[i].function 53
+000008.831|so   |3|00|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.831|so   |3|00|Platform: Board=3111-46135-002 1 0
+000008.832|so   |3|00|Platform: MAC=0004f28e781a
+000008.833|so   |3|00|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.834|so   |*|00|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.834|so   |3|00|Application, main: Label=Updater, Version=Fayalite 5.5.0.13251 24-Mar-15 02:46
+000008.834|so   |3|00|Application, main: P/N=3150-11069-550
+000008.834|log  |*|00|Install file upload callback for 'Updater'
+
+000008.835|app1 |*|00|Initial log entry. Current logging level 3
+000008.847|cfg  |*|00|Initial log entry. Current logging level 2
+000008.852|dot1x|*|00|Initial log entry. Current logging level 3
+000008.852|app1 |3|00|Starting provisioning because of the start type.
+000009.057|tls  |*|00|Initial log entry. Current logging level 4
+000009.796|so   |3|00|Link status is Net up Speed 100 full Duplex, PC down.
+000015.149|lldp |3|00|LLDP received a response from a switch. LLDP enabled.
+000015.342|dhcpc|*|00|Initial log entry. Current logging level 2
+000015.344|dhcpc|3|00|dhcAddIf v4 succeeds: eth0.
+000015.349|dhcpc|3|00|dhcRebind v4: Will wait until sync rebind completes.
+000015.995|dhcpc|3|00|dhcListener: Read succeeds: state:
+.
+000015.999|dhcpc|3|00|relLease(0) v4: Succeeded to fork dhclient to terminate.
+000016.650|dhcpc|3|00|dhcListener: Read succeeds: eth0 state: PREINIT
+.
+000016.651|dhcpc|4|00|DhcpClient::processLine: no callback for state 1 if eth0
+000017.841|dhcpc|3|00|dhcListener: Read succeeds: eth0 ip: 10.75.1.116
+.
+000017.842|dhcpc|3|00|dhcListener: Read succeeds: eth0 option: subnet-mask 255.255.255.0
+.
+000017.844|dhcpc|3|00|dhcListener: Read succeeds: eth0 option: routers 10.75.1.1
+.
+000017.846|dhcpc|3|00|dhcListener: Read succeeds: eth0 option: domain-name-servers 10.75.3.210 10.75.3.204 10.64.0.200
+.
+000017.847|dhcpc|3|00|dhcListener: Read succeeds: eth0 option: domain-name van.cdot.ca
+.
+000017.848|dhcpc|3|00|dhcListener: Read succeeds: eth0 option: time-offset -28800
+.
+000017.850|dhcpc|3|00|dhcListener: Read succeeds: eth0 option: dhcp-lease-time 691200
+.
+000017.851|dhcpc|3|00|dhcListener: Read succeeds: eth0 option: dhcp-server-identifier 10.75.3.210
+.
+000017.852|dhcpc|3|00|dhcListener: Read succeeds: eth0 option: time-servers 10.75.3.210 10.75.133.67
+.
+000017.857|dhcpc|3|00|dhcListener: Read succeeds: eth0 option: broadcast-address 10.75.1.255
+.
+000017.862|dhcpc|3|00|dhcListener: Read succeeds: eth0 option: dhcp-lease-time 691200
+.
+000017.863|dhcpc|3|00|dhcListener: Read succeeds: eth0 option: dhcp-message-type 5
+.
+000017.865|dhcpc|3|00|dhcListener: Read succeeds: eth0 option: dhcp-renewal-time 345600
+.
+000017.866|dhcpc|3|00|dhcListener: Read succeeds: eth0 option: dhcp_rebinding_time 604800
+.
+000017.900|dhcpc|3|00|dhcListener: Read succeeds: eth0 state: BOUND
+.
+000017.900|dhcpc|4|00|DhcpClient::processLine: no callback for state 2 if eth0
+000017.901|dhcpc|3|00|dhcRebind v4: Sync rebind succeeds.
+000017.901|dhcpc|3|00|Program eth0 to use subnet mask 255.255.255.0, result -1.
+000017.902|dhcpc|3|00|Program eth0 to use ip address 10.75.1.116, result 0.
+000017.902|dhcpc|3|00|Program eth0 to use router 10.75.1.1, result 0.
+000017.919|dhcpc|3|00|getLease v4: Succeeded to fork dhclient for interface eth0.
+000018.911|ares |*|00|Initial log entry. Current logging level 3
+000018.913|dns  |*|00|DNS resolver servers are '10.75.3.210' '10.75.3.204'
+000018.913|dns  |*|00|DNS resolver search domain is 'van.cdot.ca'
+000018.913|app1 |3|00|DNS resolver servers are '10.75.3.210' '10.75.3.204'
+000018.913|app1 |3|00|DNS resolver search domain is 'van.cdot.ca'
+000018.935|app1 |3|00|DHCP returned result 0x3E7 from server 10.75.3.210.
+000018.935|app1 |3|00|   Phone IPv4 address is 10.75.1.116.
+000018.935|app1 |3|00|   Subnet mask is 255.255.255.0.
+000018.935|app1 |3|00|   Gateway address is 10.75.1.1.
+000018.935|app1 |3|00|   Time server is 10.75.3.210.
+000018.935|app1 |3|00|   GMT offset is -28800 seconds.
+000018.935|app1 |3|00|   DNS server is 10.75.3.210
+000018.935|app1 |3|00|   DNS alternate server is 10.75.3.204.
+000018.935|app1 |3|00|   DNS domain is van.cdot.ca.
+0422010217|app1 |3|00|Time has been set from 10.75.3.210 (10.75.3.210).
+0422010217|app1 |3|00|   1429664537: 2015-4-22, 1:2:17, DST off
+0422010217|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/0004f28e781a.cfg' from 'p.voxter.com(74.114.208.245)'
+0422010217|copy |3|00|Download of '0004f28e781a.cfg' succeeded on attempt 1 (addr 1 of 1)
+0422010217|cfg  |*|00|Prov|Starting to update 3111-46135-002.sip.ld
+0422010217|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/3111-46135-002.sip.ld' from 'p.voxter.com(74.114.208.245)'
+0422010217|cfg  |3|00|New load header information:
+0422010217|cfg  |3|00|Code length:         0x027559F0
+0422010217|cfg  |3|00|Code Checksum:       0x38A3BFD9
+0422010217|cfg  |3|00|Options:             0x00000080
+0422010217|cfg  |3|00|Recognized container image
+0422010217|cfg  |3|00|New load header information:
+0422010217|cfg  |3|00|Code length:         0x020760FC
+0422010217|cfg  |3|00|Code Checksum:       0x02B7DAEB
+0422010217|cfg  |3|00|Options:             0x00000002
+0422010217|cfg  |3|00|Could not open application file for checking
+0422010217|cfg  |3|00|Application in container image 1 is different
+0422010217|cfg  |3|00|New load header information:
+0422010217|cfg  |3|00|Code length:         0x006DEFE4
+0422010217|cfg  |3|00|Code Checksum:       0x38A32210
+0422010217|cfg  |3|00|Options:             0x00000010
+0422010217|cfg  |3|00|Updater is already present
+0422010217|cfg  |3|00|Updater in container image 2 is not different
+0422010217|cfg  |3|00|Using application
+0422010217|cfg  |*|00|Prov|Updating the Application
+0422010217|cfg  |3|00|Using compatible image 0
+0422010309|copy |3|00|buffered_write: transfer terminated
+0422010309|copy |3|00|Download of '3111-46135-002.sip.ld' succeeded on attempt 1 (addr 1 of 1)
+0422010310|sig  |*|00|Initial log entry. Current logging level 3
+0422010310|sig  |3|00|hwSigParseRemove: found key Sig_3.
+0422010313|cfg  |3|00|Good image signature
+0422010314|cfg  |3|00|Programming 34038588 bytes into tffs in 4K blocks
+0422010317|cfg  |3|00|Extracting application files
+0422010317|cfg  |3|00|New load header information:
+0422010317|cfg  |3|00|Code length:         0x020760FC
+0422010317|cfg  |3|00|Code Checksum:       0x02B7DAEB
+0422010317|cfg  |3|00|Options:             0x00000002
+0422010544|cfg  |3|00|Finished extracting application files (OK)
+0422010549|cfg  |3|00|File system is synchronized
+0422010549|cfg  |*|00|Prov|Succeeded updating file 3111-46135-002.sip.ld
+0422010549|cfg  |*|00|Prov|Image has been changed
+0422010549|cfg  |3|00|Prov|Provisioning succeeded
+0422010549|app1 |3|00|Application, load: Type=SIP, Version=5.3.0.12074 24-Mar-15 03:06
+0422010549|cfg  |*|00|Prov|Finished updating configuration
+0422010549|boot |*|00|Using TFFS for flash load
+0422010549|boot |*|00|Code length:         0x020760FC
+0422010549|boot |*|00|Code checksum:       0x02B7DAEB
+0422010549|app1 |4|00|Loaded application sip.ld from local system successfully.
+0422010549|app1 |6|00|Uploading boot log, time is Wed Apr 22 01:05:50 2015
+
+0422010550|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/logs/0004f28e781a-boot.log' to 'p.voxter.com(74.114.208.245)'
+0422010550|copy |3|00|Upload of 'logs/0004f28e781a-boot.log' succeeded on attempt 1 (addr 1 of 1)
+0422010550|dhcpc|3|00|relLease(0) v4: Succeeded to fork dhclient to terminate.
+0422010603|cfg  |3|00|Prov|Shutting down
+000008.412|so   |*|00|---------- Initial log entry ----------
+000008.412|so   |*|00|+++ Note that Updater log times are in GMT +++
+000008.413|boot |*|00|Initial log entry. Current logging level 3
+000008.413|copy |*|00|Initial log entry. Current logging level 3
+000008.413|utilm|*|00|Initial log entry. Current logging level 4
+000008.413|hw   |*|00|Initial log entry. Current logging level 4
+000008.413|ethf |*|00|Initial log entry. Current logging level 4
+000008.413|dns  |*|00|Initial log entry. Current logging level 3
+000008.413|curl |*|00|Initial log entry. Current logging level 3
+000008.413|sec  |*|00|Initial log entry. Current logging level 4
+000008.427|wdog |*|00|Initial log entry. Current logging level 4
+000008.427|lldp |*|00|Initial log entry. Current logging level 3
+000008.427|cdp  |*|00|Initial log entry. Current logging level 3
+000008.427|key  |*|00|Initial log entry. Current logging level 4
+000008.427|so   |3|00|SoKeyC::keyboardSetup(): Assigning virtual key: hwId 45 soKeyConcordVirtualTab[i].function 53
+000008.451|so   |3|00|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.451|so   |3|00|Platform: Board=3111-46135-002 1 0
+000008.452|so   |3|00|Platform: MAC=0004f28e781a
+000008.453|so   |3|00|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.454|so   |*|00|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.454|so   |3|00|Application, main: Label=Updater, Version=Fayalite 5.5.0.13251 24-Mar-15 02:46
+000008.454|so   |3|00|Application, main: P/N=3150-11069-550
+000008.454|log  |*|00|Install file upload callback for 'Updater'
+
+000008.455|app1 |*|00|Initial log entry. Current logging level 3
+000008.468|cfg  |*|00|Initial log entry. Current logging level 2
+000008.481|app1 |3|00|Application, load: Type=SIP, Version=5.3.0.12074 24-Mar-15 03:06
+000009.418|so   |3|00|Link status is Net up Speed 100 full Duplex, PC down.

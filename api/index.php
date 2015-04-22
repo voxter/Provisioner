@@ -9,9 +9,9 @@
  * @version 5.0
  */
 
-define('DB_SERVER', 'http://10.10.2.232');
+define('DB_SERVER', 'http://couchadmin:sp4r3ch4ng3@localhost');
 define('DB_PORT', '15984');
-define('DB_PREFIX', '');
+define('DB_PREFIX', 'provisioner_');
 
 // CORS
 header('Access-Control-Allow-Headers:Content-Type, Depth, User-Agent, X-File-Size, X-Requested-With, If-Modified-Since, X-File-Name, Cache-Control, X-Auth-Token');

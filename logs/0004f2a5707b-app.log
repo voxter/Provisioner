@@ -1,0 +1,10 @@
+1102222634|so   |4|00|SoAudioChannelC::initCodec: voice.handset.sidetone.adjust.IP_330 not found, using 0
+1102222634|so   |4|00|SoAudioChannelC::initCodec: voice.headset.sidetone.adjust.IP_330 not found, using -3
+1102222635|so   |4|00|[SoNcasC]: Application Processing Stopped
+1102222635|sip  |4|00|SipShutdownStack state 'Shutdown Inprogress'
+1102222635|sip  |4|00|OnEvSipStackIsShutdown
+1102222635|pps  |4|00|[PpsHybridC]: OnEvSipStackIsShutdown
+1102222635|so   |4|00|[SoNcasC]: pps2NcasStackIsShutdown SIP
+1102222635|so   |4|00|[SoNcasC]: Stack Shutdown complete
+1102222635|sip  |4|00|SipOnTimer500ms: reg 0 and subscr 0 EventSchedule 0 state 'Shutdown Complete'
+1102222635|wdog |*|00|Watchdog Expired: tSupObjs

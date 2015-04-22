@@ -1,0 +1,659 @@
+000008.680|so   |*|01|---------- Initial log entry ----------
+000008.680|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.680|boot |*|01|Initial log entry. Current logging level 3
+000008.681|copy |*|01|Initial log entry. Current logging level 3
+000008.681|utilm|*|01|Initial log entry. Current logging level 4
+000008.681|hw   |*|01|Initial log entry. Current logging level 4
+000008.681|ethf |*|01|Initial log entry. Current logging level 4
+000008.681|dns  |*|01|Initial log entry. Current logging level 3
+000008.681|curl |*|01|Initial log entry. Current logging level 3
+000008.681|sec  |*|01|Initial log entry. Current logging level 4
+000008.694|wdog |*|01|Initial log entry. Current logging level 4
+000008.695|lldp |*|01|Initial log entry. Current logging level 3
+000008.695|cdp  |*|01|Initial log entry. Current logging level 3
+000008.695|key  |*|01|Initial log entry. Current logging level 4
+000008.722|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.722|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.722|so   |3|01|Platform: MAC=0004f281ee77
+000008.723|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.724|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.724|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.724|so   |3|01|Application, main: P/N=3150-11069-514
+000008.724|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.725|log  |*|01|Install file upload callback for 'Updater'
+
+000008.726|app1 |*|01|Initial log entry. Current logging level 3
+000008.740|cfg  |*|01|Initial log entry. Current logging level 2
+000009.693|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.698|so   |*|01|---------- Initial log entry ----------
+000008.699|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.699|boot |*|01|Initial log entry. Current logging level 3
+000008.699|copy |*|01|Initial log entry. Current logging level 3
+000008.699|utilm|*|01|Initial log entry. Current logging level 4
+000008.699|hw   |*|01|Initial log entry. Current logging level 4
+000008.699|ethf |*|01|Initial log entry. Current logging level 4
+000008.699|dns  |*|01|Initial log entry. Current logging level 3
+000008.699|curl |*|01|Initial log entry. Current logging level 3
+000008.700|sec  |*|01|Initial log entry. Current logging level 4
+000008.713|wdog |*|01|Initial log entry. Current logging level 4
+000008.714|lldp |*|01|Initial log entry. Current logging level 3
+000008.714|cdp  |*|01|Initial log entry. Current logging level 3
+000008.714|key  |*|01|Initial log entry. Current logging level 4
+000008.741|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.741|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.742|so   |3|01|Platform: MAC=0004f281ee77
+000008.743|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.744|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.744|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.744|so   |3|01|Application, main: P/N=3150-11069-514
+000008.744|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.744|log  |*|01|Install file upload callback for 'Updater'
+
+000008.745|app1 |*|01|Initial log entry. Current logging level 3
+000008.760|cfg  |*|01|Initial log entry. Current logging level 2
+000009.704|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.709|so   |*|01|---------- Initial log entry ----------
+000008.710|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.710|boot |*|01|Initial log entry. Current logging level 3
+000008.710|copy |*|01|Initial log entry. Current logging level 3
+000008.710|utilm|*|01|Initial log entry. Current logging level 4
+000008.710|hw   |*|01|Initial log entry. Current logging level 4
+000008.710|ethf |*|01|Initial log entry. Current logging level 4
+000008.710|dns  |*|01|Initial log entry. Current logging level 3
+000008.710|curl |*|01|Initial log entry. Current logging level 3
+000008.710|sec  |*|01|Initial log entry. Current logging level 4
+000008.725|wdog |*|01|Initial log entry. Current logging level 4
+000008.725|lldp |*|01|Initial log entry. Current logging level 3
+000008.725|cdp  |*|01|Initial log entry. Current logging level 3
+000008.725|key  |*|01|Initial log entry. Current logging level 4
+000008.751|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.751|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.752|so   |3|01|Platform: MAC=0004f281ee77
+000008.753|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.754|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.754|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.754|so   |3|01|Application, main: P/N=3150-11069-514
+000008.754|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.754|log  |*|01|Install file upload callback for 'Updater'
+
+000008.755|app1 |*|01|Initial log entry. Current logging level 3
+000008.770|cfg  |*|01|Initial log entry. Current logging level 2
+000008.729|so   |*|01|---------- Initial log entry ----------
+000008.729|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.729|boot |*|01|Initial log entry. Current logging level 3
+000008.729|copy |*|01|Initial log entry. Current logging level 3
+000008.729|utilm|*|01|Initial log entry. Current logging level 4
+000008.729|hw   |*|01|Initial log entry. Current logging level 4
+000008.729|ethf |*|01|Initial log entry. Current logging level 4
+000008.730|dns  |*|01|Initial log entry. Current logging level 3
+000008.730|curl |*|01|Initial log entry. Current logging level 3
+000008.730|sec  |*|01|Initial log entry. Current logging level 4
+000008.744|wdog |*|01|Initial log entry. Current logging level 4
+000008.744|lldp |*|01|Initial log entry. Current logging level 3
+000008.744|cdp  |*|01|Initial log entry. Current logging level 3
+000008.744|key  |*|01|Initial log entry. Current logging level 4
+000008.771|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.771|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.772|so   |3|01|Platform: MAC=0004f281ee77
+000008.773|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.774|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.774|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.774|so   |3|01|Application, main: P/N=3150-11069-514
+000008.774|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.774|log  |*|01|Install file upload callback for 'Updater'
+
+000008.775|app1 |*|01|Initial log entry. Current logging level 3
+000008.790|cfg  |*|01|Initial log entry. Current logging level 2
+000009.734|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.738|so   |*|01|---------- Initial log entry ----------
+000008.738|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.738|boot |*|01|Initial log entry. Current logging level 3
+000008.739|copy |*|01|Initial log entry. Current logging level 3
+000008.739|utilm|*|01|Initial log entry. Current logging level 4
+000008.739|hw   |*|01|Initial log entry. Current logging level 4
+000008.739|ethf |*|01|Initial log entry. Current logging level 4
+000008.739|dns  |*|01|Initial log entry. Current logging level 3
+000008.739|curl |*|01|Initial log entry. Current logging level 3
+000008.739|sec  |*|01|Initial log entry. Current logging level 4
+000008.753|wdog |*|01|Initial log entry. Current logging level 4
+000008.754|lldp |*|01|Initial log entry. Current logging level 3
+000008.754|cdp  |*|01|Initial log entry. Current logging level 3
+000008.754|key  |*|01|Initial log entry. Current logging level 4
+000008.781|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.781|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.782|so   |3|01|Platform: MAC=0004f281ee77
+000008.783|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.784|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.784|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.784|so   |3|01|Application, main: P/N=3150-11069-514
+000008.784|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.784|log  |*|01|Install file upload callback for 'Updater'
+
+000008.786|app1 |*|01|Initial log entry. Current logging level 3
+000008.800|cfg  |*|01|Initial log entry. Current logging level 2
+000009.744|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.741|so   |*|01|---------- Initial log entry ----------
+000008.741|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.741|boot |*|01|Initial log entry. Current logging level 3
+000008.741|copy |*|01|Initial log entry. Current logging level 3
+000008.742|utilm|*|01|Initial log entry. Current logging level 4
+000008.742|hw   |*|01|Initial log entry. Current logging level 4
+000008.742|ethf |*|01|Initial log entry. Current logging level 4
+000008.742|dns  |*|01|Initial log entry. Current logging level 3
+000008.742|curl |*|01|Initial log entry. Current logging level 3
+000008.742|sec  |*|01|Initial log entry. Current logging level 4
+000008.756|wdog |*|01|Initial log entry. Current logging level 4
+000008.756|lldp |*|01|Initial log entry. Current logging level 3
+000008.756|cdp  |*|01|Initial log entry. Current logging level 3
+000008.756|key  |*|01|Initial log entry. Current logging level 4
+000008.781|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.781|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.782|so   |3|01|Platform: MAC=0004f281ee77
+000008.783|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.784|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.784|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.784|so   |3|01|Application, main: P/N=3150-11069-514
+000008.784|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.784|log  |*|01|Install file upload callback for 'Updater'
+
+000008.785|app1 |*|01|Initial log entry. Current logging level 3
+000008.800|cfg  |*|01|Initial log entry. Current logging level 2
+000009.746|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.646|so   |*|01|---------- Initial log entry ----------
+000008.646|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.646|boot |*|01|Initial log entry. Current logging level 3
+000008.646|copy |*|01|Initial log entry. Current logging level 3
+000008.646|utilm|*|01|Initial log entry. Current logging level 4
+000008.647|hw   |*|01|Initial log entry. Current logging level 4
+000008.647|ethf |*|01|Initial log entry. Current logging level 4
+000008.647|dns  |*|01|Initial log entry. Current logging level 3
+000008.647|curl |*|01|Initial log entry. Current logging level 3
+000008.647|sec  |*|01|Initial log entry. Current logging level 4
+000008.661|wdog |*|01|Initial log entry. Current logging level 4
+000008.661|lldp |*|01|Initial log entry. Current logging level 3
+000008.662|cdp  |*|01|Initial log entry. Current logging level 3
+000008.662|key  |*|01|Initial log entry. Current logging level 4
+000008.691|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.692|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.692|so   |3|01|Platform: MAC=0004f281ee77
+000008.693|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.694|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.694|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.694|so   |3|01|Application, main: P/N=3150-11069-514
+000008.694|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.694|log  |*|01|Install file upload callback for 'Updater'
+
+000008.696|app1 |*|01|Initial log entry. Current logging level 3
+000008.710|cfg  |*|01|Initial log entry. Current logging level 2
+000009.652|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.671|so   |*|01|---------- Initial log entry ----------
+000008.671|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.671|boot |*|01|Initial log entry. Current logging level 3
+000008.671|copy |*|01|Initial log entry. Current logging level 3
+000008.672|utilm|*|01|Initial log entry. Current logging level 4
+000008.672|hw   |*|01|Initial log entry. Current logging level 4
+000008.672|ethf |*|01|Initial log entry. Current logging level 4
+000008.672|dns  |*|01|Initial log entry. Current logging level 3
+000008.672|curl |*|01|Initial log entry. Current logging level 3
+000008.672|sec  |*|01|Initial log entry. Current logging level 4
+000008.686|wdog |*|01|Initial log entry. Current logging level 4
+000008.686|lldp |*|01|Initial log entry. Current logging level 3
+000008.686|cdp  |*|01|Initial log entry. Current logging level 3
+000008.687|key  |*|01|Initial log entry. Current logging level 4
+000008.711|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.711|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.712|so   |3|01|Platform: MAC=0004f281ee77
+000008.713|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.714|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.714|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.714|so   |3|01|Application, main: P/N=3150-11069-514
+000008.714|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.714|log  |*|01|Install file upload callback for 'Updater'
+
+000008.716|app1 |*|01|Initial log entry. Current logging level 3
+000008.730|cfg  |*|01|Initial log entry. Current logging level 2
+000009.676|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.693|so   |*|01|---------- Initial log entry ----------
+000008.693|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.694|boot |*|01|Initial log entry. Current logging level 3
+000008.694|copy |*|01|Initial log entry. Current logging level 3
+000008.694|utilm|*|01|Initial log entry. Current logging level 4
+000008.694|hw   |*|01|Initial log entry. Current logging level 4
+000008.694|ethf |*|01|Initial log entry. Current logging level 4
+000008.694|dns  |*|01|Initial log entry. Current logging level 3
+000008.694|curl |*|01|Initial log entry. Current logging level 3
+000008.694|sec  |*|01|Initial log entry. Current logging level 4
+000008.708|wdog |*|01|Initial log entry. Current logging level 4
+000008.709|lldp |*|01|Initial log entry. Current logging level 3
+000008.709|cdp  |*|01|Initial log entry. Current logging level 3
+000008.709|key  |*|01|Initial log entry. Current logging level 4
+000008.731|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.731|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.732|so   |3|01|Platform: MAC=0004f281ee77
+000008.733|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.734|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.734|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.734|so   |3|01|Application, main: P/N=3150-11069-514
+000008.734|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.734|log  |*|01|Install file upload callback for 'Updater'
+
+000008.735|app1 |*|01|Initial log entry. Current logging level 3
+000008.750|cfg  |*|01|Initial log entry. Current logging level 2
+000009.698|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.680|so   |*|01|---------- Initial log entry ----------
+000008.680|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.681|boot |*|01|Initial log entry. Current logging level 3
+000008.681|copy |*|01|Initial log entry. Current logging level 3
+000008.681|utilm|*|01|Initial log entry. Current logging level 4
+000008.681|hw   |*|01|Initial log entry. Current logging level 4
+000008.681|ethf |*|01|Initial log entry. Current logging level 4
+000008.681|dns  |*|01|Initial log entry. Current logging level 3
+000008.681|curl |*|01|Initial log entry. Current logging level 3
+000008.681|sec  |*|01|Initial log entry. Current logging level 4
+000008.695|wdog |*|01|Initial log entry. Current logging level 4
+000008.696|lldp |*|01|Initial log entry. Current logging level 3
+000008.696|cdp  |*|01|Initial log entry. Current logging level 3
+000008.696|key  |*|01|Initial log entry. Current logging level 4
+000008.721|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.721|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.722|so   |3|01|Platform: MAC=0004f281ee77
+000008.723|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.724|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.724|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.724|so   |3|01|Application, main: P/N=3150-11069-514
+000008.724|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.724|log  |*|01|Install file upload callback for 'Updater'
+
+000008.725|app1 |*|01|Initial log entry. Current logging level 3
+000008.740|cfg  |*|01|Initial log entry. Current logging level 2
+000009.686|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.729|so   |*|01|---------- Initial log entry ----------
+000008.729|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.729|boot |*|01|Initial log entry. Current logging level 3
+000008.729|copy |*|01|Initial log entry. Current logging level 3
+000008.729|utilm|*|01|Initial log entry. Current logging level 4
+000008.729|hw   |*|01|Initial log entry. Current logging level 4
+000008.729|ethf |*|01|Initial log entry. Current logging level 4
+000008.729|dns  |*|01|Initial log entry. Current logging level 3
+000008.730|curl |*|01|Initial log entry. Current logging level 3
+000008.730|sec  |*|01|Initial log entry. Current logging level 4
+000008.744|wdog |*|01|Initial log entry. Current logging level 4
+000008.744|lldp |*|01|Initial log entry. Current logging level 3
+000008.745|cdp  |*|01|Initial log entry. Current logging level 3
+000008.745|key  |*|01|Initial log entry. Current logging level 4
+000008.771|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.771|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.772|so   |3|01|Platform: MAC=0004f281ee77
+000008.773|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.774|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.774|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.774|so   |3|01|Application, main: P/N=3150-11069-514
+000008.774|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.774|log  |*|01|Install file upload callback for 'Updater'
+
+000008.775|app1 |*|01|Initial log entry. Current logging level 3
+000008.790|cfg  |*|01|Initial log entry. Current logging level 2
+000009.734|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.730|so   |*|01|---------- Initial log entry ----------
+000008.730|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.730|boot |*|01|Initial log entry. Current logging level 3
+000008.730|copy |*|01|Initial log entry. Current logging level 3
+000008.730|utilm|*|01|Initial log entry. Current logging level 4
+000008.730|hw   |*|01|Initial log entry. Current logging level 4
+000008.730|ethf |*|01|Initial log entry. Current logging level 4
+000008.730|dns  |*|01|Initial log entry. Current logging level 3
+000008.731|curl |*|01|Initial log entry. Current logging level 3
+000008.731|sec  |*|01|Initial log entry. Current logging level 4
+000008.745|wdog |*|01|Initial log entry. Current logging level 4
+000008.746|lldp |*|01|Initial log entry. Current logging level 3
+000008.746|cdp  |*|01|Initial log entry. Current logging level 3
+000008.746|key  |*|01|Initial log entry. Current logging level 4
+000008.771|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.771|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.772|so   |3|01|Platform: MAC=0004f281ee77
+000008.773|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.774|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.774|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.774|so   |3|01|Application, main: P/N=3150-11069-514
+000008.774|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.774|log  |*|01|Install file upload callback for 'Updater'
+
+000008.775|app1 |*|01|Initial log entry. Current logging level 3
+000008.790|cfg  |*|01|Initial log entry. Current logging level 2
+000009.735|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.640|so   |*|01|---------- Initial log entry ----------
+000008.640|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.640|boot |*|01|Initial log entry. Current logging level 3
+000008.640|copy |*|01|Initial log entry. Current logging level 3
+000008.640|utilm|*|01|Initial log entry. Current logging level 4
+000008.640|hw   |*|01|Initial log entry. Current logging level 4
+000008.640|ethf |*|01|Initial log entry. Current logging level 4
+000008.641|dns  |*|01|Initial log entry. Current logging level 3
+000008.641|curl |*|01|Initial log entry. Current logging level 3
+000008.641|sec  |*|01|Initial log entry. Current logging level 4
+000008.655|wdog |*|01|Initial log entry. Current logging level 4
+000008.656|lldp |*|01|Initial log entry. Current logging level 3
+000008.656|cdp  |*|01|Initial log entry. Current logging level 3
+000008.656|key  |*|01|Initial log entry. Current logging level 4
+000008.681|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.681|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.682|so   |3|01|Platform: MAC=0004f281ee77
+000008.683|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.684|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.684|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.684|so   |3|01|Application, main: P/N=3150-11069-514
+000008.684|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.684|log  |*|01|Install file upload callback for 'Updater'
+
+000008.685|app1 |*|01|Initial log entry. Current logging level 3
+000008.700|cfg  |*|01|Initial log entry. Current logging level 2
+000008.703|dot1x|*|01|Initial log entry. Current logging level 3
+000008.909|tls  |*|01|Initial log entry. Current logging level 4
+000009.645|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000018.003|lldp |3|01|LLDP did not receive a response from a switch. Disabling LLDP.
+000022.966|cdp  |3|01|CDP received a response from a switch. CDP enabled.
+000022.990|dhcpc|*|01|Initial log entry. Current logging level 4
+000053.871|dns  |*|01|DNS resolver servers are '192.168.88.1' '0.0.0.0'
+000053.871|dns  |*|01|DNS resolver search domain is ''
+000053.871|app1 |3|01|DNS resolver server is '192.168.88.1'
+000053.871|app1 |3|01|DNS resolver search domain is ''
+000053.871|app1 |5|01|Could not get an address(Boot Server) for .
+000053.873|app1 |3|01|DHCP returned result 0x87 from server 192.168.88.1.
+000053.873|app1 |3|01|   Phone IP address is 192.168.88.253.
+000053.873|app1 |3|01|   Subnet mask is 255.255.255.0.
+000053.873|app1 |3|01|   Gateway address is 192.168.88.1.
+000053.873|app1 |3|01|   DNS server is 192.168.88.1.
+000053.903|dns  |3|01|DNS lookup for (A) 'pool.ntp.org'(75.157.237.26,208.80.96.96,67.212.94.227) TTL=34
+1210100315|app1 |3|01|Time has been set from pool.ntp.org (75.157.237.26).
+1210100315|app1 |3|01|   1386669795: 2013-12-10, 10:3:15, DST off
+1210100315|copy |3|01|No default host to fetch files from
+1210100315|copy |4|01|Configuration of URL failed
+1210100315|copy |3|01|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+1210100315|copy |3|01|No default host to fetch files from
+1210100315|copy |4|01|Configuration of URL failed
+1210100315|copy |3|01|Update of '/ffs0/newinit.mac' failed, leaving local copy intact
+1210100315|cfg  |4|01|Prov|Download of master configuration file failed
+1210100315|cfg  |4|01|Prov|Trying to boot from existing configuration
+1210100315|cfg  |3|01|Prov|Provisioning succeeded
+1210100315|cfg  |*|01|Prov|Finished updating configuration
+1210100320|app1 |3|01|Application, load: Type=SIP, Version=4.1.4.7430 20-Mar-13 14:23
+1210100320|boot |*|01|Using TFFS for flash load
+1210100320|boot |*|01|Code length:         0x02A7A000
+1210100320|boot |*|01|Code checksum:       0x65750AB5
+1210100320|app1 |4|01|Loaded application sip.ld from local system successfully.
+1210100320|app1 |6|01|Uploading boot log, time is Tue Dec 10 10:03:21 2013
+
+1210100320|copy |3|01|No default host to fetch files from
+1210100320|copy |4|01|Configuration of URL failed
+1210100320|log  |4|01|UtilLogC::uploadFifoLog: upload error. protocol 0 result = 8
+1210100410|cfg  |3|01|Prov|Shutting down
+000009.254|so   |*|01|---------- Initial log entry ----------
+000009.254|so   |*|01|+++ Note that Updater log times are in GMT +++
+000009.255|boot |*|01|Initial log entry. Current logging level 3
+000009.255|copy |*|01|Initial log entry. Current logging level 3
+000009.255|utilm|*|01|Initial log entry. Current logging level 4
+000009.255|hw   |*|01|Initial log entry. Current logging level 4
+000009.255|ethf |*|01|Initial log entry. Current logging level 4
+000009.255|dns  |*|01|Initial log entry. Current logging level 3
+000009.255|curl |*|01|Initial log entry. Current logging level 3
+000009.255|sec  |*|01|Initial log entry. Current logging level 4
+000009.270|wdog |*|01|Initial log entry. Current logging level 4
+000009.270|lldp |*|01|Initial log entry. Current logging level 3
+000009.270|cdp  |*|01|Initial log entry. Current logging level 3
+000009.270|key  |*|01|Initial log entry. Current logging level 4
+000009.311|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000009.311|so   |3|01|Platform: Board=3111-46135-002 1 0
+000009.312|so   |3|01|Platform: MAC=0004f281ee77
+000009.313|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000009.314|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000009.314|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000009.314|so   |3|01|Application, main: P/N=3150-11069-514
+000009.314|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000009.314|log  |*|01|Install file upload callback for 'Updater'
+
+000009.315|app1 |*|01|Initial log entry. Current logging level 3
+000009.330|cfg  |*|01|Initial log entry. Current logging level 2
+000010.269|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.735|so   |*|01|---------- Initial log entry ----------
+000008.735|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.735|boot |*|01|Initial log entry. Current logging level 3
+000008.735|copy |*|01|Initial log entry. Current logging level 3
+000008.736|utilm|*|01|Initial log entry. Current logging level 4
+000008.736|hw   |*|01|Initial log entry. Current logging level 4
+000008.736|ethf |*|01|Initial log entry. Current logging level 4
+000008.736|dns  |*|01|Initial log entry. Current logging level 3
+000008.736|curl |*|01|Initial log entry. Current logging level 3
+000008.736|sec  |*|01|Initial log entry. Current logging level 4
+000008.751|wdog |*|01|Initial log entry. Current logging level 4
+000008.751|lldp |*|01|Initial log entry. Current logging level 3
+000008.751|cdp  |*|01|Initial log entry. Current logging level 3
+000008.751|key  |*|01|Initial log entry. Current logging level 4
+000008.781|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.781|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.782|so   |3|01|Platform: MAC=0004f281ee77
+000008.783|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.784|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.784|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.784|so   |3|01|Application, main: P/N=3150-11069-514
+000008.784|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.784|log  |*|01|Install file upload callback for 'Updater'
+
+000008.785|app1 |*|01|Initial log entry. Current logging level 3
+000008.800|cfg  |*|01|Initial log entry. Current logging level 2
+000009.741|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.687|so   |*|01|---------- Initial log entry ----------
+000008.687|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.687|boot |*|01|Initial log entry. Current logging level 3
+000008.687|copy |*|01|Initial log entry. Current logging level 3
+000008.687|utilm|*|01|Initial log entry. Current logging level 4
+000008.687|hw   |*|01|Initial log entry. Current logging level 4
+000008.687|ethf |*|01|Initial log entry. Current logging level 4
+000008.687|dns  |*|01|Initial log entry. Current logging level 3
+000008.687|curl |*|01|Initial log entry. Current logging level 3
+000008.688|sec  |*|01|Initial log entry. Current logging level 4
+000008.702|wdog |*|01|Initial log entry. Current logging level 4
+000008.702|lldp |*|01|Initial log entry. Current logging level 3
+000008.703|cdp  |*|01|Initial log entry. Current logging level 3
+000008.703|key  |*|01|Initial log entry. Current logging level 4
+000008.732|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.732|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.732|so   |3|01|Platform: MAC=0004f281ee77
+000008.733|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.734|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.734|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.734|so   |3|01|Application, main: P/N=3150-11069-514
+000008.734|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.734|log  |*|01|Install file upload callback for 'Updater'
+
+000008.736|app1 |*|01|Initial log entry. Current logging level 3
+000008.750|cfg  |*|01|Initial log entry. Current logging level 2
+000009.692|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.641|so   |*|01|---------- Initial log entry ----------
+000008.641|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.641|boot |*|01|Initial log entry. Current logging level 3
+000008.641|copy |*|01|Initial log entry. Current logging level 3
+000008.641|utilm|*|01|Initial log entry. Current logging level 4
+000008.641|hw   |*|01|Initial log entry. Current logging level 4
+000008.641|ethf |*|01|Initial log entry. Current logging level 4
+000008.641|dns  |*|01|Initial log entry. Current logging level 3
+000008.641|curl |*|01|Initial log entry. Current logging level 3
+000008.642|sec  |*|01|Initial log entry. Current logging level 4
+000008.656|wdog |*|01|Initial log entry. Current logging level 4
+000008.656|lldp |*|01|Initial log entry. Current logging level 3
+000008.656|cdp  |*|01|Initial log entry. Current logging level 3
+000008.657|key  |*|01|Initial log entry. Current logging level 4
+000008.681|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.681|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.682|so   |3|01|Platform: MAC=0004f281ee77
+000008.683|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.684|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.684|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.684|so   |3|01|Application, main: P/N=3150-11069-514
+000008.684|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.684|log  |*|01|Install file upload callback for 'Updater'
+
+000008.685|app1 |*|01|Initial log entry. Current logging level 3
+000008.700|cfg  |*|01|Initial log entry. Current logging level 2
+000009.646|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.772|so   |*|01|---------- Initial log entry ----------
+000008.772|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.772|boot |*|01|Initial log entry. Current logging level 3
+000008.773|copy |*|01|Initial log entry. Current logging level 3
+000008.773|utilm|*|01|Initial log entry. Current logging level 4
+000008.773|hw   |*|01|Initial log entry. Current logging level 4
+000008.773|ethf |*|01|Initial log entry. Current logging level 4
+000008.773|dns  |*|01|Initial log entry. Current logging level 3
+000008.773|curl |*|01|Initial log entry. Current logging level 3
+000008.773|sec  |*|01|Initial log entry. Current logging level 4
+000008.788|wdog |*|01|Initial log entry. Current logging level 4
+000008.788|lldp |*|01|Initial log entry. Current logging level 3
+000008.788|cdp  |*|01|Initial log entry. Current logging level 3
+000008.788|key  |*|01|Initial log entry. Current logging level 4
+000008.811|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.812|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.812|so   |3|01|Platform: MAC=0004f281ee77
+000008.813|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.814|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.814|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.814|so   |3|01|Application, main: P/N=3150-11069-514
+000008.814|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.814|log  |*|01|Install file upload callback for 'Updater'
+
+000008.815|app1 |*|01|Initial log entry. Current logging level 3
+000008.830|cfg  |*|01|Initial log entry. Current logging level 2
+000009.777|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.673|so   |*|01|---------- Initial log entry ----------
+000008.673|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.673|boot |*|01|Initial log entry. Current logging level 3
+000008.673|copy |*|01|Initial log entry. Current logging level 3
+000008.673|utilm|*|01|Initial log entry. Current logging level 4
+000008.673|hw   |*|01|Initial log entry. Current logging level 4
+000008.673|ethf |*|01|Initial log entry. Current logging level 4
+000008.673|dns  |*|01|Initial log entry. Current logging level 3
+000008.673|curl |*|01|Initial log entry. Current logging level 3
+000008.674|sec  |*|01|Initial log entry. Current logging level 4
+000008.688|wdog |*|01|Initial log entry. Current logging level 4
+000008.688|lldp |*|01|Initial log entry. Current logging level 3
+000008.688|cdp  |*|01|Initial log entry. Current logging level 3
+000008.689|key  |*|01|Initial log entry. Current logging level 4
+000008.713|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.713|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.713|so   |3|01|Platform: MAC=0004f281ee77
+000008.714|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.715|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.715|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.715|so   |3|01|Application, main: P/N=3150-11069-514
+000008.715|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.716|log  |*|01|Install file upload callback for 'Updater'
+
+000008.717|app1 |*|01|Initial log entry. Current logging level 3
+000008.731|cfg  |*|01|Initial log entry. Current logging level 2
+000009.678|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.698|so   |*|01|---------- Initial log entry ----------
+000008.698|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.698|boot |*|01|Initial log entry. Current logging level 3
+000008.698|copy |*|01|Initial log entry. Current logging level 3
+000008.698|utilm|*|01|Initial log entry. Current logging level 4
+000008.698|hw   |*|01|Initial log entry. Current logging level 4
+000008.698|ethf |*|01|Initial log entry. Current logging level 4
+000008.698|dns  |*|01|Initial log entry. Current logging level 3
+000008.699|curl |*|01|Initial log entry. Current logging level 3
+000008.699|sec  |*|01|Initial log entry. Current logging level 4
+000008.713|wdog |*|01|Initial log entry. Current logging level 4
+000008.714|lldp |*|01|Initial log entry. Current logging level 3
+000008.714|cdp  |*|01|Initial log entry. Current logging level 3
+000008.714|key  |*|01|Initial log entry. Current logging level 4
+000008.741|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.742|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.742|so   |3|01|Platform: MAC=0004f281ee77
+000008.743|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.744|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.744|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.744|so   |3|01|Application, main: P/N=3150-11069-514
+000008.744|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.744|log  |*|01|Install file upload callback for 'Updater'
+
+000008.745|app1 |*|01|Initial log entry. Current logging level 3
+000008.760|cfg  |*|01|Initial log entry. Current logging level 2
+000009.713|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.702|so   |*|01|---------- Initial log entry ----------
+000008.702|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.702|boot |*|01|Initial log entry. Current logging level 3
+000008.702|copy |*|01|Initial log entry. Current logging level 3
+000008.702|utilm|*|01|Initial log entry. Current logging level 4
+000008.702|hw   |*|01|Initial log entry. Current logging level 4
+000008.702|ethf |*|01|Initial log entry. Current logging level 4
+000008.703|dns  |*|01|Initial log entry. Current logging level 3
+000008.703|curl |*|01|Initial log entry. Current logging level 3
+000008.703|sec  |*|01|Initial log entry. Current logging level 4
+000008.717|wdog |*|01|Initial log entry. Current logging level 4
+000008.717|lldp |*|01|Initial log entry. Current logging level 3
+000008.718|cdp  |*|01|Initial log entry. Current logging level 3
+000008.718|key  |*|01|Initial log entry. Current logging level 4
+000008.741|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.742|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.742|so   |3|01|Platform: MAC=0004f281ee77
+000008.743|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.744|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.744|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.744|so   |3|01|Application, main: P/N=3150-11069-514
+000008.744|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.744|log  |*|01|Install file upload callback for 'Updater'
+
+000008.745|app1 |*|01|Initial log entry. Current logging level 3
+000008.760|cfg  |*|01|Initial log entry. Current logging level 2
+000009.707|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.700|so   |*|01|---------- Initial log entry ----------
+000008.700|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.701|boot |*|01|Initial log entry. Current logging level 3
+000008.701|copy |*|01|Initial log entry. Current logging level 3
+000008.701|utilm|*|01|Initial log entry. Current logging level 4
+000008.701|hw   |*|01|Initial log entry. Current logging level 4
+000008.701|ethf |*|01|Initial log entry. Current logging level 4
+000008.701|dns  |*|01|Initial log entry. Current logging level 3
+000008.701|curl |*|01|Initial log entry. Current logging level 3
+000008.701|sec  |*|01|Initial log entry. Current logging level 4
+000008.716|wdog |*|01|Initial log entry. Current logging level 4
+000008.716|lldp |*|01|Initial log entry. Current logging level 3
+000008.716|cdp  |*|01|Initial log entry. Current logging level 3
+000008.716|key  |*|01|Initial log entry. Current logging level 4
+000008.741|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.741|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.742|so   |3|01|Platform: MAC=0004f281ee77
+000008.743|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.744|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.744|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.744|so   |3|01|Application, main: P/N=3150-11069-514
+000008.744|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.744|log  |*|01|Install file upload callback for 'Updater'
+
+000008.745|app1 |*|01|Initial log entry. Current logging level 3
+000008.760|cfg  |*|01|Initial log entry. Current logging level 2
+000009.715|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.
+000008.737|so   |*|01|---------- Initial log entry ----------
+000008.737|so   |*|01|+++ Note that Updater log times are in GMT +++
+000008.737|boot |*|01|Initial log entry. Current logging level 3
+000008.737|copy |*|01|Initial log entry. Current logging level 3
+000008.737|utilm|*|01|Initial log entry. Current logging level 4
+000008.737|hw   |*|01|Initial log entry. Current logging level 4
+000008.737|ethf |*|01|Initial log entry. Current logging level 4
+000008.737|dns  |*|01|Initial log entry. Current logging level 3
+000008.737|curl |*|01|Initial log entry. Current logging level 3
+000008.738|sec  |*|01|Initial log entry. Current logging level 4
+000008.752|wdog |*|01|Initial log entry. Current logging level 4
+000008.752|lldp |*|01|Initial log entry. Current logging level 3
+000008.753|cdp  |*|01|Initial log entry. Current logging level 3
+000008.753|key  |*|01|Initial log entry. Current logging level 4
+000008.782|so   |3|01|Platform: Model=VVX 300, Assembly=3111-46135-002 Rev=A Region=0
+000008.782|so   |3|01|Platform: Board=3111-46135-002 1 0
+000008.782|so   |3|01|Platform: MAC=0004f281ee77
+000008.783|so   |3|01|Platform: BootBlock=3.0.4.0028 (46135-002) 30-Jan-13 18:00
+000008.784|so   |*|01|Platform: BootL1=1.0.0.0009 (46135-002) 11-Jan-13 14:23
+000008.784|so   |3|01|Application, main: Label=Updater, Version=Peridot 5.1.4.0844 20-Mar-13 14:16
+000008.784|so   |3|01|Application, main: P/N=3150-11069-514
+000008.784|so   |5|01|Platform: Both images are incorrect, will use Primary Image.
+000008.784|log  |*|01|Install file upload callback for 'Updater'
+
+000008.786|app1 |*|01|Initial log entry. Current logging level 3
+000008.800|cfg  |*|01|Initial log entry. Current logging level 2
+000009.742|so   |3|01|Link status is Net up Speed 100 full Duplex, PC down.

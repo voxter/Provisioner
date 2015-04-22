@@ -1,0 +1,52 @@
+0417142558|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1049 out of range
+0417142600|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 11 control, state 1048 out of range
+0417142608|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1048 out of range
+0417142631|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1034 out of range
+0417142637|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1049 out of range
+0417142713|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1048 out of range
+0417142720|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1034 out of range
+0417142725|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1049 out of range
+0417142725|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1049 out of range
+0417142855|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1048 out of range
+0417143759|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1049 out of range
+0417143802|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1049 out of range
+0417144101|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1048 out of range
+0417144930|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1049 out of range
+0417144932|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0417144932|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0417144939|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1049 out of range
+0417150258|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1048 out of range
+0417152828|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 11 control, state 1034 out of range
+0417152831|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 11 control, state 1049 out of range
+0417152952|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 11 control, state 1048 out of range
+0417153303|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0417153303|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0417161539|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0417161539|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0417161539|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1034 out of range
+0417161539|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 11 control, state 1034 out of range
+0417161543|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1048 out of range
+0417161543|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 11 control, state 1048 out of range
+0418000939|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 0 sec
+0418012139|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 0 sec
+0418014939|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 0 sec
+0418054941|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 0 sec
+0418062541|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 0 sec
+0418070141|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 0 sec
+0418094941|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 0 sec
+0418105740|sip  |4|00|NAPTR query for host 'voxteroffice.voxter.sip.voxter.com' returned no results
+0418120816|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0418120816|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0418120816|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1034 out of range
+0418120846|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1048 out of range
+0418120847|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0418120847|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0418120847|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1034 out of range
+0418120907|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1034 out of range
+0418120914|clist|4|00|dbIO::processResult:copy error
+0418120914|clist|4|00|dbSet::mem2srv:transfer failed
+0418120918|so   |4|00|SoCoreAudioC::procMsgXIndCtrl: Indicator 10 control, state 1048 out of range
+0418121014|clist|4|00|dbIO::processResult:copy error
+0418121014|clist|4|00|dbSet::mem2srv:transfer failed
+0418125741|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 0 sec
+0419091344|sip  |4|00|NAPTR query for host 'voxteroffice.voxter.sip.voxter.com' returned no results

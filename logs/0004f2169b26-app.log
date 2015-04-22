@@ -1,0 +1,138 @@
+0401110925|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0401110925|app1 |*|03|Ctx [0] Registered [true]
+0401140629|copy |4|03|Error ending zlib (-3)
+0401140630|cfg  |*|03|Prov|Starting to update 2345-12500-001.sip.ld
+0401140631|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0401140633|copy |*|03|Server 'p.voxter.com' said 'overrides/0004f2169b26-web.cfg' is not present
+0401140633|copy |*|03|Server 'p.voxter.com' said 'licenses/000000000000-license.cfg' is not present
+0401140633|copy |*|03|Server 'p.voxter.com' said 'licenses/0004f2169b26-license.cfg' is not present
+0401140633|cfg  |*|03|Prm|0004f2169b26_reg.cfg: Value "" for configuration parameter reg.1.server.2.port is invalid, ignoring
+0401140633|cfg  |*|03|Prm|0004f2169b26_reg.cfg: Value "" for configuration parameter reg.1.outboundProxy.port is invalid, ignoring
+0401140633|cfg  |*|03|Prm|0004f2169b26_reg.cfg: Value "" for configuration parameter reg.1.lineKeys is invalid, ignoring
+0401140633|cfg  |4|03|Prm|provisioner.cfg: Unknown parameter "sec.tagSerialNo.set" found, ignoring.
+0401140633|cfg  |*|03|Prov|Setting device parameters from configuration files.
+0401140633|cfg  |*|03|Prov|Finished updating configuration
+0401140828|log  |4|03|UtilLogC::uploadFifoLog: upload error. protocol 0 result = -1
+0401140829|log  |4|03|UtilLogC::uploadFifoLog: upload error. protocol 0 result = -1
+0401141127|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0401151127|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0401161127|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+0401162128|ares |4|03|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.acccommunications.sip.voxter.com' after 1 sec
+0401171128|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+000005.066|log  |*|03|---------- Initial log entry ----------
+000005.066|so   |*|03|Platform: Model=SoundPoint IP 550, Assembly=2345-12500-001 Rev=A Region=
+000005.068|so   |*|03|Platform: Interface    eth0 MAC=0004f2169b26
+000005.068|so   |*|03|Platform: BootBlock=3.0.2.0024 (12500-001) 30-Nov-10 15:00
+000005.068|so   |*|03|Platform: Updater=5.0.5.2324 09-Dec-13 14:31
+000005.068|so   |*|03|Application, main: Label=SIP, Version=Mink 4.0.6.0711 26-Feb-14 06:47
+000005.068|so   |*|03|Application, main: P/N=3150-11530-406
+000005.068|rdisk|*|03|RAM disk created, size: 4,194,304 bytes
+000005.068|ocsp |*|03|O.C.S.P. Enabled = 0
+000005.070|tls  |*|03|Initial log entry. Current logging level 4
+000005.088|pmt  |*|03|Initial log entry. Current logging level 4
+000005.088|wdog |*|03|Initial log entry. Current logging level 4
+000005.090|ethf |*|03|Initial log entry. Current logging level 4
+000005.090|hw   |*|03|Initial log entry. Current logging level 4
+000005.090|ares |*|03|Initial log entry. Current logging level 4
+000005.090|dns  |*|03|Initial log entry. Current logging level 4
+000005.090|cfg  |*|03|Initial log entry. Current logging level 4
+000005.092|dot1x|*|03|Initial log entry. Current logging level 4
+000005.096|cfg  |5|03|RT|Error installing DHCP event hook.
+000005.154|lic  |*|03|Initial log entry. Current logging level 4
+000005.154|lic  |4|03|cfgCfsFlashKeyScratchLoad: key is blank
+000005.352|curl |*|03|Initial log entry. Current logging level 4
+000005.352|utilm|*|03|Initial log entry. Current logging level 4
+000005.352|copy |*|03|Initial log entry. Current logging level 4
+000005.352|rtos |*|03|Initial log entry. Current logging level 4
+000005.352|sec  |*|03|Initial log entry. Current logging level 4
+000005.374|so   |*|03|Configuration files: 0004f2169b26_reg.cfg, provisioner.cfg, sip.cfg, features.cfg
+000005.374|so   |*|03|Configuration file "0004f2169b26_reg.cfg" SHA1 digest: 7DECA753B6E564CC8CBD1685294D29C71B2E9893
+000005.374|so   |*|03|Configuration file "provisioner.cfg" SHA1 digest: 51080CD89DA743106AF5139272C6860F0465BE9D
+000005.374|so   |*|03|Configuration file "sip.cfg" SHA1 digest: BAE444A6BB25BB2562319C38654B089FCB09768C
+000005.374|so   |*|03|Configuration file "features.cfg" SHA1 digest: 4CC8F8E5A161C0EA5F932FF8A190910D0B78027B
+000005.374|cfg  |4|03|Prm|Configuration file(s) statistics: 1 parameters were invalid and could not be interpreted.
+000005.374|cfg  |4|03|Prm|Configuration file(s) statistics: 0 parameter values were used but were out of range. 5 were invalid and ignored.
+000005.382|log  |*|03|Log render level set to 1
+000005.424|srtp |*|03|Initial log entry. Current logging level 4
+000005.426|res  |*|03|Initial log entry. Current logging level 4
+000005.428|httpa|*|03|Initial log entry. Current logging level 4
+000005.428|lldp |*|03|Initial log entry. Current logging level 4
+000005.428|cdp  |*|03|Initial log entry. Current logging level 4
+000005.428|sys  |*|03|Initial log entry. Current logging level 4
+000005.524|ssps |*|03|Initial log entry. Current logging level 4
+000007.876|so   |*|03|System Info Reports:
+000007.876|so   |*|03|    CPU is TNETV1055/C55x, rev 2 running at 125.000MHz with memory at 125.000MHz.
+000007.876|so   |*|03|    Board is identified as PolycomSoundPointIP-SPIP_550.
+000007.876|so   |*|03|    DRAM_LO: 0x94000000.  DRAM_SIZE: 32 MB
+000007.876|so   |*|03|    Clocks are VBUSP: 125.000MHz, VBUS: 62.500MHz, USB: 25.000MHz, LCD: 31.250MHz, DSP: 100.000MHz.
+000007.876|so   |*|03|  NOR flash detected is 11
+000007.876|key  |*|03|Initial log entry. Current logging level 4
+000007.882|httpd|*|03|Initial log entry. Current logging level 4
+000007.882|poll |*|03|Initial log entry. Current logging level 4
+000007.882|push |*|03|Initial log entry. Current logging level 4
+000007.884|poll |*|03|Initial log entry. Current logging level 4
+000007.884|poll |*|03|Initial log entry. Current logging level 4
+000007.884|poll |*|03|Initial log entry. Current logging level 4
+000007.884|poll |*|03|Initial log entry. Current logging level 4
+000007.884|poll |*|03|Initial log entry. Current logging level 4
+000007.884|ht   |*|03|Initial log entry. Current logging level 4
+000007.884|dbuf |*|03|Initial log entry. Current logging level 4
+000007.888|ssps |*|03|Application, comp. 1: Label=PolyDSP Titan Mem1 FS3, Version=6.1.1.0010 11-Jul-12 19:00
+000007.888|ssps |*|03|Application, comp. 1: P/N=3150-11580-611.
+000007.888|pps  |*|03|Initial log entry. Current logging level 4
+000007.888|sip  |*|03|Initial log entry. Current logging level 4
+000007.890|ptt  |*|03|Initial log entry. Current logging level 4
+000008.174|so   |*|03|Using TCP IP Media Port, configured initial RTP port 2222
+000008.228|usb  |*|03|Initial log entry. Current logging level 4
+000008.228|sshc |*|03|Initial log entry. Current logging level 4
+000008.232|usb  |4|03|soUsbInit: USB features are disabled
+000008.232|cmp  |*|03|Initial log entry. Current logging level 4
+000008.232|wmgr |*|03|Initial log entry. Current logging level 4
+000008.240|slog |*|03|Initial log entry. Current logging level 4
+000008.434|app1 |*|03|Initial log entry. Current logging level 4
+000008.444|app1 |4|03|StatusBar is disabled
+000008.448|app1 |4|03|mb.main.home parameter is empty
+000008.460|mb   |*|03|Initial log entry. Current logging level 4
+000008.546|app1 |5|03|pUsbRecordPlayer_m=0x9555cdf0, pVoiceMailPlayer_m=0x9555c8a0
+000008.860|ldap |*|03|Initial log entry. Current logging level 4
+000008.860|ldap |4|03|cDynamicData::cDynamicData:cDynamicData:Failed
+000008.896|efk  |*|03|Initial log entry. Current logging level 4
+000009.402|app1 |4|03|[AppUserLoginC::Init]:flushing user cache file failed
+000009.438|app1 |4|03|Observable::notifyAll 1
+000009.438|app1 |4|03|getCfgParams
+000019.248|cfg  |*|03|RT|cfgRtNetInterfaceUpdate: Network not initialized
+000031.744|cfg  |*|03|RT|   Phone IP address is 192.168.0.8.
+000031.744|cfg  |*|03|RT|   Subnet mask is 255.255.255.0.
+000031.744|cfg  |*|03|RT|   Gateway address is 192.168.0.1.
+000031.744|cfg  |*|03|RT|   DNS server is 64.59.144.17.
+000031.744|cfg  |*|03|RT|   DNS alternate server is 64.59.150.133.
+000031.746|cfg  |*|03|RT|   GMT offset is 0 seconds.
+000031.746|dns  |*|03|DNS resolver servers are '64.59.144.17' '64.59.150.133'
+000031.746|dns  |*|03|DNS resolver search domain is ''
+000031.748|cfg  |*|03|RT|Primary IP changed to 192.168.0.8 subnet mask 255.255.255.0
+000031.748|cfg  |*|03|RT|cfgRtNetInterfaceUpdate: bfeng -- calling network status callback
+000031.748|cfg  |*|03|RT|cfgRtNetInterfaceUpdate: bfeng -- calling network status callback
+000031.758|sys  |*|03|0x957ea130 (tDhcpcStateTask): arp_check: No reply, addr not used
+000031.844|so   |*|03|Network initialized. Starting network tasks.
+000031.846|log  |*|03|Install file upload callback for 'so'
+
+000031.856|cfg  |5|03|Prm|Parameter acd.reg requested type 0 but is of type 2
+000031.870|app1 |*|03|Ctx [0] Registered [false]
+000031.872|app1 |5|03|Corporate directory instance does not exists.
+000031.886|dns  |4|03|doDnsLookupForList: given NULL hostname in task tPktProSys
+000031.886|sip  |4|03|NAPTR query for host 'acccommunications.sip.voxter.com' returned no results
+000031.950|sip  |*|03|Fast Boot Measurement Point: Ready for Call, uptime: 31.950 sec.
+000031.988|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0402005840|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0402005840|app1 |*|03|Ctx [0] Registered [true]
+0402005840|copy |4|03|Error ending zlib (-3)
+0402005841|cfg  |*|03|Prov|Starting to update 2345-12500-001.sip.ld
+0402005844|copy |*|03|Server 'p.voxter.com' said 'overrides/0004f2169b26-web.cfg' is not present
+0402005845|copy |*|03|Server 'p.voxter.com' said 'licenses/000000000000-license.cfg' is not present
+0402005845|copy |*|03|Server 'p.voxter.com' said 'licenses/0004f2169b26-license.cfg' is not present
+0402005845|cfg  |*|03|Prm|0004f2169b26_reg.cfg: Value "" for configuration parameter reg.1.server.2.port is invalid, ignoring
+0402005845|cfg  |*|03|Prm|0004f2169b26_reg.cfg: Value "" for configuration parameter reg.1.outboundProxy.port is invalid, ignoring
+0402005845|cfg  |*|03|Prm|0004f2169b26_reg.cfg: Value "" for configuration parameter reg.1.lineKeys is invalid, ignoring
+0402005845|cfg  |4|03|Prm|provisioner.cfg: Unknown parameter "sec.tagSerialNo.set" found, ignoring.
+0402005845|cfg  |*|03|Prov|Setting device parameters from configuration files.
+0402005845|cfg  |*|03|Prov|Finished updating configuration

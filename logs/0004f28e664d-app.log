@@ -1,0 +1,47 @@
+0420075139|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0420082520|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420082520|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420082540|app1 |4|00|DBS event contains a handle (0xd4f830) that's invalid
+0420082540|app1 |4|00|DBS event contains a handle (0xd78588) that's invalid
+0420082621|clist|4|00|dbIO::processResult:copy error
+0420082621|clist|4|00|dbSet::mem2srv:transfer failed
+0420084614|app1 |4|00|DBS event contains a handle (0xd4f830) that's invalid
+0420084614|app1 |4|00|DBS event contains a handle (0xd78588) that's invalid
+0420084621|clist|4|00|dbIO::processResult:copy error
+0420084621|clist|4|00|dbSet::mem2srv:transfer failed
+0420085321|app1 |4|00|DBS event contains a handle (0xd4f830) that's invalid
+0420085321|app1 |4|00|DBS event contains a handle (0xd78588) that's invalid
+0420085421|clist|4|00|dbIO::processResult:copy error
+0420085421|clist|4|00|dbSet::mem2srv:transfer failed
+0420085514|app1 |4|00|DBS event contains a handle (0xd4f830) that's invalid
+0420085514|app1 |4|00|DBS event contains a handle (0xd78588) that's invalid
+0420085521|clist|4|00|dbIO::processResult:copy error
+0420085521|clist|4|00|dbSet::mem2srv:transfer failed
+0420094024|app1 |4|00|DBS event contains a handle (0xd4f830) that's invalid
+0420094024|app1 |4|00|DBS event contains a handle (0xd78588) that's invalid
+0420094121|clist|4|00|dbIO::processResult:copy error
+0420094121|clist|4|00|dbSet::mem2srv:transfer failed
+0420095729|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420095729|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420095803|app1 |4|00|DBS event contains a handle (0xd4f830) that's invalid
+0420095803|app1 |4|00|DBS event contains a handle (0xd78588) that's invalid
+0420095821|clist|4|00|dbIO::processResult:copy error
+0420095821|clist|4|00|dbSet::mem2srv:transfer failed
+0420125618|sip  |4|00|Registration failed User: 3815, Error Code:480 Temporarily not available
+0420172058|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420172058|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420172119|app1 |4|00|DBS event contains a handle (0xd4f830) that's invalid
+0420172119|app1 |4|00|DBS event contains a handle (0xd78588) that's invalid
+0420172219|clist|4|00|dbIO::processResult:copy error
+0420172219|clist|4|00|dbSet::mem2srv:transfer failed
+0420182127|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420182127|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420182140|app1 |4|00|DBS event contains a handle (0xd4f830) that's invalid
+0420182140|app1 |4|00|DBS event contains a handle (0xd78588) that's invalid
+0420182219|clist|4|00|dbIO::processResult:copy error
+0420182219|clist|4|00|dbSet::mem2srv:transfer failed
+0420183214|app1 |4|00|DBS event contains a handle (0xd4f830) that's invalid
+0420183214|app1 |4|00|DBS event contains a handle (0xd78588) that's invalid
+0420183219|clist|4|00|dbIO::processResult:copy error
+0420183219|clist|4|00|dbSet::mem2srv:transfer failed
+0421051510|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results

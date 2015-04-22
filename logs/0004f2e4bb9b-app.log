@@ -1,0 +1,49 @@
+0420082742|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0420092742|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0420102742|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0420112742|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0420122743|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0420125615|sip  |4|03|Registration failed User: 4002, Error Code:480 Temporarily not available
+0420125643|app1 |*|03|Ctx [0] Registered [false]
+0420125644|app1 |*|03|Ctx [0] Registered [true]
+0420132844|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0420142844|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0420152844|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0420162844|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0420172844|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0420182844|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0420192844|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0420202844|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0420212845|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0420222845|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0420232845|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421002845|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421012845|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421022845|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421032845|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421042845|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421052845|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421061245|sip  |4|03|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0421062845|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421072845|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421082845|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421092845|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421102846|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421112846|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421122846|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421133245|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421143245|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421153245|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421163245|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421173245|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421183245|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421193245|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421203245|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421213245|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421223245|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0421233245|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0422003245|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0422013245|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0422023245|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0422033245|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xee0000
+0422042445|sip  |4|03|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results

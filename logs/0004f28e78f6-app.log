@@ -1,0 +1,29 @@
+0420095710|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420095710|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420100140|clist|4|00|dbIO::processResult:copy error
+0420100140|clist|4|00|dbSet::mem2srv:transfer failed
+0420114331|sip  |4|00|NAPTR query for host 'fmoffice.fullymanaged.sip.voxter.com' returned no results
+0420125552|sip  |4|00|Registration failed User: 8244, Error Code:401 Unauthorized
+0420125634|sip  |4|00|Registration failed User: 8244, Error Code:480 Temporarily not available
+0420133040|clist|4|00|dbIO::processResult:copy error
+0420133040|clist|4|00|dbSet::mem2srv:transfer failed
+0420133540|clist|4|00|dbIO::processResult:copy error
+0420133540|clist|4|00|dbSet::mem2srv:transfer failed
+0420134636|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420134636|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420134740|clist|4|00|dbIO::processResult:copy error
+0420134740|clist|4|00|dbSet::mem2srv:transfer failed
+0420135923|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420135923|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420140340|clist|4|00|dbIO::processResult:copy error
+0420140340|clist|4|00|dbSet::mem2srv:transfer failed
+0420144929|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
+0420144930|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 0 sec
+0420145731|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420150533|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420150534|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
+0420153340|clist|4|00|dbIO::processResult:copy error
+0420153340|clist|4|00|dbSet::mem2srv:transfer failed
+0420173735|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420173736|ares |4|00|aresDnsLookup: select time-out 2 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420173737|ares |4|00|aresDnsLookup: select time-out 3 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec

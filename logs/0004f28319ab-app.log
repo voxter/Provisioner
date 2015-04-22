@@ -1,0 +1,10 @@
+0309105533|so   |*|00|Found core file core.1078, uploading to the server
+0309105544|so   |4|00|Problem uploading core file ("/rfs0/0004f28319ab-4.0.6.0711-core.1078.tar.gz", "0004f28319ab-4.0.6.0711-core.1078.tar.gz") to the server, result=-1
+0309105629|clist|4|00|dbIO::processResult:copy error
+0309105629|clist|4|00|dbSet::mem2srv:transfer failed
+0310143533|sip  |4|00|NAPTR query for host 'square.voxter.sip.voxter.com' returned no results
+0310190033|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.square.voxter.sip.voxter.com' after 0 sec
+0310192533|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.square.voxter.sip.voxter.com' after 0 sec
+0310200033|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.square.voxter.sip.voxter.com' after 0 sec
+0310210033|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.square.voxter.sip.voxter.com' after 0 sec
+0310222033|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.square.voxter.sip.voxter.com' after 0 sec

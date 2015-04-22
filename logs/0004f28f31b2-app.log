@@ -1,0 +1,52 @@
+0420033445|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420043445|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420053445|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420063445|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420073445|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420080245|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0420083445|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420093445|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420103445|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420113445|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420123445|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420124353|clist|4|00|dbIO::processResult:copy error
+0420124353|clist|4|00|dbSet::mem2srv:transfer failed
+0420133519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420143519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420153519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420163519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420173519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420183519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420193519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420203519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420213519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420223519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0420233519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421003519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421013519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421023519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421033519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421043519|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421053520|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421061120|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0421063520|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421073520|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421083520|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421093919|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421103919|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421113919|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421123919|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421133919|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421143919|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421153919|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421163919|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421173919|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421183919|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421193919|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421203919|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421213919|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421223920|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0421233920|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0422003920|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0422013920|dns  |4|00|doDnsLookupForList: given NULL hostname 
+0422023920|dns  |4|00|doDnsLookupForList: given NULL hostname 

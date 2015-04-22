@@ -1,0 +1,43 @@
+0420070011|app1 |4|00|DBS event contains a handle (0xefa268) that's invalid
+0420070020|clist|4|00|dbIO::processResult:copy error
+0420070020|clist|4|00|dbSet::mem2srv:transfer failed
+0420070053|app1 |4|00|DBS event contains a handle (0xefa268) that's invalid
+0420070120|clist|4|00|dbIO::processResult:copy error
+0420070120|clist|4|00|dbSet::mem2srv:transfer failed
+0420074403|app1 |4|00|DBS event contains a handle (0xefa268) that's invalid
+0420074420|clist|4|00|dbIO::processResult:copy error
+0420074420|clist|4|00|dbSet::mem2srv:transfer failed
+0420074746|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0420082535|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420082535|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420082555|app1 |4|00|DBS event contains a handle (0xefa268) that's invalid
+0420082620|clist|4|00|dbIO::processResult:copy error
+0420082620|clist|4|00|dbSet::mem2srv:transfer failed
+0420082734|app1 |4|00|DBS event contains a handle (0xefa268) that's invalid
+0420082820|clist|4|00|dbIO::processResult:copy error
+0420082820|clist|4|00|dbSet::mem2srv:transfer failed
+0420083254|app1 |4|00|DBS event contains a handle (0xefa268) that's invalid
+0420083320|clist|4|00|dbIO::processResult:copy error
+0420083320|clist|4|00|dbSet::mem2srv:transfer failed
+0420083830|app1 |4|00|DBS event contains a handle (0xefa268) that's invalid
+0420083920|clist|4|00|dbIO::processResult:copy error
+0420083920|clist|4|00|dbSet::mem2srv:transfer failed
+0420115410|app1 |4|00|DBS event contains a handle (0xefa268) that's invalid
+0420115420|clist|4|00|dbIO::processResult:copy error
+0420115420|clist|4|00|dbSet::mem2srv:transfer failed
+0420125619|sip  |4|00|Registration failed User: 3808, Error Code:480 Temporarily not available
+0420125706|sip  |4|00|Registration failed User: 3808, Error Code:401 Unauthorized
+0420142243|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420142243|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420142302|app1 |4|00|DBS event contains a handle (0xefa268) that's invalid
+0420142318|clist|4|00|dbIO::processResult:copy error
+0420142318|clist|4|00|dbSet::mem2srv:transfer failed
+0420150503|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420150503|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420150944|app1 |4|00|DBS event contains a handle (0xefa268) that's invalid
+0420151018|clist|4|00|dbIO::processResult:copy error
+0420151018|clist|4|00|dbSet::mem2srv:transfer failed
+0421052647|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0421122357|app1 |4|00|DBS event contains a handle (0xefa268) that's invalid
+0421122418|clist|4|00|dbIO::processResult:copy error
+0421122418|clist|4|00|dbSet::mem2srv:transfer failed

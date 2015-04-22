@@ -1,0 +1,8 @@
+0419205124|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.lakeexcavating.voxter.sip.voxter.com' after 0 sec
+0419232726|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.lakeexcavating.voxter.sip.voxter.com' after 0 sec
+0420033932|sip  |4|00|NAPTR query for host 'lakeexcavating.voxter.sip.voxter.com' returned no results
+0420110332|clist|4|00|dbIO::processResult:copy error
+0420110332|clist|4|00|dbSet::mem2srv:transfer failed
+0420125621|sip  |4|00|Registration failed User: 1003, Error Code:480 Temporarily not available
+0420211648|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
+0421014050|sip  |4|00|NAPTR query for host 'lakeexcavating.voxter.sip.voxter.com' returned no results

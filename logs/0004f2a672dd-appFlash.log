@@ -1,0 +1,75 @@
+000000.345|log  |*|00|Log render level set to 3
+000000.345|log  |*|00|All logs set to level 3
+0210001035|log  |*|00|Initial log entry. Current logging level 4
+0210001035|so   |*|00|Initial log entry. Current logging level 3
+0210001035|so   |*|00|---------- Initial log entry ----------
+0210001035|so   |*|00|Platform: Model=SoundPoint IP 331, Assembly=2345-12365-001 Rev=B
+0210001035|so   |*|00|Platform: MAC=0004f2a672dd, IP=192.168.0.21, Subnet Mask=255.255.255.0
+0210001035|so   |*|00|Platform: BootBlock=2.8.1 (12365_001) 18-Mar-09 14:07
+0210001035|so   |*|00|Platform: Bootrom=4.3.0.0246 04-Jun-10 17:06
+0210001035|so   |*|00|Application, main: Label=SIP, Version=Buffalo 3.2.0.0157 17-Aug-09 18:23
+0210001035|so   |*|00|Application, main: P/N=3150-11530-320
+0210001035|pmt  |*|00|Initial log entry. Current logging level 4
+0210001035|wdog |*|00|Initial log entry. Current logging level 4
+0210001035|ethf |*|00|Initial log entry. Current logging level 4
+0210001035|so   |5|00|utilCertificateInit failed.
+0210001035|so   |*|00|Client authentication is supported
+0210001035|hw   |*|00|Initial log entry. Current logging level 4
+0210001035|ares |*|00|Initial log entry. Current logging level 4
+0210001035|dns  |*|00|Initial log entry. Current logging level 3
+0210001035|cfg  |*|00|Initial log entry. Current logging level 3
+0210001035|cfg  |3|00|RT|Checking DHCP option 160 type string
+0210001035|cfg  |3|00|RT|Runtime basic IP parameters updated.
+0210001035|cfg  |3|00|RT|Runtime SNTP parameters updated.
+0210001035|dns  |*|00|DNS resolver servers are '64.59.144.90' '64.59.150.136'
+0210001035|dns  |*|00|DNS resolver search domain is ''
+0210001035|curl |*|00|Initial log entry. Current logging level 3
+0210001035|utilm|*|00|Initial log entry. Current logging level 4
+0210001035|copy |*|00|Initial log entry. Current logging level 3
+0210001035|rtos |*|00|Initial log entry. Current logging level 4
+0210001035|sec  |*|00|Initial log entry. Current logging level 4
+0210001035|cfg  |3|00|Prm|Beginning to provision phone
+0210001035|dns  |3|00|DNS lookup for (A) 'p.voxter.com'(74.114.208.245) TTL=85702
+0210001035|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12365-001.bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+0210001035|curl |3|00|timeout on name lookup is not supported
+0210001035|curl |3|00|About to connect() to p.voxter.com port 80 (#0)
+0210001035|curl |3|00|  Trying 74.114.208.245... 
+0210001035|curl |3|00|Connected to p.voxter.com (74.114.208.245) port 80 (#0)
+0210001035|curl |3|00|Closing connection #0
+0210001035|curl |3|00|Issue another request to this URL: '** not displayed **'
+0210001035|curl |3|00|timeout on name lookup is not supported
+0210001035|curl |3|00|About to connect() to p.voxter.com port 80 (#0)
+0210001035|curl |3|00|  Trying 74.114.208.245... 
+0210001035|curl |3|00|FAILED!
+0210001035|curl |3|00|singleipconnect: could not connect to host
+0210001035|curl |3|00| errno 57. retryCount at 1 timeout.tv_sec 16 waited 0 seconds
+0210001035|curl |3|00|  Retrying 74.114.208.245... , retryCount 1
+0210001035|curl |3|00|OK
+0210001035|curl |3|00|couldn't connect to host
+0210001035|curl |3|00|Closing connection #0
+0210001035|copy |4|00|Download of '2345-12365-001.bootrom.ld' FAILED on attempt 1 (addr 1 of 1)
+0210001035|copy |3|00|transport res: 7 respCode 302
+0210001035|copy |3|00|transport error: Couldn't connect to server.
+0210001035|copy |3|00|transport error buffer: couldn't connect to host.
+0210001035|copy |3|00|Making further download attempts for '2345-12365-001.bootrom.ld'
+0210001035|copy |3|00|'http://PlcmSpIp:****@p.voxter.com/2345-12365-001.bootrom.ld' from 'p.voxter.com(74.114.208.245)'
+0210001035|curl |3|00|timeout on name lookup is not supported
+0210001035|curl |3|00|About to connect() to p.voxter.com port 80 (#0)
+0210001035|curl |3|00|  Trying 74.114.208.245... 
+0210001035|curl |3|00|connected after 6 seconds
+0210001035|curl |3|00|Connected to p.voxter.com (74.114.208.245) port 80 (#0)
+0210001035|cfg  |3|00|Prm|New load header information:
+0210001035|cfg  |3|00|Prm|Code length:         0x000B0640
+0210001035|cfg  |3|00|Prm|Header check Sum:    0x30EE1D37
+0210001035|cfg  |3|00|Prm|Code check Sum:      0x05E314C3
+0210001035|cfg  |3|00|Prm|Options:             0x00000011
+0210001035|cfg  |3|00|Prm|Recognized bootROM
+0210001035|copy |3|00|buffered_write: transfer terminated
+0210001035|curl |3|00|Failed writing body (4096 != 7009)
+0210001035|curl |3|00|Closing connection #0
+0210001035|copy |4|00|Download of '2345-12365-001.bootrom.ld' succeeded on attempt 2 (addr 1 of 1)
+0210001035|cfg  |3|00|Prm|Downloaded bootROM is newer than current version 4.3.0. Rebooting
+0210001035|cfg  |4|00|Prm|Bootrom has changed
+0210001035|so   |5|00|Rebooting due to provisioning error 'Bootrom has changed'.
+000000.345|log  |*|00|Log render level set to 3
+000000.345|log  |*|00|All logs set to level 3

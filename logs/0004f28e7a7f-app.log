@@ -1,0 +1,49 @@
+0420062338|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 0 sec
+0420065539|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420101405|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420101405|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420101439|clist|4|00|dbIO::processResult:copy error
+0420101439|clist|4|00|dbSet::mem2srv:transfer failed
+0420110339|sip  |4|00|NAPTR query for host 'fmoffice.fullymanaged.sip.voxter.com' returned no results
+0420120839|clist|4|00|dbIO::processResult:copy error
+0420120839|clist|4|00|dbSet::mem2srv:transfer failed
+0420125139|clist|4|00|dbIO::processResult:copy error
+0420125139|clist|4|00|dbSet::mem2srv:transfer failed
+0420130339|clist|4|00|dbIO::processResult:copy error
+0420130339|clist|4|00|dbSet::mem2srv:transfer failed
+0420140739|clist|4|00|dbIO::processResult:copy error
+0420140739|clist|4|00|dbSet::mem2srv:transfer failed
+0420141510|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141511|ares |4|00|aresDnsLookup: select time-out 2 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141512|ares |4|00|aresDnsLookup: select time-out 3 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141513|ares |4|00|aresDnsLookup: select time-out 4 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141515|ares |4|00|aresDnsLookup: select time-out 5 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141517|ares |4|00|aresDnsLookup: select time-out 6 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141517|dns  |4|00|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0420141517|sip  |4|00|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'fmoffice.fullymanaged.sip.voxter.com' found no records. 
+0420141539|dns  |4|00|DNS(SRV) query now allowed after unresponsive for 22 (of 10) sec
+0420141540|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141541|ares |4|00|aresDnsLookup: select time-out 2 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141542|ares |4|00|aresDnsLookup: select time-out 3 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141543|ares |4|00|aresDnsLookup: select time-out 4 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141545|ares |4|00|aresDnsLookup: select time-out 5 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141547|ares |4|00|aresDnsLookup: select time-out 6 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141547|dns  |4|00|DNS server(s) unresponsive due to query timeout after 7 sec (Threshold = 5)
+0420141547|sip  |4|00|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'fmoffice.fullymanaged.sip.voxter.com' found no records. 
+0420141554|sip  |4|00|doDnsListLookup(udp): doDnsSrvLookupForARecordList 'fmoffice.fullymanaged.sip.voxter.com' found no records. 
+0420141602|dns  |4|00|DNS(SRV) query now allowed after unresponsive for 14 (of 10) sec
+0420141603|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141604|ares |4|00|aresDnsLookup: select time-out 2 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420141608|sip  |4|00|Registration failed User: 8230, Error Code:401 Unauthorized
+0420144540|clist|4|00|dbIO::processResult:copy error
+0420144540|clist|4|00|dbSet::mem2srv:transfer failed
+0420145040|clist|4|00|dbIO::processResult:copy error
+0420145040|clist|4|00|dbSet::mem2srv:transfer failed
+0420145140|clist|4|00|dbIO::processResult:copy error
+0420145140|clist|4|00|dbSet::mem2srv:transfer failed
+0420160339|clist|4|00|dbIO::processResult:copy error
+0420160339|clist|4|00|dbSet::mem2srv:transfer failed
+0420165255|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165256|ares |4|00|aresDnsLookup: select time-out 2 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165257|ares |4|00|aresDnsLookup: select time-out 3 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec
+0420165258|ares |4|00|aresDnsLookup: select time-out 4 on SRV lookup for '_sip._udp.fmoffice.fullymanaged.sip.voxter.com' after 0 sec

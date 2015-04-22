@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- $RCSfile: 000000000000-directory~.xml,v $  $Revision: 1.3 $ --><directory>
+	<item_list>
+		<item>
+			<fn>AEBC MAIN OFFICE</fn>
+			<ct>6042799786</ct>
+			<sd>11</sd>
+		</item>
+		<item>
+			<fn>AEBC OFFICE</fn>
+			<ct>6042881088</ct>
+			<sd>9</sd>
+			<rt>default</rt>
+		</item>
+		<item>
+			<fn>AEBC TECH</fn>
+			<ct>6042881089</ct>
+			<sd>10</sd>
+			<rt>default</rt>
+		</item>
+		<item>
+			<fn>Bianca</fn>
+			<ct>5612127271</ct>
+			<sd>1</sd>
+			<rt>ringer14</rt>
+		</item>
+		<item>
+			<fn>Freddy</fn>
+			<ct>6047165776</ct>
+			<sd>2</sd>
+			<rt>default</rt>
+		</item>
+		<item>
+			<fn>Mark Makay</fn>
+			<ct>6045125696</ct>
+			<sd>7</sd>
+			<rt>default</rt>
+		</item>
+		<item>
+			<fn>univoip</fn>
+			<ct>6136274107</ct>
+			<sd>3</sd>
+			<rt>default</rt>
+		</item>
+		<item>
+			<fn>Voxter GARY</fn>
+			<ct>6046298805</ct>
+			<sd>4</sd>
+		</item>
+		<item>
+			<ln>Glen Roscovich </ln>
+			<ct>106</ct>
+			<rt>ringer7</rt>
+		</item>
+		<item>
+			<ln>hotdesk (login)</ln>
+			<ct>*400</ct>
+			<rt>ringer7</rt>
+		</item>
+		<item>
+			<ln>hotdesk (logout)</ln>
+			<ct>*401</ct>
+			<rt>ringer7</rt>
+		</item>
+		<item>
+			<ln>Jung</ln>
+			<fn>Barry </fn>
+			<ct>6046298807</ct>
+			<sd>5</sd>
+			<rt>ringer14</rt>
+		</item>
+		<item>
+			<ln>Ken Newbatt</ln>
+			<ct>101</ct>
+			<rt>ringer7</rt>
+		</item>
+		<item>
+			<ln>Pace</ln>
+			<fn>Colin</fn>
+			<ct>6043518516</ct>
+			<sd>8</sd>
+			<rt>default</rt>
+		</item>
+		<item>
+			<ln>park</ln>
+			<ct>*3501</ct>
+			<rt>ringer7</rt>
+		</item>
+		<item>
+			<ln>Sonny Kochhar</ln>
+			<ct>102</ct>
+			<rt>ringer7</rt>
+		</item>
+		<item>
+			<ln>steve thompson</ln>
+			<ct>201</ct>
+			<rt>ringer7</rt>
+		</item>
+		<item>
+			<ln>Support</ln>
+			<fn>Voxter </fn>
+			<ct>6048698647</ct>
+			<sd>6</sd>
+			<rt>ringer14</rt>
+		</item>
+		<item>
+			<ln>voicemail (check)</ln>
+			<ct>*97</ct>
+			<rt>ringer7</rt>
+		</item>
+	</item_list>
+</directory>

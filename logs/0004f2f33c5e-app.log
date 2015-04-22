@@ -1,0 +1,17 @@
+0419233023|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0420033023|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0420073022|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0420113023|ares |4|03|aresDnsLookup: select time-out 1 on SRV lookup for '_ntp._udp.pool.ntp.org' after 1 sec
+0420113023|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0420125008|app1 |*|03|Ctx [0] Registered [false]
+0420125331|app1 |*|03|Ctx [0] Registered [true]
+0420125931|app1 |*|03|Ctx [0] Registered [false]
+0420130020|app1 |*|03|Ctx [0] Registered [true]
+0420153022|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0420193022|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0420233021|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0421033021|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0421073021|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0421113020|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0421153020|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet
+0421193020|dns  |4|03|doDnsLookupForList: given NULL hostname in task tSntpGet

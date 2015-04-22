@@ -1,0 +1,53 @@
+0419032735|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419042735|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419052736|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419062736|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419072736|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419082736|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419092736|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419102736|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419112737|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419122737|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419132737|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419142737|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419152652|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0x1960000
+0419153236|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419163236|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419173236|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419183236|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419193236|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419203236|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419213236|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419223237|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0419233237|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420003237|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420013237|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420023237|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420033237|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420043238|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420053238|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420053238|sip  |4|03|NAPTR query for host 'gbt.gauthiertech.sip.voxter.com' returned no results
+0420063238|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420073238|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420083238|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420093238|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420103239|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420113239|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420123240|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420130415|app1 |*|03|Ctx [0] Registered [false]
+0420130415|app1 |*|03|Ctx [1] Registered [false]
+0420130514|app1 |*|03|Ctx [0] Registered [true]
+0420133514|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420143514|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420152651|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0x1980000
+0420153514|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420163514|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420173514|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420183514|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420193514|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420203514|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420213514|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420223514|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0420233514|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421003514|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000
+0421013515|dns  |4|03|doDnsLookupForList: given NULL hostname in task 0xf40000

@@ -282,6 +282,11 @@ class system_configfile {
     // This is the final step
     public function generate_config_file() {
         $folder = helper_utils::get_folder($this->_strBrand, $this->_strModel);
+        
+        if(empty($this->_strBrand) && empty($this->_strModel)) {   
+            return false;
+        }
+        
         $target_phone = "endpoint_" . $this->_strBrand . "_" . $folder . "_phone";
 
         // Set the twig template directory

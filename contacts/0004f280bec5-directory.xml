@@ -1,0 +1,234 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- edited with XMLSPY v5 rel. 4 U (http://www.xmlspy.com) -->
+<?Saved @ --2015-04-20T17:46:17-- ?>
+<directory>
+  <item_list>
+    <item>
+      <ln>Dayton VM IVR - 604-639-1786 (menu)</ln>
+      <ct></ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Chris Bria 2 (receive_fax)</ln>
+      <ct>3333</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Voxter Conference Room (conference)</ln>
+      <ct>7777</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>FS MUC</ln>
+      <ct>8888</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Board Room</ln>
+      <ct>2000</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Michael Hryb</ln>
+      <ct>1008</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Barry Jung</ln>
+      <ct>1007</ct>
+      <sd>2</sd>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>1</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Dayton Polycom</ln>
+      <ct>1102</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Chris Megalos</ln>
+      <ct>1003</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Chris Test</ln>
+      <ct>2132</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Test 1 Phone</ln>
+      <ct>3000</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Tamara Gottschlag</ln>
+      <ct>1004</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Dayton Bria</ln>
+      <ct>9002</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Support Phone</ln>
+      <ct>9000</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Chris Bria 2</ln>
+      <ct>1113</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Chris Bria</ln>
+      <ct>1013</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Gary Tennant</ln>
+      <ct>1005</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Test 2 Phone</ln>
+      <ct>3001</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Test 3 Phone</ln>
+      <ct>3002</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>9006</ln>
+      <ct>9006</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Bryan Cramer</ln>
+      <ct>1006</ct>
+      <sd>1</sd>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>call forward (deactivate)</ln>
+      <ct>*73</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>voicemail (check)</ln>
+      <ct>*97</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>park</ln>
+      <ct>*4</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>call forward (activate)</ln>
+      <ct>*72</ct>
+      <rt>7</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+  </item_list>
+</directory>

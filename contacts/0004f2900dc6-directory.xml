@@ -1,0 +1,718 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- edited with XMLSPY v5 rel. 4 U (http://www.xmlspy.com) -->
+<?Saved @ --2015-03-19T14:13:34-- ?>
+<directory>
+  <item_list>
+    <item>
+      <ln>FortMac Reception (ring group)</ln>
+      <ct></ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Rick VanDerVoort</ln>
+      <ct>3001</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Dave Lesburg</ln>
+      <ct>2230</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>2nd Floor Boardroom</ln>
+      <ct>2252</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Glenn Fereday</ln>
+      <ct>2248</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Bill Schell</ln>
+      <ct>3002</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Nadine Cote</ln>
+      <ct>3010</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Debbie Thompson</ln>
+      <ct>2231</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Chris Taylor</ln>
+      <ct>4003</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Richard Kostiuk</ln>
+      <ct>2227</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Shop 1</ln>
+      <ct>2232</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Shawna Sheehan</ln>
+      <ct>2239</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Ext 2236</ln>
+      <ct>2236</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Lisa Brien</ln>
+      <ct>6449</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Boardroom Phone</ln>
+      <ct>2234</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Michelle Trudel</ln>
+      <ct>3004</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Fred Podovinnikoff</ln>
+      <ct>2238</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Joe Westfall</ln>
+      <ct>2112</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Larry Thompson</ln>
+      <ct>2226</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>FortMac Boardroom</ln>
+      <ct>3030</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Shawn Borrill</ln>
+      <ct>2408</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>FortMac Reception</ln>
+      <ct>3000</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Chelsea Friedel</ln>
+      <ct>2404</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Casey Sutherland</ln>
+      <ct>3011</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Lynn Briggs</ln>
+      <ct>2254</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>FM2 Support</ln>
+      <ct>9998</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Jim Moore</ln>
+      <ct>4002</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>MeetingRoom 2ndFloor</ln>
+      <ct>2406</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Devin Lanthier</ln>
+      <ct>3007</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Keith Johnson</ln>
+      <ct>3005</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Chris Sonley</ln>
+      <ct>3006</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Roger Tkach</ln>
+      <ct>2233</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Tim Waldack</ln>
+      <ct>2235</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Julie Leroux</ln>
+      <ct>2253</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>FortHills Safety</ln>
+      <ct>2264</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Travis Hildebrandt</ln>
+      <ct>2409</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Kendra Remada</ln>
+      <ct>2266</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Mac Sokulski</ln>
+      <ct>2244</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Wayne Battle</ln>
+      <ct>2237</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Front Desk</ln>
+      <ct>2221</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Ext 2258</ln>
+      <ct>2258</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Ext 2228</ln>
+      <ct>2228</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Diane Dusterhoft</ln>
+      <ct>2268</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>FM1 Support</ln>
+      <ct>9999</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Spare ByCopier</ln>
+      <ct>2224</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Neville Bentz</ln>
+      <ct>2267</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Mark Filoteo</ln>
+      <ct>2276</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Mike Brace</ln>
+      <ct>2246</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Rich Abercrombie</ln>
+      <ct>2255</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Andrea Shyry</ln>
+      <ct>2256</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Arlene Reid</ln>
+      <ct>2259</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>SmallMeetingRom 2ndFloor</ln>
+      <ct>2262</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Rick Spencer</ln>
+      <ct>2405</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Ellen Kramer</ln>
+      <ct>2265</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Tony Camac</ln>
+      <ct>2240</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Bertha Clendenning</ln>
+      <ct>6450</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>MeetingRoom 4thFloor</ln>
+      <ct>2407</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Paul Sturt</ln>
+      <ct>2243</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Charlie Westfall</ln>
+      <ct>2261</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Ian McKinley</ln>
+      <ct>2241</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Wendy Lang</ln>
+      <ct>2260</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Training Centre</ln>
+      <ct>3012</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>FortHills Admin</ln>
+      <ct>2270</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Shop2 LunchRoom</ln>
+      <ct>2229</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Blair Moore</ln>
+      <ct>4001</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Natasha Saunders</ln>
+      <ct>3003</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Ext 2247</ln>
+      <ct>2247</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Larry Upstairs</ln>
+      <ct>2223</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Madonna Butt</ln>
+      <ct>3008</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Ext 2249</ln>
+      <ct>2249</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Robin Butt</ln>
+      <ct>3009</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Megan Fricker</ln>
+      <ct>2245</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>John Thompson</ln>
+      <ct>2242</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Ext 2263</ln>
+      <ct>2263</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>Vince Schlachter</ln>
+      <ct>2225</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>call forward (deactivate)</ln>
+      <ct>*73</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>voicemail (check)</ln>
+      <ct>*97</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>call forward (activate)</ln>
+      <ct>*72</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+    <item>
+      <ln>park</ln>
+      <ct>*4</ct>
+      <rt>ringer07</rt>
+      <ad>0</ad>
+      <ar>0</ar>
+      <bw>0</bw>
+      <bb>0</bb>
+    </item>
+  </item_list>
+</directory>

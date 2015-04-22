@@ -1,0 +1,11 @@
+0420080340|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
+0420090819|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420090819|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420091019|clist|4|00|dbIO::processResult:copy error
+0420091019|clist|4|00|dbSet::mem2srv:transfer failed
+0420094043|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420094043|so   |4|00|IsDivertFeaturesEnabled - EXIT
+0420094119|clist|4|00|dbIO::processResult:copy error
+0420094119|clist|4|00|dbSet::mem2srv:transfer failed
+0420125617|sip  |4|00|Registration failed User: 3828, Error Code:480 Temporarily not available
+0421055122|sip  |4|00|NAPTR query for host 'vantage.fullymanaged.sip.voxter.com' returned no results
