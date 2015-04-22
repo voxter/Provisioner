@@ -1,5 +1,0 @@
-0420125700|sip  |4|00|Registration failed User: 1001, Error Code:401 Unauthorized
-0420130712|sip  |4|00|NAPTR query for host 'sampleinc.fullymanaged.sip.voxter.com' returned no results
-0421022713|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 0 sec
-0421112315|sip  |4|00|NAPTR query for host 'sampleinc.fullymanaged.sip.voxter.com' returned no results
-0422050719|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 0 sec

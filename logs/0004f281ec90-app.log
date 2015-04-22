@@ -1,5 +1,0 @@
-0419054831|sip  |4|00|NAPTR query for host 'lakeexcavating.voxter.sip.voxter.com' returned no results
-0419205650|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 0 sec
-0419231255|ares |4|00|aresDnsLookup: select time-out 1 on A lookup for 'sbc02.van1.voxter.net.' after 0 sec
-0419232056|ares |4|00|aresDnsLookup: select time-out 1 on SRV lookup for '_sip._udp.lakeexcavating.voxter.sip.voxter.com' after 0 sec
-0420040101|sip  |4|00|NAPTR query for host 'lakeexcavating.voxter.sip.voxter.com' returned no results
