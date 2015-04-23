@@ -11,11 +11,12 @@
 
     "database": {
         "type": "bigcouch",
-        "url": "http://couchadmin:sp4r3s0m3ch4ng3@localhost",
+        "url": "localhost",
         "port": 15984,
-
+        "username": "couchadmin",
+        "password": "sp4r3s0m3ch4ng3",
         "master_provider": {
-            "name": "Voxter",
+            "name": "Wikibuli",
             "ip": [
                 "::1",
                 "127.0.0.1",
