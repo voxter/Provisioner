@@ -6,7 +6,7 @@
 
     "paths": {
         "endpoint": "/endpoint/",
-        "firmwares": "http://p.wikibuli.mobi/firmware/"
+        "firmwares": "http://p.yulvoip.ca/firmware/"
     },
 
     "database": {
@@ -14,16 +14,16 @@
         "url": "localhost",
         "port": 15984,
         "username": "couchadmin",
-        "password": "sp4r3s0m3ch4ng3",
+        "password": "4dm1nc0uch13",
         "master_provider": {
-            "name": "Wikibuli",
+            "name": "Yulvoip",
             "ip": [
                 "::1",
                 "127.0.0.1",
-		            "208.169.81.217",
-                "208.169.81.218"
+		            "198.50.213.2",
+                "192.99.156.102"
             ],
-            "domain": "p.wikibuli.mobi"
+            "domain": "p.yulvoip.ca"
         }
     }
 }
