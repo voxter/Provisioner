@@ -1,0 +1,16 @@
+{
+    "701": {
+        "folder": "ht",
+        "config_files": [
+            "cfg$mac",
+            "cfg$mac.xml",
+            "ht701fw.bin"
+        ],
+        "regexs": [
+            "/cfg([0-9a-f]{12})$/i",
+            "/cfg([0-9a-f]{12})\\.xml$/i",
+            "/ht701fw.bin"
+        ]
+    }
+
+}

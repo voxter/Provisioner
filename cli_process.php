@@ -12,7 +12,7 @@
 
 // Just to be sure
 set_time_limit(5);
-date_default_timezone_set('America/Los_Angeles');
+date_default_timezone_set('America/Toronto');
 
 require_once 'bootstrap.php' ;
 require_once LIB_BASE . 'KLogger.php';

@@ -34,16 +34,16 @@
         <Outbound_Proxy_{{ x }}_ ua="na"></Outbound_Proxy_{{ x }}_>
         <Register_Expires_{{ x }}_ ua="ro">{{ line.expire|default('60') }}</Register_Expires_{{ x }}_>
         <Ans_Call_Without_Reg_{{ x }}_ ua="na">No</Ans_Call_Without_Reg_{{ x }}_>
-        <Use_DNS_SRV_{{ x }}_ ua="rw">No</Use_DNS_SRV_{{ x }}_>
+        <Use_DNS_SRV_{{ x }}_ ua="rw">Yes</Use_DNS_SRV_{{ x }}_>
         <DNS_SRV_Auto_Prefix_{{ x }}_ ua="rw">Yes</DNS_SRV_Auto_Prefix_{{ x }}_>
         <Proxy_Fallback_Intvl_{{ x }}_ ua="ro">120</Proxy_Fallback_Intvl_{{ x }}_>
         <Proxy_Redundancy_Method_{{ x }}_ ua="ro">Normal</Proxy_Redundancy_Method_{{ x }}_>
 
         <!-- Adjust the codecs and configure T.38-->
-        <Preferred_Codec_{{ x }}_>G711u</Preferred_Codec_{{ x }}_>
-        <Second_Preferred_Codec_{{ x }}_>G729a</Second_Preferred_Codec_{{ x }}_>
+        <Preferred_Codec_{{ x }}_>G729a</Preferred_Codec_{{ x }}_>
+        <Second_Preferred_Codec_{{ x }}_>Unspecified</Second_Preferred_Codec_{{ x }}_>
         <Third_Preferred_Codec_{{ x }}_>Unspecified</Third_Preferred_Codec_{{ x }}_>
-        <Use_Pref_Codec_Only_{{ x }}_>No</Use_Pref_Codec_Only_{{ x }}_>
+        <Use_Pref_Codec_Only_{{ x }}_>Yes</Use_Pref_Codec_Only_{{ x }}_>
         <Echo_Canc_Enable_{{ x }}_>Yes</Echo_Canc_Enable_{{ x }}_>
         <Echo_Supp_Enable_{{ x }}_>Yes</Echo_Supp_Enable_{{ x }}_>
         <Echo_Canc_Adapt_Enable_{{ x }}_>Yes</Echo_Canc_Adapt_Enable_{{ x }}_>
@@ -58,7 +58,7 @@
         <FAX_T38_Redundancy_{{ x }}_>1</FAX_T38_Redundancy_{{ x }}_>
         <FAX_T38_ECM_Enable_{{ x }}_>No</FAX_T38_ECM_Enable_{{ x }}_>
         <FAX_Tone_Detect_Mode_{{ x }}_>caller or callee</FAX_Tone_Detect_Mode_{{ x }}_>
-        <Network_Jitter_Level_{{ x }}_>high</Network_Jitter_Level_{{ x }}_>
+        <Network_Jitter_Level_{{ x }}_>very high</Network_Jitter_Level_{{ x }}_>
 
         <XML_Directory_Service_Name ua="na">{{ line.username }} directory</XML_Directory_Service_Name>
         <XML_Directory_Service_URL ua="na">{{ provisioning_url }}directory-$MA.xml</XML_Directory_Service_URL>
@@ -135,5 +135,4 @@
         <Speed_Dial_7 ua="rw"></Speed_Dial_7>
         <Speed_Dial_8 ua="rw"></Speed_Dial_8>
         <Speed_Dial_9 ua="rw"></Speed_Dial_9>
-
 </flat-profile>

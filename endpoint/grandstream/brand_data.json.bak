@@ -1,0 +1,42 @@
+{
+    "701": {
+        "folder": "ht",
+        "config_files": [
+            "cfg$mac",
+            "cfg$mac.xml"
+        ],
+        "regexs": [
+            "/cfg([0-9a-f]{12})/i",
+            "/cfg([0-9a-f]{12})\\.xml$/i"
+        ]
+%%    },
+
+%%    "702": {
+%%        "folder": "ht",
+%%        "config_files": [
+%%            "y0000000000$suffix.cfg",
+%%            "$mac.cfg",
+%%            "phonebook1.xml"
+%%        ],
+%%        "regexs": [
+%%            "/y0000000000[0-9]{2}\\.cfg$/i" ,
+%%            "/([0-9a-f]{12})\\.cfg$/i",
+%%            "/phonebook1\\.xml/i"
+%%        ]
+%%    },
+
+%%    "503": {
+%%        "folder": "ht",
+%%        "config_files": [
+%%            "y0000000000$suffix.cfg",
+%%            "$mac.cfg",
+%%            "phonebook1.xml"
+%%        ],
+%%        "regexs": [
+%%            "/y0000000000[0-9]{2}\\.cfg$/i" ,
+%%            "/([0-9a-f]{12})\\.cfg$/i",
+%%            "/phonebook1\\.xml/i"
+%%        ]
+    }
+
+}
