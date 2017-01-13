@@ -1,7 +1,0 @@
-0420033516|log  |4|03|UtilLogC: Upload succeeded. (ConsecutiveFailures 4 Total 5 MsgSendErr 0)
-0420125538|app1 |*|03|Ctx [0] Registered [false]
-0420125700|app1 |*|03|Ctx [0] Registered [true]
-0420130159|app1 |*|03|Ctx [0] Registered [false]
-0420130242|app1 |*|03|Ctx [0] Registered [true]
-0420182241|sip  |4|03|NAPTR query for host 'cumulus.voxter.sip.voxter.com' returned no results
-0421163440|sip  |4|03|NAPTR query for host 'cumulus.voxter.sip.voxter.com' returned no results

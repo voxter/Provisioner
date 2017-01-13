@@ -1,8 +1,0 @@
-0419144013|ares |4|03|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 0 sec
-0419151214|ares |4|03|aresDnsLookup: select time-out 1 on A lookup for 'sbc01.van1.voxter.net.' after 1 sec
-0419151216|ares |4|03|aresDnsLookup: select time-out 2 on A lookup for 'sbc01.van1.voxter.net.' after 2 sec
-0419182417|sip  |4|03|NAPTR query for host 'wctoffice.westcoasttelecom.sip.voxter.com' returned no results
-0420014022|sip  |4|03|Registration failed User: 101, Error Code:401 Unauthorized
-0420125809|app1 |*|03|Ctx [0] Registered [false]
-0420130002|app1 |*|03|Ctx [0] Registered [true]
-0420160003|sip  |4|03|NAPTR query for host 'wctoffice.westcoasttelecom.sip.voxter.com' returned no results

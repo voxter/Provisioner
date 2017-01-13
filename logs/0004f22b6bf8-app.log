@@ -1,5 +1,0 @@
-0420031247|sip  |4|03|NAPTR query for host 'minniclarkco.voxter.sip.voxter.com' returned no results
-0420125658|sip  |4|03|Registration failed User: 7012, Error Code:401 Unauthorized
-0420125748|app1 |*|03|Ctx [0] Registered [false]
-0420125822|app1 |*|03|Ctx [0] Registered [true]
-0421011023|sip  |4|03|NAPTR query for host 'minniclarkco.voxter.sip.voxter.com' returned no results
