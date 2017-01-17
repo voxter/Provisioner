@@ -10,9 +10,12 @@
  * @version 5.0
  */
 
-require_once 'lib/php_on_couch/couch.php';
-require_once 'lib/php_on_couch/couchClient.php';
-require_once 'lib/php_on_couch/couchDocument.php';
+require_once 'lib/PHP-on-Couch/src/Couch.php';
+require_once 'lib/PHP-on-Couch/src/CouchClient.php';
+require_once 'lib/PHP-on-Couch/src/Exceptions/CouchException.php';
+require_once 'lib/PHP-on-Couch/src/Exceptions/CouchNotFoundException.php';
+
+use PHPOnCouch\CouchClient;
 
 class BigCouch {
     private $_server_url = null;
@@ -51,7 +54,7 @@ class BigCouch {
     // Set the database for the current client
     private function _set_client($database) {
         $database = DB_PREFIX . $database;
-        $this->_couch_client = new couchClient($this->_server_url, $database);
+        $this->_couch_client = new CouchClient($this->_server_url, $database);
     }
 
     // Will retrieve a single document
@@ -127,7 +130,7 @@ class BigCouch {
     public function isDBexist($db) {
         $db = DB_PREFIX . $db;
         // I think it is better to create a new client instead of changing the current one
-        $client = new couchClient($this->_server_url, $db);
+        $client = new CouchClient($this->_server_url, $db);
         if ($client->databaseExists())
             return true;
         else 
