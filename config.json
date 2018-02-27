@@ -11,7 +11,7 @@
 
     "database": {
         "type": "bigcouch",
-        "url": "http://couchadmin:sp4r3ch4ng3@localhost",
+        "url": "http://localhost",
         "port": 15984,
 
         "master_provider": {

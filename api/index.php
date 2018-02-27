@@ -9,7 +9,7 @@
  * @version 5.0
  */
 
-define('DB_SERVER', 'http://couchadmin:sp4r3ch4ng3@localhost');
+define('DB_SERVER', 'http://localhost');
 define('DB_PORT', '15984');
 define('DB_PREFIX', 'provisioner_');
 
