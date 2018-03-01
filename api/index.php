@@ -30,6 +30,7 @@ $r->setSupportedFormats('JsonFormat', 'UploadFormat');
 $r->addAPIClass('phones');
 $r->addAPIClass('providers');
 $r->addAPIClass('accounts');
+$r->addAPIClass('macaddresses');
 $r->addAuthenticationClass('AccessControl');
 $r->handle();
 
