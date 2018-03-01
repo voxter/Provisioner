@@ -6,4 +6,5 @@ logs/log*
 api/logs/log*
 
 .DS_Store
+._.DS_Store
 /nbproject/private/
