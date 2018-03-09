@@ -16,7 +16,6 @@ RewriteRule ^(.*)$ cli_process.php [L]
 	<Files sip.cfg>
 		AddType application/xml .cfg
 		ForceType application/xml
-		DefaultType application/xml
 	</Files>
 
 <Files config.json>

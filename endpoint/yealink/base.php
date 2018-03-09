@@ -19,7 +19,8 @@ class endpoint_yealink_base extends endpoint_base {
         $constants = $this->config_manager->get_constants();
         $settings = $this->config_manager->get_settings();
 
-        if (array_key_exists('timezone', $settings))
+        if (array_key_exists('timezone', $settings) &&
+            array_key_exists($settings['timezone'], $constants['timezone_lookup']))
             $settings['timezone'] = $constants['timezone_lookup'][$settings['timezone']];
 
         // Codecs

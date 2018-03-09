@@ -42,7 +42,7 @@ class wrapper_bigcouch {
         if (strlen($server_url))
             $this->_server_url = $server_url . ':' . $port;
 
-        if (strlen($this->_settings->database->username) && strlen($this->_settings->database->password)) {
+        if (isset($this->_settings->database->username) && isset($this->_settings->database->password)) {
             $this->_server_url = str_replace('http://', '', $this->_server_url);
             $credentials = $this->_settings->database->username . ':' . $this->_settings->database->password . '@';
             $this->_server_url = 'http://' . $credentials . $this->_server_url;

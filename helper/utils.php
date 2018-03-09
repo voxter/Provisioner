@@ -94,6 +94,10 @@ class helper_utils {
 
     public static function get_folder($brand, $model) {
         $brand_data = helper_utils::_get_brand_data($brand);
+
+        if(!isset($brand_data[$model])) {
+            return null;
+        }
         return $brand_data[$model]["folder"];
     }
 
