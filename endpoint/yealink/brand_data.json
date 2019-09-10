@@ -27,6 +27,20 @@
         ]
     },
 
+    "t21": {
+        "folder": "t2x",
+        "config_files": [
+            "y0000000000$suffix.cfg",
+            "$mac.cfg",
+            "phonebook1.xml"
+        ],
+        "regexs": [
+            "/y0000000000[0-9]{2}\\.cfg$/i" ,
+            "/([0-9a-f]{12})\\.cfg$/i",
+            "/phonebook1\\.xml/i"
+        ]
+    },
+
     "t22": {
         "folder": "t2x",
         "config_files": [
